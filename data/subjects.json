@@ -1,28 +1,70 @@
 [
   {
     "code": "MAT",
-    "title": "Математика",
+    "title": "Matematyka",
     "icon": "📐",
     "color": "#4A90E2"
   },
 
   {
     "code": "POL",
-    "title": "Польский",
+    "title": "Język polski",
     "icon": "📚",
     "color": "#9B59B6"
   },
 
   {
     "code": "HIS",
-    "title": "История",
+    "title": "Historia",
     "icon": "🏰",
     "color": "#E67E22"
   },
   {
     "code": "PRZ",
-    "title": "Природа",
+    "title": "Przyroda",
     "icon": "🌳",
     "color": "#7CB342"
+  },
+  {
+    "code": "INF",
+    "title": "Informatyka",
+    "icon": "💻",
+    "color": "#546E7A"
+  },
+  {
+    "code": "ANG",
+    "title": "Język angielski",
+    "icon": "🇬🇧",
+    "color": "#E53935"
+  },
+  {
+    "code": "TEC",
+    "title": "Technika",
+    "icon": "🔧",
+    "color": "#607D8B"
+  },
+  {
+    "code": "GEO",
+    "title": "География",
+    "icon": "🌍",
+    "color": "#43A047"
+  },
+  {
+    "code": "BIO",
+    "title": "Биология",
+    "icon": "🧬",
+    "color": "#009688"
+  },
+  {
+    "code": "FIZ",
+    "title": "Физика",
+    "icon": "⚡",
+    "color": "#FF9800"
+  },
+  {
+    "code": "CHE",
+    "title": "Химия",
+    "icon": "🧪",
+    "color": "#00BCD4"
   }
 ]

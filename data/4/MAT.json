@@ -1,21 +1,476 @@
 [
-  {
-    "id": "MAT4-UZ-001",
-    "book": "Matematyka z Plusem",
-    "section": "Обычные дроби",
-    "title_pl": "Licznik i mianownik",
-    "title_ua": "Чисельник і знаменник",
-    "status": "READY",
-    "repo": "MAT4-UZ-001"
-  },
+{
+"id": "MAT4-LN-001",
+"book": "Matematyka z kluczem - część 1",
+"section": "DZIAŁ 1. Liczby naturalne - część 1",
+"title_pl": "Oś liczbowa",
+"title_ua": "Числова вісь",
+"status": "PLAN",
+"repo": "MAT4-LN-001"
+},
+{
+"id": "MAT4-LN-002",
+"book": "Matematyka z kluczem - część 1",
+"section": "DZIAŁ 1. Liczby naturalne - część 1",
+"title_pl": "Jak zapisujemy liczby",
+"title_ua": "Як записуємо числа",
+"status": "PLAN",
+"repo": "MAT4-LN-002"
+},
+{
+"id": "MAT4-LN-003",
+"book": "Matematyka z kluczem - część 1",
+"section": "DZIAŁ 1. Liczby naturalne - część 1",
+"title_pl": "Szybkie dodawanie",
+"title_ua": "Швидке додавання",
+"status": "PLAN",
+"repo": "MAT4-LN-003"
+},
+{
+"id": "MAT4-LN-004",
+"book": "Matematyka z kluczem - część 1",
+"section": "DZIAŁ 1. Liczby naturalne - część 1",
+"title_pl": "Szybkie odejmowanie",
+"title_ua": "Швидке віднімання",
+"status": "PLAN",
+"repo": "MAT4-LN-004"
+},
+{
+"id": "MAT4-LN-005",
+"book": "Matematyka z kluczem - część 1",
+"section": "DZIAŁ 1. Liczby naturalne - część 1",
+"title_pl": "Tabliczka mnożenia",
+"title_ua": "Таблиця множення",
+"status": "PLAN",
+"repo": "MAT4-LN-005"
+},
+{
+"id": "MAT4-LN-006",
+"book": "Matematyka z kluczem - część 1",
+"section": "DZIAŁ 1. Liczby naturalne - część 1",
+"title_pl": "Tabliczka dzielenia",
+"title_ua": "Таблиця ділення",
+"status": "PLAN",
+"repo": "MAT4-LN-006"
+},
+{
+"id": "MAT4-LN-007",
+"book": "Matematyka z kluczem - część 1",
+"section": "DZIAŁ 1. Liczby naturalne - część 1",
+"title_pl": "Dzielenie z resztą. Podzielność liczb",
+"title_ua": "Ділення з остачею. Подільність чисел",
+"status": "PLAN",
+"repo": "MAT4-LN-007"
+},
+{
+"id": "MAT4-LN-008",
+"book": "Matematyka z kluczem - część 1",
+"section": "DZIAŁ 1. Liczby naturalne - część 1",
+"title_pl": "Mnożenie i dzielenie po kawałku",
+"title_ua": "Множення і ділення частинами",
+"status": "PLAN",
+"repo": "MAT4-LN-008"
+},
+{
+"id": "MAT4-LN-009",
+"book": "Matematyka z kluczem - część 1",
+"section": "DZIAŁ 1. Liczby naturalne - część 1",
+"title_pl": "Zadanie tekstowe",
+"title_ua": "Текстова задача",
+"status": "PLAN",
+"repo": "MAT4-LN-009"
+},
 
-  {
-    "id": "MAT4-UZ-002",
-    "book": "Matematyka z Plusem",
-    "section": "Обычные дроби",
-    "title_pl": "Porównywanie ułamków",
-    "title_ua": "Порівняння дробів",
-    "status": "PLAN",
-    "repo": "MAT4-UZ-002"
-  }
+{
+"id": "MAT4-LN-010",
+"book": "Matematyka z kluczem - część 1",
+"section": "DZIAŁ 2. Liczby naturalne - część 2",
+"title_pl": "Zegary",
+"title_ua": "Годинники",
+"status": "PLAN",
+"repo": "MAT4-LN-010"
+},
+{
+"id": "MAT4-LN-011",
+"book": "Matematyka z kluczem - część 1",
+"section": "DZIAŁ 2. Liczby naturalne - część 2",
+"title_pl": "Kalendarz",
+"title_ua": "Календар",
+"status": "PLAN",
+"repo": "MAT4-LN-011"
+},
+{
+"id": "MAT4-LN-012",
+"book": "Matematyka z kluczem - część 1",
+"section": "DZIAŁ 2. Liczby naturalne - część 2",
+"title_pl": "Podnoszenie do potęgi drugiej i trzeciej",
+"title_ua": "Піднесення до квадрату і кубу",
+"status": "PLAN",
+"repo": "MAT4-LN-012"
+},
+{
+"id": "MAT4-LN-013",
+"book": "Matematyka z kluczem - część 1",
+"section": "DZIAŁ 2. Liczby naturalne - część 2",
+"title_pl": "Podzielność przez 10, 5 i 2",
+"title_ua": "Подільність на 10, 5 і 2",
+"status": "PLAN",
+"repo": "MAT4-LN-013"
+},
+{
+"id": "MAT4-LN-014",
+"book": "Matematyka z kluczem - część 1",
+"section": "DZIAŁ 2. Liczby naturalne - część 2",
+"title_pl": "Podzielność przez 9 i 3",
+"title_ua": "Подільність на 9 і 3",
+"status": "PLAN",
+"repo": "MAT4-LN-014"
+},
+{
+"id": "MAT4-LN-015",
+"book": "Matematyka z kluczem - część 1",
+"section": "DZIAŁ 2. Liczby naturalne - część 2",
+"title_pl": "Kolejność wykonywania działań",
+"title_ua": "Порядок виконання дій",
+"status": "PLAN",
+"repo": "MAT4-LN-015"
+},
+{
+"id": "MAT4-LN-016",
+"book": "Matematyka z kluczem - część 1",
+"section": "DZIAŁ 2. Liczby naturalne - część 2",
+"title_pl": "Mnożenie i dzielenie liczb z zerami na końcu",
+"title_ua": "Множення і ділення чисел із нулями в кінці",
+"status": "PLAN",
+"repo": "MAT4-LN-016"
+},
+{
+"id": "MAT4-LN-017",
+"book": "Matematyka z kluczem - część 1",
+"section": "DZIAŁ 2. Liczby naturalne - część 2",
+"title_pl": "Szacowanie",
+"title_ua": "Оцінювання",
+"status": "PLAN",
+"repo": "MAT4-LN-017"
+},
+
+{
+"id": "MAT4-DP-018",
+"book": "Matematyka z kluczem - część 1",
+"section": "DZIAŁ 3. Działania pisemne",
+"title_pl": "Dodawanie pisemne",
+"title_ua": "Письмове додавання",
+"status": "PLAN",
+"repo": "MAT4-DP-018"
+},
+{
+"id": "MAT4-DP-019",
+"book": "Matematyka z kluczem - część 1",
+"section": "DZIAŁ 3. Działania pisemne",
+"title_pl": "Odejmowanie pisemne",
+"title_ua": "Письмове віднімання",
+"status": "PLAN",
+"repo": "MAT4-DP-019"
+},
+{
+"id": "MAT4-DP-020",
+"book": "Matematyka z kluczem - część 1",
+"section": "DZIAŁ 3. Działania pisemne",
+"title_pl": "Mnożenie pisemne przez liczby jednocyfrowe",
+"title_ua": "Письмове множення на одноцифрові числа",
+"status": "PLAN",
+"repo": "MAT4-DP-020"
+},
+{
+"id": "MAT4-DP-021",
+"book": "Matematyka z kluczem - część 1",
+"section": "DZIAŁ 3. Działania pisemne",
+"title_pl": "Mnożenie pisemne przez liczby wielocyfrowe",
+"title_ua": "Письмове множення на багатоцифрові числа",
+"status": "PLAN",
+"repo": "MAT4-DP-021"
+},
+{
+"id": "MAT4-DP-022",
+"book": "Matematyka z kluczem - część 1",
+"section": "DZIAŁ 3. Działania pisemne",
+"title_pl": "Jak usprawnić mnożenie pisemne",
+"title_ua": "Як пришвидшити письмове множення",
+"status": "PLAN",
+"repo": "MAT4-DP-022"
+},
+{
+"id": "MAT4-DP-023",
+"book": "Matematyka z kluczem - część 1",
+"section": "DZIAŁ 3. Działania pisemne",
+"title_pl": "Dzielenie pisemne",
+"title_ua": "Письмове ділення",
+"status": "PLAN",
+"repo": "MAT4-DP-023"
+},
+{
+"id": "MAT4-FG1-024",
+"book": "Matematyka z kluczem - część 2",
+"section": "DZIAŁ 4. Figury geometryczne - część 1",
+"title_pl": "Proste, odcinki i punkty",
+"title_ua": "Прямі, відрізки і точки",
+"status": "PLAN",
+"repo": "MAT4-FG1-024"
+},
+{
+"id": "MAT4-FG1-025",
+"book": "Matematyka z kluczem - część 2",
+"section": "DZIAŁ 4. Figury geometryczne - część 1",
+"title_pl": "Mierzenie",
+"title_ua": "Вимірювання",
+"status": "PLAN",
+"repo": "MAT4-FG1-025"
+},
+{
+"id": "MAT4-FG1-026",
+"book": "Matematyka z kluczem - część 2",
+"section": "DZIAŁ 4. Figury geometryczne - część 1",
+"title_pl": "Prostokąty i kwadraty",
+"title_ua": "Прямокутники і квадрати",
+"status": "PLAN",
+"repo": "MAT4-FG1-026"
+},
+{
+"id": "MAT4-FG1-027",
+"book": "Matematyka z kluczem - część 2",
+"section": "DZIAŁ 4. Figury geometryczne - część 1",
+"title_pl": "Wielokąty",
+"title_ua": "Многокутники",
+"status": "PLAN",
+"repo": "MAT4-FG1-027"
+},
+{
+"id": "MAT4-FG1-028",
+"book": "Matematyka z kluczem - część 2",
+"section": "DZIAŁ 4. Figury geometryczne - część 1",
+"title_pl": "Różne jednostki długości",
+"title_ua": "Різні одиниці довжини",
+"status": "PLAN",
+"repo": "MAT4-FG1-028"
+},
+{
+"id": "MAT4-FG1-029",
+"book": "Matematyka z kluczem - część 2",
+"section": "DZIAŁ 4. Figury geometryczne - część 1",
+"title_pl": "Obwód wielokąta",
+"title_ua": "Периметр многокутника",
+"status": "PLAN",
+"repo": "MAT4-FG1-029"
+},
+{
+"id": "MAT4-FG1-030",
+"book": "Matematyka z kluczem - część 2",
+"section": "DZIAŁ 4. Figury geometryczne - część 1",
+"title_pl": "Figury symetryczne",
+"title_ua": "Симетричні фігури",
+"status": "PLAN",
+"repo": "MAT4-FG1-030"
+},
+{
+"id": "MAT4-FG1-031",
+"book": "Matematyka z kluczem - część 2",
+"section": "DZIAŁ 4. Figury geometryczne - część 1",
+"title_pl": "Koła i okręgi",
+"title_ua": "Кола і окружності",
+"status": "PLAN",
+"repo": "MAT4-FG1-031"
+},
+{
+"id": "MAT4-FG1-032",
+"book": "Matematyka z kluczem - część 2",
+"section": "DZIAŁ 4. Figury geometryczne - część 1",
+"title_pl": "Skala",
+"title_ua": "Масштаб",
+"status": "PLAN",
+"repo": "MAT4-FG1-032"
+},
+{
+"id": "MAT4-FG1-033",
+"book": "Matematyka z kluczem - część 2",
+"section": "DZIAŁ 4. Figury geometryczne - część 1",
+"title_pl": "Mapa i plan",
+"title_ua": "Карта і план",
+"status": "PLAN",
+"repo": "MAT4-FG1-033"
+},
+
+{
+"id": "MAT4-UZ-034",
+"book": "Matematyka z kluczem - część 2",
+"section": "DZIAŁ 5. Ułamki zwykłe",
+"title_pl": "Ułamek jako część całości",
+"title_ua": "Дріб як частина цілого",
+"status": "PLAN",
+"repo": "MAT4-UZ-034"
+},
+{
+"id": "MAT4-UZ-035",
+"book": "Matematyka z kluczem - część 2",
+"section": "DZIAŁ 5. Ułamki zwykłe",
+"title_pl": "Porównywanie niektórych ułamków",
+"title_ua": "Порівняння деяких дробів",
+"status": "PLAN",
+"repo": "MAT4-UZ-035"
+},
+{
+"id": "MAT4-UZ-036",
+"book": "Matematyka z kluczem - część 2",
+"section": "DZIAŁ 5. Ułamki zwykłe",
+"title_pl": "Skracanie i rozszerzanie ułamków",
+"title_ua": "Скорочення та розширення дробів",
+"status": "PLAN",
+"repo": "MAT4-UZ-036"
+},
+{
+"id": "MAT4-UZ-037",
+"book": "Matematyka z kluczem - część 2",
+"section": "DZIAŁ 5. Ułamki zwykłe",
+"title_pl": "Liczby mieszane",
+"title_ua": "Мішані числа",
+"status": "PLAN",
+"repo": "MAT4-UZ-037"
+},
+{
+"id": "MAT4-UZ-038",
+"book": "Matematyka z kluczem - część 2",
+"section": "DZIAŁ 5. Ułamki zwykłe",
+"title_pl": "Ułamek jako iloraz",
+"title_ua": "Дріб як частка",
+"status": "PLAN",
+"repo": "MAT4-UZ-038"
+},
+{
+"id": "MAT4-UZ-039",
+"book": "Matematyka z kluczem - część 2",
+"section": "DZIAŁ 5. Ułamki zwykłe",
+"title_pl": "Dodawanie i odejmowanie ułamków",
+"title_ua": "Додавання і віднімання дробів",
+"status": "PLAN",
+"repo": "MAT4-UZ-039"
+},
+{
+"id": "MAT4-UZ-040",
+"book": "Matematyka z kluczem - część 2",
+"section": "DZIAŁ 5. Ułamki zwykłe",
+"title_pl": "Mnożenie ułamka przez liczbę naturalną",
+"title_ua": "Множення дробу на натуральне число",
+"status": "PLAN",
+"repo": "MAT4-UZ-040"
+},
+
+{
+"id": "MAT4-UD-041",
+"book": "Matematyka z kluczem - część 2",
+"section": "DZIAŁ 6. Ułamki dziesiętne",
+"title_pl": "Ułamek dziesiętny",
+"title_ua": "Десятковий дріб",
+"status": "PLAN",
+"repo": "MAT4-UD-041"
+},
+{
+"id": "MAT4-UD-042",
+"book": "Matematyka z kluczem - część 2",
+"section": "DZIAŁ 6. Ułamki dziesiętne",
+"title_pl": "Porównywanie ułamków dziesiętnych",
+"title_ua": "Порівняння десяткових дробів",
+"status": "PLAN",
+"repo": "MAT4-UD-042"
+},
+{
+"id": "MAT4-UD-043",
+"book": "Matematyka z kluczem - część 2",
+"section": "DZIAŁ 6. Ułamki dziesiętne",
+"title_pl": "Zamiana ułamków",
+"title_ua": "Перетворення дробів",
+"status": "PLAN",
+"repo": "MAT4-UD-043"
+},
+{
+"id": "MAT4-UD-044",
+"book": "Matematyka z kluczem - część 2",
+"section": "DZIAŁ 6. Ułamki dziesiętne",
+"title_pl": "Dodawanie ułamków dziesiętnych",
+"title_ua": "Додавання десяткових дробів",
+"status": "PLAN",
+"repo": "MAT4-UD-044"
+},
+{
+"id": "MAT4-UD-045",
+"book": "Matematyka z kluczem - część 2",
+"section": "DZIAŁ 6. Ułamki dziesiętne",
+"title_pl": "Odejmowanie ułamków dziesiętnych",
+"title_ua": "Віднімання десяткових дробів",
+"status": "PLAN",
+"repo": "MAT4-UD-045"
+},
+{
+"id": "MAT4-UD-046",
+"book": "Matematyka z kluczem - część 2",
+"section": "DZIAŁ 6. Ułamki dziesiętne",
+"title_pl": "Mnożenie i dzielenie przez 10, 100, 1000",
+"title_ua": "Множення і ділення на 10, 100, 1000",
+"status": "PLAN",
+"repo": "MAT4-UD-046"
+},
+
+{
+"id": "MAT4-FG2-047",
+"book": "Matematyka z kluczem - część 2",
+"section": "DZIAŁ 7. Figury geometryczne - część 2",
+"title_pl": "Pola figur płaskich",
+"title_ua": "Площі плоских фігур",
+"status": "PLAN",
+"repo": "MAT4-FG2-047"
+},
+{
+"id": "MAT4-FG2-048",
+"book": "Matematyka z kluczem - część 2",
+"section": "DZIAŁ 7. Figury geometryczne - część 2",
+"title_pl": "Jednostki pola",
+"title_ua": "Одиниці площі",
+"status": "PLAN",
+"repo": "MAT4-FG2-048"
+},
+{
+"id": "MAT4-FG2-049",
+"book": "Matematyka z kluczem - część 2",
+"section": "DZIAŁ 7. Figury geometryczne - część 2",
+"title_pl": "Pole prostokąta",
+"title_ua": "Площа прямокутника",
+"status": "PLAN",
+"repo": "MAT4-FG2-049"
+},
+{
+"id": "MAT4-FG2-050",
+"book": "Matematyka z kluczem - część 2",
+"section": "DZIAŁ 7. Figury geometryczne - część 2",
+"title_pl": "Prostopadłościan i sześcian",
+"title_ua": "Прямокутний паралелепіпед і куб",
+"status": "PLAN",
+"repo": "MAT4-FG2-050"
+},
+{
+"id": "MAT4-FG2-051",
+"book": "Matematyka z kluczem - część 2",
+"section": "DZIAŁ 7. Figury geometryczne - część 2",
+"title_pl": "Różne bryły",
+"title_ua": "Різні геометричні тіла",
+"status": "PLAN",
+"repo": "MAT4-FG2-051"
+},
+{
+"id": "MAT4-FG2-052",
+"book": "Matematyka z kluczem - część 2",
+"section": "DZIAŁ 7. Figury geometryczne - część 2",
+"title_pl": "Objętość",
+"title_ua": "Об'єм",
+"status": "PLAN",
+"repo": "MAT4-FG2-052"
+}
+
 ]

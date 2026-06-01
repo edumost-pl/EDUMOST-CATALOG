@@ -1,0 +1,738 @@
+[
+{
+"id": "POL4-WP-001",
+"book": "Polski 4",
+"section": "Wśród znajomych i przyjaciół",
+"title_pl": "Tacy jesteśmy",
+"status": "PLAN",
+"repo": "POL4-WP-001"
+},
+{
+"id": "POL4-WP-002",
+"book": "Polski 4",
+"section": "Wśród znajomych i przyjaciół",
+"title_pl": "Rozpoczęcie roku szkolnego",
+"status": "PLAN",
+"repo": "POL4-WP-002"
+},
+{
+"id": "POL4-WP-003",
+"book": "Polski 4",
+"section": "Wśród znajomych i przyjaciół",
+"title_pl": "W sekretariacie szkoły. Głoska a litera",
+"status": "PLAN",
+"repo": "POL4-WP-003"
+},
+{
+"id": "POL4-WP-004",
+"book": "Polski 4",
+"section": "Wśród znajomych i przyjaciół",
+"title_pl": "Wakacje",
+"status": "PLAN",
+"repo": "POL4-WP-004"
+},
+{
+"id": "POL4-WP-005",
+"book": "Polski 4",
+"section": "Wśród znajomych i przyjaciół",
+"title_pl": "U lekarza. Samogłoski i spółgłoski",
+"status": "PLAN",
+"repo": "POL4-WP-005"
+},
+{
+"id": "POL4-WP-006",
+"book": "Polski 4",
+"section": "Wśród znajomych i przyjaciół",
+"title_pl": "Pamiątka z wakacji",
+"status": "PLAN",
+"repo": "POL4-WP-006"
+},
+{
+"id": "POL4-WP-007",
+"book": "Polski 4",
+"section": "Wśród znajomych i przyjaciół",
+"title_pl": "Samotnie w lesie",
+"status": "PLAN",
+"repo": "POL4-WP-007"
+},
+{
+"id": "POL4-WP-008",
+"book": "Polski 4",
+"section": "Wśród znajomych i przyjaciół",
+"title_pl": "Nad morzem. Pisownia rz wymiennego",
+"status": "PLAN",
+"repo": "POL4-WP-008"
+},
+{
+"id": "POL4-WP-009",
+"book": "Polski 4",
+"section": "Wśród znajomych i przyjaciół",
+"title_pl": "Jak to przekazać?",
+"status": "PLAN",
+"repo": "POL4-WP-009"
+},
+{
+"id": "POL4-WP-010",
+"book": "Polski 4",
+"section": "Wśród znajomych i przyjaciół",
+"title_pl": "Pierwsze spotkanie",
+"status": "PLAN",
+"repo": "POL4-WP-010"
+},
+{
+"id": "POL4-WP-011",
+"book": "Polski 4",
+"section": "Wśród znajomych i przyjaciół",
+"title_pl": "Powitanie",
+"status": "PLAN",
+"repo": "POL4-WP-011"
+},
+{
+"id": "POL4-WP-012",
+"book": "Polski 4",
+"section": "Wśród znajomych i przyjaciół",
+"title_pl": "Przepraszam, smoku",
+"status": "PLAN",
+"repo": "POL4-WP-012"
+},
+{
+"id": "POL4-WP-013",
+"book": "Polski 4",
+"section": "Wśród znajomych i przyjaciół",
+"title_pl": "Pocztówka od przyjaciół. Pisownia ó wymiennego",
+"status": "PLAN",
+"repo": "POL4-WP-013"
+},
+{
+"id": "POL4-WP-014",
+"book": "Polski 4",
+"section": "Wśród znajomych i przyjaciół",
+"title_pl": "U nas w Ammerlo",
+"status": "PLAN",
+"repo": "POL4-WP-014"
+},
+{
+"id": "POL4-WP-015",
+"book": "Polski 4",
+"section": "Wśród znajomych i przyjaciół",
+"title_pl": "Paczka",
+"status": "PLAN",
+"repo": "POL4-WP-015"
+},
+{
+"id": "POL4-WP-016",
+"book": "Polski 4",
+"section": "Wśród znajomych i przyjaciół",
+"title_pl": "Baśń o kocie w butach",
+"status": "PLAN",
+"repo": "POL4-WP-016"
+},
+{
+"id": "POL4-WP-017",
+"book": "Polski 4",
+"section": "Wśród znajomych i przyjaciół",
+"title_pl": "Piłka w grze",
+"status": "PLAN",
+"repo": "POL4-WP-017"
+},
+{
+"id": "POL4-WP-018",
+"book": "Polski 4",
+"section": "Wśród znajomych i przyjaciół",
+"title_pl": "Pomysł",
+"status": "PLAN",
+"repo": "POL4-WP-018"
+},
+{
+"id": "POL4-WP-019",
+"book": "Polski 4",
+"section": "Wśród znajomych i przyjaciół",
+"title_pl": "Pracujemy ze słownikami. Słownik ortograficzny",
+"status": "PLAN",
+"repo": "POL4-WP-019"
+},
+{
+"id": "POL4-WP-020",
+"book": "Polski 4",
+"section": "Wśród znajomych i przyjaciół",
+"title_pl": "Moje hobby, moja pasja",
+"status": "PLAN",
+"repo": "POL4-WP-020"
+},
+{
+"id": "POL4-WP-021",
+"book": "Polski 4",
+"section": "Wśród znajomych i przyjaciół",
+"title_pl": "Zoologiczny talent",
+"status": "PLAN",
+"repo": "POL4-WP-021"
+},
+{
+"id": "POL4-WP-022",
+"book": "Polski 4",
+"section": "Wśród znajomych i przyjaciół",
+"title_pl": "Obce słowa",
+"status": "PLAN",
+"repo": "POL4-WP-022"
+},
+{
+"id": "POL4-WP-023",
+"book": "Polski 4",
+"section": "Wśród znajomych i przyjaciół",
+"title_pl": "Fotografia nieba",
+"status": "PLAN",
+"repo": "POL4-WP-023"
+},
+{
+"id": "POL4-WP-024",
+"book": "Polski 4",
+"section": "Wśród znajomych i przyjaciół",
+"title_pl": "Portret dziewczynki w czerwonej sukience",
+"status": "PLAN",
+"repo": "POL4-WP-024"
+},
+{
+"id": "POL4-WP-025",
+"book": "Polski 4",
+"section": "Wśród znajomych i przyjaciół",
+"title_pl": "Przyjaciele",
+"status": "PLAN",
+"repo": "POL4-WP-025"
+},
+{
+"id": "POL4-WP-026",
+"book": "Polski 4",
+"section": "Wśród znajomych i przyjaciół",
+"title_pl": "Flexi – gwiazda z netu",
+"status": "PLAN",
+"repo": "POL4-WP-026"
+},
+{
+"id": "POL4-WP-027",
+"book": "Polski 4",
+"section": "Wśród znajomych i przyjaciół",
+"title_pl": "Nie każdy jest przyjacielem",
+"status": "PLAN",
+"repo": "POL4-WP-027"
+},
+{
+"id": "POL4-WS-001",
+"book": "Polski 4",
+"section": "W szkole",
+"title_pl": "Porozmawiajmy o szkole",
+"status": "PLAN",
+"repo": "POL4-WS-001"
+},
+{
+"id": "POL4-WS-002",
+"book": "Polski 4",
+"section": "W szkole",
+"title_pl": "Jak wygląda twoja szkoła?",
+"status": "PLAN",
+"repo": "POL4-WS-002"
+},
+{
+"id": "POL4-WS-003",
+"book": "Polski 4",
+"section": "W szkole",
+"title_pl": "Szkolny koncert. Sylaba i wyraz. Funkcje litery i w sylabie",
+"status": "PLAN",
+"repo": "POL4-WS-003"
+},
+{
+"id": "POL4-WS-004",
+"book": "Polski 4",
+"section": "W szkole",
+"title_pl": "Książka",
+"status": "PLAN",
+"repo": "POL4-WS-004"
+},
+{
+"id": "POL4-WS-005",
+"book": "Polski 4",
+"section": "W szkole",
+"title_pl": "Zmagania z niewidzialną siłą",
+"status": "PLAN",
+"repo": "POL4-WS-005"
+},
+{
+"id": "POL4-WS-006",
+"book": "Polski 4",
+"section": "W szkole",
+"title_pl": "Tablica ogłoszeń. Przenoszenie wyrazów",
+"status": "PLAN",
+"repo": "POL4-WS-006"
+},
+{
+"id": "POL4-WS-007",
+"book": "Polski 4",
+"section": "W szkole",
+"title_pl": "Tajemny szyfr",
+"status": "PLAN",
+"repo": "POL4-WS-007"
+},
+{
+"id": "POL4-WS-008",
+"book": "Polski 4",
+"section": "W szkole",
+"title_pl": "Piszemy wiadomości",
+"status": "PLAN",
+"repo": "POL4-WS-008"
+},
+{
+"id": "POL4-WS-009",
+"book": "Polski 4",
+"section": "W szkole",
+"title_pl": "W klasie",
+"status": "PLAN",
+"repo": "POL4-WS-009"
+},
+{
+"id": "POL4-WS-010",
+"book": "Polski 4",
+"section": "W szkole",
+"title_pl": "Potężna śnieżyca. Pisownia ż wymiennego",
+"status": "PLAN",
+"repo": "POL4-WS-010"
+},
+{
+"id": "POL4-WS-011",
+"book": "Polski 4",
+"section": "W szkole",
+"title_pl": "W różnych zakątkach świata",
+"status": "PLAN",
+"repo": "POL4-WS-011"
+},
+{
+"id": "POL4-WS-012",
+"book": "Polski 4",
+"section": "W szkole",
+"title_pl": "Dzieci z Czarnego Lądu",
+"status": "PLAN",
+"repo": "POL4-WS-012"
+},
+{
+"id": "POL4-WS-013",
+"book": "Polski 4",
+"section": "W szkole",
+"title_pl": "Ze słuchawką w uchu. Pisownia ch wymiennego",
+"status": "PLAN",
+"repo": "POL4-WS-013"
+},
+{
+"id": "POL4-WS-014",
+"book": "Polski 4",
+"section": "W szkole",
+"title_pl": "Ta oraz inne bajki",
+"status": "PLAN",
+"repo": "POL4-WS-014"
+},
+{
+"id": "POL4-WS-015",
+"book": "Polski 4",
+"section": "W szkole",
+"title_pl": "Marzenia",
+"status": "PLAN",
+"repo": "POL4-WS-015"
+},
+{
+"id": "POL4-WS-016",
+"book": "Polski 4",
+"section": "W szkole",
+"title_pl": "Chwile na schodach szkoły. Ch przed spółgłoskami, po literze s, na końcu wyrazu",
+"status": "PLAN",
+"repo": "POL4-WS-016"
+},
+{
+"id": "POL4-WS-017",
+"book": "Polski 4",
+"section": "W szkole",
+"title_pl": "Księga Straszliwej Niegrzeczności",
+"status": "PLAN",
+"repo": "POL4-WS-017"
+},
+{
+"id": "POL4-WS-018",
+"book": "Polski 4",
+"section": "W szkole",
+"title_pl": "Podczas przerwy. Pisownia rz po spółgłoskach p, b, k, g, t, d, ch, j, w",
+"status": "PLAN",
+"repo": "POL4-WS-018"
+},
+{
+"id": "POL4-WD-001",
+"book": "Polski 4",
+"section": "W domu",
+"title_pl": "Trzy małe świnki",
+"status": "PLAN",
+"repo": "POL4-WD-001"
+},
+{
+"id": "POL4-WD-002",
+"book": "Polski 4",
+"section": "W domu",
+"title_pl": "Opowieść",
+"status": "PLAN",
+"repo": "POL4-WD-002"
+},
+{
+"id": "POL4-WD-003",
+"book": "Polski 4",
+"section": "W domu",
+"title_pl": "Stara fotografia mojego taty",
+"status": "PLAN",
+"repo": "POL4-WD-003"
+},
+{
+"id": "POL4-WD-004",
+"book": "Polski 4",
+"section": "W domu",
+"title_pl": "Rodzinny koncert życzeń. Pisownia ż w cząstkach: -aż, -eż, -uż, -yż",
+"status": "PLAN",
+"repo": "POL4-WD-004"
+},
+{
+"id": "POL4-WD-005",
+"book": "Polski 4",
+"section": "W domu",
+"title_pl": "Księżniczka na ziarnku grochu",
+"status": "PLAN",
+"repo": "POL4-WD-005"
+},
+{
+"id": "POL4-WD-006",
+"book": "Polski 4",
+"section": "W domu",
+"title_pl": "Księżniczka z ogłoszenia",
+"status": "PLAN",
+"repo": "POL4-WD-006"
+},
+{
+"id": "POL4-WD-007",
+"book": "Polski 4",
+"section": "W domu",
+"title_pl": "A teraz posłuchaj...",
+"status": "PLAN",
+"repo": "POL4-WD-007"
+},
+{
+"id": "POL4-WD-008",
+"book": "Polski 4",
+"section": "W domu",
+"title_pl": "Domowe przedstawienie",
+"status": "PLAN",
+"repo": "POL4-WD-008"
+},
+{
+"id": "POL4-WD-009",
+"book": "Polski 4",
+"section": "W domu",
+"title_pl": "Skamieniała",
+"status": "PLAN",
+"repo": "POL4-WD-009"
+},
+{
+"id": "POL4-WD-010",
+"book": "Polski 4",
+"section": "W domu",
+"title_pl": "Fistaszki",
+"status": "PLAN",
+"repo": "POL4-WD-010"
+},
+{
+"id": "POL4-WD-011",
+"book": "Polski 4",
+"section": "W domu",
+"title_pl": "Bajka o rybaku i złotej rybce",
+"status": "PLAN",
+"repo": "POL4-WD-011"
+},
+{
+"id": "POL4-WD-012",
+"book": "Polski 4",
+"section": "W domu",
+"title_pl": "Przepis na wyraz. Rodzina wyrazów i wyrazy pokrewne",
+"status": "PLAN",
+"repo": "POL4-WD-012"
+},
+{
+"id": "POL4-WD-013",
+"book": "Polski 4",
+"section": "W domu",
+"title_pl": "Tajemnica Matyldy",
+"status": "PLAN",
+"repo": "POL4-WD-013"
+},
+{
+"id": "POL4-WD-014",
+"book": "Polski 4",
+"section": "W domu",
+"title_pl": "Mała encyklopedia domowych potworów I i II",
+"status": "PLAN",
+"repo": "POL4-WD-014"
+},
+{
+"id": "POL4-WD-015",
+"book": "Polski 4",
+"section": "W domu",
+"title_pl": "Pytania",
+"status": "PLAN",
+"repo": "POL4-WD-015"
+},
+{
+"id": "POL4-WD-016",
+"book": "Polski 4",
+"section": "W domu",
+"title_pl": "Powrót taty",
+"status": "PLAN",
+"repo": "POL4-WD-016"
+},
+{
+"id": "POL4-WD-017",
+"book": "Polski 4",
+"section": "W domu",
+"title_pl": "Czajnik",
+"status": "PLAN",
+"repo": "POL4-WD-017"
+},
+{
+"id": "POL4-WD-018",
+"book": "Polski 4",
+"section": "W domu",
+"title_pl": "W kuchni państwa Pączków. Pisownia wyrazów zakończonych na -ów, -ówka, -ówna",
+"status": "PLAN",
+"repo": "POL4-WD-018"
+},
+{
+"id": "POL4-WD-019",
+"book": "Polski 4",
+"section": "W domu",
+"title_pl": "Kanapka",
+"status": "PLAN",
+"repo": "POL4-WD-019"
+},
+{
+"id": "POL4-WD-020",
+"book": "Polski 4",
+"section": "W domu",
+"title_pl": "Co robi dziadziuś w kałuży? Pisownia wyrazów z u",
+"status": "PLAN",
+"repo": "POL4-WD-020"
+},
+{
+"id": "POL4-WD-021",
+"book": "Polski 4",
+"section": "W domu",
+"title_pl": "W pokoju dzieci. Odmienne i nieodmienne części mowy",
+"status": "PLAN",
+"repo": "POL4-WD-021"
+},
+{
+"id": "POL4-WD-022",
+"book": "Polski 4",
+"section": "W domu",
+"title_pl": "Cecylka Knedelek",
+"status": "PLAN",
+"repo": "POL4-WD-022"
+},
+{
+"id": "POL4-WD-023",
+"book": "Polski 4",
+"section": "W domu",
+"title_pl": "Kotlety Pawła. Części mowy – rzeczownik",
+"status": "PLAN",
+"repo": "POL4-WD-023"
+},
+{
+"id": "POL4-WD-024",
+"book": "Polski 4",
+"section": "W domu",
+"title_pl": "W królestwie kuchni",
+"status": "PLAN",
+"repo": "POL4-WD-024"
+},
+{
+"id": "POL4-WD-025",
+"book": "Polski 4",
+"section": "W domu",
+"title_pl": "Martwa natura",
+"status": "PLAN",
+"repo": "POL4-WD-025"
+},
+{
+"id": "POL4-WD-026",
+"book": "Polski 4",
+"section": "W domu",
+"title_pl": "Jaki to był dzień? Części mowy – przymiotnik",
+"status": "PLAN",
+"repo": "POL4-WD-026"
+},
+{
+"id": "POL4-WD-027",
+"book": "Polski 4",
+"section": "W domu",
+"title_pl": "Dzień u Bobrów",
+"status": "PLAN",
+"repo": "POL4-WD-027"
+},
+{
+"id": "POL4-NP-001",
+"book": "Polski 4",
+"section": "Na podwórku i poza jego granicami",
+"title_pl": "Podwórko pełne przygód",
+"status": "PLAN",
+"repo": "POL4-NP-001"
+},
+{
+"id": "POL4-NP-002",
+"book": "Polski 4",
+"section": "Na podwórku i poza jego granicami",
+"title_pl": "Wakacyjna wyprawa",
+"status": "PLAN",
+"repo": "POL4-NP-002"
+},
+{
+"id": "POL4-NP-003",
+"book": "Polski 4",
+"section": "Na podwórku i poza jego granicami",
+"title_pl": "Na boisku",
+"status": "PLAN",
+"repo": "POL4-NP-003"
+},
+{
+"id": "POL4-NP-004",
+"book": "Polski 4",
+"section": "Na podwórku i poza jego granicami",
+"title_pl": "Rowerowa przygoda",
+"status": "PLAN",
+"repo": "POL4-NP-004"
+},
+{
+"id": "POL4-NP-005",
+"book": "Polski 4",
+"section": "Na podwórku i poza jego granicami",
+"title_pl": "W lesie",
+"status": "PLAN",
+"repo": "POL4-NP-005"
+},
+{
+"id": "POL4-NP-006",
+"book": "Polski 4",
+"section": "Na podwórku i poza jego granicami",
+"title_pl": "Spotkanie z przyrodą",
+"status": "PLAN",
+"repo": "POL4-NP-006"
+},
+{
+"id": "POL4-NP-007",
+"book": "Polski 4",
+"section": "Na podwórku i poza jego granicami",
+"title_pl": "Na szlaku",
+"status": "PLAN",
+"repo": "POL4-NP-007"
+},
+{
+"id": "POL4-NP-008",
+"book": "Polski 4",
+"section": "Na podwórku i poza jego granicami",
+"title_pl": "W górach",
+"status": "PLAN",
+"repo": "POL4-NP-008"
+},
+{
+"id": "POL4-NP-009",
+"book": "Polski 4",
+"section": "Na podwórku i poza jego granicami",
+"title_pl": "Podróż pociągiem",
+"status": "PLAN",
+"repo": "POL4-NP-009"
+},
+{
+"id": "POL4-NP-010",
+"book": "Polski 4",
+"section": "Na podwórku i poza jego granicami",
+"title_pl": "List z podróży",
+"status": "PLAN",
+"repo": "POL4-NP-010"
+},
+{
+"id": "POL4-NP-011",
+"book": "Polski 4",
+"section": "Na podwórku i poza jego granicami",
+"title_pl": "Przygoda nad rzeką",
+"status": "PLAN",
+"repo": "POL4-NP-011"
+},
+{
+"id": "POL4-NP-012",
+"book": "Polski 4",
+"section": "Na podwórku i poza jego granicami",
+"title_pl": "W parku",
+"status": "PLAN",
+"repo": "POL4-NP-012"
+},
+{
+"id": "POL4-NP-013",
+"book": "Polski 4",
+"section": "Na podwórku i poza jego granicami",
+"title_pl": "Opis krajobrazu",
+"status": "PLAN",
+"repo": "POL4-NP-013"
+},
+{
+"id": "POL4-NP-014",
+"book": "Polski 4",
+"section": "Na podwórku i poza jego granicami",
+"title_pl": "Niezwykłe miejsce",
+"status": "PLAN",
+"repo": "POL4-NP-014"
+},
+{
+"id": "POL4-NP-015",
+"book": "Polski 4",
+"section": "Na podwórku i poza jego granicami",
+"title_pl": "Przygoda w mieście",
+"status": "PLAN",
+"repo": "POL4-NP-015"
+},
+{
+"id": "POL4-NP-016",
+"book": "Polski 4",
+"section": "Na podwórku i poza jego granicami",
+"title_pl": "Na stadionie",
+"status": "PLAN",
+"repo": "POL4-NP-016"
+},
+{
+"id": "POL4-NP-017",
+"book": "Polski 4",
+"section": "Na podwórku i poza jego granicami",
+"title_pl": "Wędrówka",
+"status": "PLAN",
+"repo": "POL4-NP-017"
+},
+{
+"id": "POL4-NP-018",
+"book": "Polski 4",
+"section": "Na podwórku i poza jego granicami",
+"title_pl": "Spotkanie z podróżnikiem",
+"status": "PLAN",
+"repo": "POL4-NP-018"
+},
+{
+"id": "POL4-NP-019",
+"book": "Polski 4",
+"section": "Na podwórku i poza jego granicami",
+"title_pl": "Moja okolica",
+"status": "PLAN",
+"repo": "POL4-NP-019"
+},
+{
+"id": "POL4-NP-020",
+"book": "Polski 4",
+"section": "Na podwórku i poza jego granicami",
+"title_pl": "Poza granicami",
+"status": "PLAN",
+"repo": "POL4-NP-020"
+}
+]
