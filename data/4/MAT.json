@@ -305,8 +305,9 @@
 "section": "DZIAŁ 5. Ułamki zwykłe",
 "title_pl": "Ułamek jako część całości",
 "title_ua": "Дріб як частина цілого",
-"status": "PLAN",
-"repo": "MAT4-UZ-034"
+"status": "READY",
+"repo": "MAT4-UZ-034", 
+"url": "https://edumost-pl.github.io/MAT4-UZ-034/"
 },
 {
 "id": "MAT4-UZ-035",
