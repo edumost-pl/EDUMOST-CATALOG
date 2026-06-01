@@ -1,0 +1,222 @@
+[
+  {
+    "id": "PRZ4-UZ-001",
+    "book": "Tajemnice przyrody",
+    "section": "Poznajemy warsztat przyrodnika",
+    "title_pl": "Przyroda i jej składniki",
+    "title_ua": "Природа та її складові",
+    "status": "PLAN",
+    "repo": "PRZ4-UZ-001"
+  },
+
+  {
+    "id": "PRZ4-UZ-002",
+    "book": "Tajemnice przyrody",
+    "section": "Poznajemy warsztat przyrodnika",
+    "title_pl": "Jak poznawać przyrodę?",
+    "title_ua": "Як пізнавати природу?",
+    "status": "PLAN",
+    "repo": "PRZ4-UZ-002"
+  },
+
+  {
+    "id": "PRZ4-UZ-003",
+    "book": "Tajemnice przyrody",
+    "section": "Poznajemy warsztat przyrodnika",
+    "title_pl": "Przyrządy i pomoce przyrodnika",
+    "title_ua": "Прилади та інструменти природознавця",
+    "status": "PLAN",
+    "repo": "PRZ4-UZ-003"
+  },
+
+  {
+    "id": "PRZ4-UZ-004",
+    "book": "Tajemnice przyrody",
+    "section": "Poznajemy warsztat przyrodnika",
+    "title_pl": "Określamy kierunki geograficzne",
+    "title_ua": "Визначаємо сторони горизонту",
+    "status": "PLAN",
+    "repo": "PRZ4-UZ-004"
+  },
+
+  {
+    "id": "PRZ4-UZ-005",
+    "book": "Tajemnice przyrody",
+    "section": "Poznajemy warsztat przyrodnika",
+    "title_pl": "Co pokazujemy na planach?",
+    "title_ua": "Що показують плани місцевості?",
+    "status": "PLAN",
+    "repo": "PRZ4-UZ-005"
+  },
+
+  {
+    "id": "PRZ4-UZ-006",
+    "book": "Tajemnice przyrody",
+    "section": "Poznajemy warsztat przyrodnika",
+    "title_pl": "Jak czytamy plany i mapy?",
+    "title_ua": "Як читати плани та карти?",
+    "status": "PLAN",
+    "repo": "PRZ4-UZ-006"
+  },
+
+  {
+    "id": "PRZ4-UZ-007",
+    "book": "Tajemnice przyrody",
+    "section": "Poznajemy warsztat przyrodnika",
+    "title_pl": "Jak się orientować w terenie?",
+    "title_ua": "Як орієнтуватися на місцевості?",
+    "status": "PLAN",
+    "repo": "PRZ4-UZ-007"
+  },
+
+  {
+    "id": "PRZ4-UZ-008",
+    "book": "Tajemnice przyrody",
+    "section": "Poznajemy pogodę i inne zjawiska przyrodnicze",
+    "title_pl": "Substancje wokół nas",
+    "title_ua": "Речовини навколо нас",
+    "status": "PLAN",
+    "repo": "PRZ4-UZ-008"
+  },
+
+  {
+    "id": "PRZ4-UZ-009",
+    "book": "Tajemnice przyrody",
+    "section": "Poznajemy pogodę i inne zjawiska przyrodnicze",
+    "title_pl": "Woda występuje w trzech stanach skupienia",
+    "title_ua": "Вода існує у трьох агрегатних станах",
+    "status": "PLAN",
+    "repo": "PRZ4-UZ-009"
+  },
+
+  {
+    "id": "PRZ4-UZ-010",
+    "book": "Tajemnice przyrody",
+    "section": "Poznajemy pogodę i inne zjawiska przyrodnicze",
+    "title_pl": "Składniki pogody",
+    "title_ua": "Складові погоди",
+    "status": "PLAN",
+    "repo": "PRZ4-UZ-010"
+  },
+
+  {
+    "id": "PRZ4-UZ-011",
+    "book": "Tajemnice przyrody",
+    "section": "Poznajemy pogodę i inne zjawiska przyrodnicze",
+    "title_pl": "Obserwujemy pogodę",
+    "title_ua": "Спостерігаємо за погодою",
+    "status": "PLAN",
+    "repo": "PRZ4-UZ-011"
+  },
+
+  {
+    "id": "PRZ4-UZ-012",
+    "book": "Tajemnice przyrody",
+    "section": "Poznajemy pogodę i inne zjawiska przyrodnicze",
+    "title_pl": "Wędrówka Słońca po niebie",
+    "title_ua": "Подорож Сонця небом",
+    "status": "PLAN",
+    "repo": "PRZ4-UZ-012"
+  },
+
+  {
+    "id": "PRZ4-UZ-013",
+    "book": "Tajemnice przyrody",
+    "section": "Poznajemy świat organizmów",
+    "title_pl": "Organizmy mają wspólne cechy",
+    "title_ua": "Організми мають спільні ознаки",
+    "status": "PLAN",
+    "repo": "PRZ4-UZ-013"
+  },
+
+  {
+    "id": "PRZ4-UZ-014",
+    "book": "Tajemnice przyrody",
+    "section": "Poznajemy świat organizmów",
+    "title_pl": "Organizmy różnią się sposobem odżywiania",
+    "title_ua": "Організми відрізняються способом живлення",
+    "status": "PLAN",
+    "repo": "PRZ4-UZ-014"
+  },
+
+  {
+    "id": "PRZ4-UZ-015",
+    "book": "Tajemnice przyrody",
+    "section": "Poznajemy świat organizmów",
+    "title_pl": "Zależności pokarmowe między organizmami",
+    "title_ua": "Харчові зв'язки між організмами",
+    "status": "PLAN",
+    "repo": "PRZ4-UZ-015"
+  },
+
+  {
+    "id": "PRZ4-UZ-016",
+    "book": "Tajemnice przyrody",
+    "section": "Poznajemy świat organizmów",
+    "title_pl": "Rośliny i zwierzęta wokół nas",
+    "title_ua": "Рослини і тварини навколо нас",
+    "status": "PLAN",
+    "repo": "PRZ4-UZ-016"
+  },
+
+  {
+    "id": "PRZ4-UZ-017",
+    "book": "Tajemnice przyrody",
+    "section": "DZIAL 6. Poznajemy krajobraz najbliższej okolicy",
+    "title_pl": "Co to jest krajobraz?",
+    "title_ua": "Що таке ландшафт?",
+    "status": "READY",
+    "repo": "PRZ4-UZ-017",
+    "url": "https://edumost-pl.github.io/krajobraz/"
+  },
+
+  {
+    "id": "PRZ4-UZ-018",
+    "book": "Tajemnice przyrody",
+    "section": "DZIAL 6. Poznajemy krajobraz najbliższej okolicy",
+    "title_pl": "Ukształtowanie terenu",
+    "title_ua": "Форми земної поверхні",
+    "status": "PLAN",
+    "repo": "PRZ4-UZ-018"
+  },
+
+  {
+    "id": "PRZ4-UZ-019",
+    "book": "Tajemnice przyrody",
+    "section": "DZIAL 6. Poznajemy krajobraz najbliższej okolicy",
+    "title_pl": "Czy wszystkie skały są twarde?",
+    "title_ua": "Чи всі гірські породи тверді?",
+    "status": "PLAN",
+    "repo": "PRZ4-UZ-019"
+  },
+
+  {
+    "id": "PRZ4-UZ-020",
+    "book": "Tajemnice przyrody",
+    "section": "DZIAL 6. Poznajemy krajobraz najbliższej okolicy",
+    "title_pl": "Wody słodkie i wody słone",
+    "title_ua": "Прісні та солоні води",
+    "status": "PLAN",
+    "repo": "PRZ4-UZ-020"
+  },
+
+  {
+    "id": "PRZ4-UZ-021",
+    "book": "Tajemnice przyrody",
+    "section": "DZIAL 6. Poznajemy krajobraz najbliższej okolicy",
+    "title_pl": "Krajobraz wczoraj i dziś",
+    "title_ua": "Ландшафт вчора і сьогодні",
+    "status": "PLAN",
+    "repo": "PRZ4-UZ-021"
+  },
+
+  {
+    "id": "PRZ4-UZ-022",
+    "book": "Tajemnice przyrody",
+    "section": "DZIAL 6. Poznajemy krajobraz najbliższej okolicy",
+    "title_pl": "Obszary i obiekty chronione",
+    "title_ua": "Заповідні території та об'єкти",
+    "status": "PLAN",
+    "repo": "PRZ4-UZ-022"
+  }
+]

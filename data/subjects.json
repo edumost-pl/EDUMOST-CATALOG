@@ -1,0 +1,28 @@
+[
+  {
+    "code": "MAT",
+    "title": "Математика",
+    "icon": "📐",
+    "color": "#4A90E2"
+  },
+
+  {
+    "code": "POL",
+    "title": "Польский",
+    "icon": "📚",
+    "color": "#9B59B6"
+  },
+
+  {
+    "code": "HIS",
+    "title": "История",
+    "icon": "🏰",
+    "color": "#E67E22"
+  },
+  {
+    "code": "PRZ",
+    "title": "Природа",
+    "icon": "🌳",
+    "color": "#7CB342"
+  }
+]

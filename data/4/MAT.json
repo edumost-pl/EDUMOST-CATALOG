@@ -1,0 +1,21 @@
+[
+  {
+    "id": "MAT4-UZ-001",
+    "book": "Matematyka z Plusem",
+    "section": "Обычные дроби",
+    "title_pl": "Licznik i mianownik",
+    "title_ua": "Чисельник і знаменник",
+    "status": "READY",
+    "repo": "MAT4-UZ-001"
+  },
+
+  {
+    "id": "MAT4-UZ-002",
+    "book": "Matematyka z Plusem",
+    "section": "Обычные дроби",
+    "title_pl": "Porównywanie ułamków",
+    "title_ua": "Порівняння дробів",
+    "status": "PLAN",
+    "repo": "MAT4-UZ-002"
+  }
+]
