@@ -370,8 +370,9 @@
 "section": "DZIAŁ 6. Ułamki dziesiętne",
 "title_pl": "Ułamek dziesiętny",
 "title_ua": "Десятковий дріб",
-"status": "PLAN",
-"repo": "MAT4-UD-041"
+"status": "READY",
+"repo": "MAT4-UD-041",
+"url":"https://edumost-pl.github.io/MAT4-UD-041/"
 },
 {
 "id": "MAT4-UD-042",
