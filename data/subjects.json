@@ -66,5 +66,12 @@
     "title": "Химия",
     "icon": "🧪",
     "color": "#00BCD4"
+  },
+  {
+    "code": "POL",
+    "title": "Ogólne класс",
+    "icon": "📚",
+    "color": "#9B59B6"
   }
+
 ]

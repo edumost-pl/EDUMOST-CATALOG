@@ -1,0 +1,2951 @@
+ [
+  {
+    "id": "ANG5-M1-001",
+    "book": "Flash 5",
+    "section": {
+      "tema": "Module 1. My World / Vocabulary / SB: str. 4-5, WL: str. 124",
+      "words": [
+        "get up",
+        "have breakfast",
+        "catch the bus"
+      ],
+      "phrases": [
+        "What time do you get up?",
+        "I get up at seven o'clock.",
+        "What time do you have breakfast?",
+        "I have breakfast at half past seven."
+      ],
+      "speaking": [
+        "Talking about daily routines",
+        "Telling the time"
+      ],
+      "grammar": []
+    },
+    "title_pl": "Czynności dnia codziennego. Podawanie czasu zegarowego.",
+    "status": "PLAN",
+    "repo": "ANG5-M1-001",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M1-002",
+    "book": "Flash 5",
+    "section": {
+      "tema": "Module 1. My World - What's your typical day? / SB: str. 4-5, WL: str. 124",
+      "words": [
+        "get up",
+        "have breakfast",
+        "catch the bus"
+      ],
+      "phrases": [
+        "What's your typical day?",
+        "I get up at...",
+        "I have breakfast at..."
+      ],
+      "speaking": [
+        "Describing daily activities",
+        "Comparing routines with a partner"
+      ],
+      "grammar": []
+    },
+    "title_pl": "Opisywanie czynności dnia codziennego.",
+    "status": "PLAN",
+    "repo": "ANG5-M1-002",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M1-003",
+    "book": "Flash 5",
+    "section": {
+      "tema": "Module 1. My World - Teen World / 1a Reading / SB: str. 6-7, WL: str. 124",
+      "words": [
+        "read a book",
+        "play sports",
+        "watch TV",
+        "reindeer",
+        "board game",
+        "photos",
+        "comments",
+        "social media",
+        "sell",
+        "post"
+      ],
+      "phrases": [
+        "I like chatting with friends online.",
+        "I don't mind drawing.",
+        "I dislike playing board games."
+      ],
+      "speaking": [
+        "I like...",
+        "I don't mind...",
+        "I dislike..."
+      ],
+      "grammar": []
+    },
+    "title_pl": "Teen World – świat nastolatka; praca z tekstem. Formy spędzania wolnego czasu.",
+    "status": "PLAN",
+    "repo": "ANG5-M1-003",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M1-004",
+    "book": "Flash 5",
+    "section": {
+      "tema": "Module 1. My World - 1b Grammar / SB: str. 8-9, GR: str. 117",
+      "words": [],
+      "phrases": [
+        "I play football every week.",
+        "She watches TV after school.",
+        "We don't play tennis.",
+        "Does he like music?"
+      ],
+      "speaking": [
+        "Talking about free time activities"
+      ],
+      "grammar": [
+        "Present Simple",
+        "Affirmative",
+        "Negative",
+        "Questions"
+      ]
+    },
+    "title_pl": "Present Simple – czas teraźniejszy prosty.",
+    "status": "PLAN",
+    "repo": "ANG5-M1-004",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M1-005",
+    "book": "Flash 5",
+    "section": {
+      "tema": "Module 1. My World - Present Simple / SB: str. 8-9",
+      "words": [],
+      "phrases": [
+        "Do you play football?",
+        "Yes, I do.",
+        "No, I don't."
+      ],
+      "speaking": [
+        "Asking and answering questions"
+      ],
+      "grammar": [
+        "Present Simple questions",
+        "Short answers"
+      ]
+    },
+    "title_pl": "Present Simple – pytania i krótkie odpowiedzi.",
+    "status": "PLAN",
+    "repo": "ANG5-M1-005",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M1-006",
+    "book": "Flash 5",
+    "section": {
+      "tema": "Module 1. My World - Adverbs of Frequency / SB: str. 10-11",
+      "words": [
+        "always",
+        "usually",
+        "often",
+        "sometimes",
+        "never"
+      ],
+      "phrases": [
+        "I always get up early.",
+        "She never plays computer games."
+      ],
+      "speaking": [
+        "Talking about habits"
+      ],
+      "grammar": [
+        "Adverbs of frequency"
+      ]
+    },
+    "title_pl": "Przysłówki częstotliwości.",
+    "status": "PLAN",
+    "repo": "ANG5-M1-006",
+    "url": ""
+  },
+  {
+  "id": "ANG5-M1-007",
+  "book": "Flash 5",
+
+  "section": {
+    "tema": "Module 1. My World - Grammar / 1e",
+    "pages": "SB: str. 12–13, GR: str. 117–118",
+
+    "words": [
+      "like",
+      "love",
+      "hate",
+      "need",
+      "know",
+      "want"
+    ],
+
+    "phrases": [],
+
+    "speaking": [
+      "Describe the picture using Present Continuous."
+    ],
+
+    "grammar": [
+      "Present Continuous",
+      "Present Simple vs Present Continuous",
+      "Stative verbs"
+    ]
+  },
+
+  "title_pl": "Czasy Present Simple i Present Continuous – ćwiczenia gramatyczne",
+  "status": "PLAN",
+  "repo": "ANG5-M1-007",
+  "url": ""
+},
+{
+  "id": "ANG5-M1-008",
+  "book": "Flash 5",
+
+  "section": {
+    "tema": "Module 1. My World - Across Cultures / 1f",
+    "pages": "SB: str. 14, WL: str. 124",
+
+    "words": [
+      "office building",
+      "canteen",
+      "gym",
+      "flood",
+      "library"
+    ],
+
+    "phrases": [
+      "pass an exam"
+    ],
+
+    "speaking": [
+      "Summarise school texts."
+    ],
+
+    "grammar": []
+  },
+
+  "title_pl": "Special Schools – praca z tekstem",
+  "status": "PLAN",
+  "repo": "ANG5-M1-008",
+  "url": ""
+},
+{
+  "id": "ANG5-M1-009",
+  "book": "Flash 5",
+
+  "section": {
+    "tema": "Module 1. My World - Across Cultures / 1f",
+    "pages": "SB: str. 15, WL: str. 124, PG: str. 121",
+
+    "words": [
+      "comma",
+      "full stop",
+      "colon",
+      "semicolon",
+      "question mark"
+    ],
+
+    "phrases": [
+      "My school and my classroom"
+    ],
+
+    "speaking": [
+      "Describe your school.",
+      "Compare classrooms."
+    ],
+
+    "grammar": [
+      "Punctuation"
+    ]
+  },
+
+  "title_pl": "My school and my classroom – ćwiczenia w słuchaniu, mówieniu i pisaniu",
+  "status": "PLAN",
+  "repo": "ANG5-M1-009",
+  "url": ""
+},
+{
+  "id": "ANG5-M1-010",
+  "book": "Flash 5",
+
+  "section": {
+    "tema": "Module 1. My World - CLIL (Citizenship)",
+    "pages": "SB: str. 16, WL: str. 124",
+
+    "words": [
+      "realise",
+      "waste",
+      "respect",
+      "treat",
+      "polite"
+    ],
+
+    "phrases": [
+      "pay attention",
+      "set a limit",
+      "raise your hand"
+    ],
+
+    "speaking": [
+      "How to be a good student?"
+    ],
+
+    "grammar": []
+  },
+
+  "title_pl": "Good Students – jak być lepszym uczniem?",
+  "status": "PLAN",
+  "repo": "ANG5-M1-010",
+  "url": ""
+},
+{
+  "id": "ANG5-M1-011",
+  "book": "Flash 5",
+
+  "section": {
+    "tema": "Module 1. My World - Flash Time",
+    "pages": "SB: str. 17",
+
+    "words": [],
+
+    "phrases": [
+      "Respect yourself and others."
+    ],
+
+    "speaking": [
+      "What is your perfect school?"
+    ],
+
+    "grammar": []
+  },
+
+  "title_pl": "Jaka powinna być idealna szkoła?",
+  "status": "PLAN",
+  "repo": "ANG5-M1-011",
+  "url": ""
+},
+{
+  "id": "ANG5-M1-012",
+  "book": "Flash 5",
+
+  "section": {
+    "tema": "Module 1. My World - Presentation Skills",
+    "pages": "SB: str. 17",
+
+    "words": [],
+
+    "phrases": [
+      "What is your perfect school like?"
+    ],
+
+    "speaking": [
+      "School presentation"
+    ],
+
+    "grammar": []
+  },
+
+  "title_pl": "What is my perfect school like? – prezentacja nt. idealnej szkoły",
+  "status": "PLAN",
+  "repo": "ANG5-M1-012",
+  "url": ""
+},
+{
+  "id": "ANG5-M1-013",
+  "book": "Flash 5",
+
+  "section": {
+    "tema": "Module 1. My World - Progress Check",
+    "pages": "SB: str. 18–19, WL: str. 124, GR: str. 117–118",
+
+    "words": [],
+
+    "phrases": [],
+
+    "speaking": [],
+
+    "grammar": [
+      "Present Simple",
+      "Present Continuous",
+      "Adverbs of frequency",
+      "School subjects",
+      "Daily activities"
+    ]
+  },
+
+  "title_pl": "Progress Check 1 – powtórzenie i utrwalenie materiału z modułu 1",
+  "status": "PLAN",
+  "repo": "ANG5-M1-013",
+  "url": ""
+},
+{
+  "id": "ANG5-M1-014",
+  "book": "Flash 5",
+
+  "section": {
+    "tema": "Module Test 1",
+    "pages": "SB: str. 4–19",
+
+    "words": [],
+    "phrases": [],
+    "speaking": [],
+    "grammar": []
+  },
+
+  "title_pl": "Module Test 1 – sprawdzian wiadomości i umiejętności",
+  "status": "PLAN",
+  "repo": "ANG5-M1-014",
+  "url": ""
+},
+{
+  "id": "ANG5-M1-015",
+  "book": "Flash 5",
+
+  "section": {
+    "tema": "Module 1 Test Review",
+    "pages": "SB: str. 4–19",
+
+    "words": [
+      "daily routine",
+      "school subject",
+      "canteen",
+      "library",
+      "gym",
+      "classroom",
+      "office building"
+    ],
+
+    "phrases": [
+      "What time do you get up?",
+      "How often do you play sports?",
+      "I am doing my homework.",
+      "I usually go to school by bus.",
+      "I like chatting with friends online."
+    ],
+
+    "speaking": [
+      "Describe your typical day.",
+      "Talk about your school.",
+      "Talk about your favourite school subject."
+    ],
+
+    "grammar": [
+      "Present Simple",
+      "Present Continuous",
+      "Adverbs of frequency",
+      "Stative verbs",
+      "Question forms"
+    ]
+  },
+
+  "title_pl": "Omówienie sprawdzianu modułu 1",
+  "status": "PLAN",
+  "repo": "ANG5-M1-015",
+  "url": ""
+},
+{
+    "id": "ANG5-M2-016",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 2. Round We Go! - Means of transport",
+      "pages": "SB: str. 20–21, WL: str. 124, PD: str. 111",
+
+      "words": [
+        "bus",
+        "train",
+        "tram",
+        "underground",
+        "bike",
+        "car",
+        "plane",
+        "ship"
+      ],
+
+      "phrases": [
+        "travel by bus",
+        "travel by train",
+        "travel by bike",
+        "travel on foot"
+      ],
+
+      "speaking": [
+        "Talk about means of transport"
+      ],
+
+      "grammar": [
+        "by",
+        "on",
+        "in"
+      ]
+    },
+
+    "title_pl": "Means of transport – środki transportu, słownictwo",
+    "status": "PLAN",
+    "repo": "ANG5-M2-016",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M2-017",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 2. Round We Go! - 2a Reading",
+      "pages": "SB: str. 22–23, WL: str. 124–125",
+
+      "words": [
+        "sight",
+        "cruise",
+        "environmentally friendly"
+      ],
+
+      "phrases": [
+        "Do not step on the grass.",
+        "Beware of the dog."
+      ],
+
+      "speaking": [
+        "Compare means of transport in London",
+        "Talk about transport in your city"
+      ],
+
+      "grammar": [
+        "Phrasal verbs"
+      ]
+    },
+
+    "title_pl": "Środki transportu w Londynie – praca z tekstem",
+    "status": "PLAN",
+    "repo": "ANG5-M2-017",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M2-018",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 2. Round We Go! - 2b Grammar",
+      "pages": "SB: str. 24–25, GR: str. 118",
+
+      "words": [
+        "good",
+        "bad",
+        "much",
+        "many",
+        "little"
+      ],
+
+      "phrases": [
+        "The supermarket is crowded.",
+        "A crowded supermarket."
+      ],
+
+      "speaking": [
+        "Compare Warsaw and New York"
+      ],
+
+      "grammar": [
+        "Comparative adjectives",
+        "as ... as",
+        "not as ... as",
+        "Irregular comparatives"
+      ]
+    },
+
+    "title_pl": "Stopień wyższy przymiotników – ćwiczenia gramatyczne",
+    "status": "PLAN",
+    "repo": "ANG5-M2-018",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M2-019",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 2. Round We Go! - 2c Vocabulary",
+      "pages": "SB: str. 26, WL: str. 125, GR: str. 118",
+
+      "words": [
+        "bookshop",
+        "clothes shop",
+        "post office",
+        "hospital",
+        "bank"
+      ],
+
+      "phrases": [
+        "in front of",
+        "behind",
+        "next to",
+        "opposite",
+        "between",
+        "on the corner of",
+        "go up",
+        "go down",
+        "along the road",
+        "turn left",
+        "turn right"
+      ],
+
+      "speaking": [
+        "Ask for and give directions"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Sklepy i budynki użyteczności publicznej. Pytanie o drogę",
+    "status": "PLAN",
+    "repo": "ANG5-M2-019",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M2-020",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 2. Round We Go! - 2d Everyday English",
+      "pages": "SB: str. 27, WL: str. 125",
+
+      "words": [
+        "ticket"
+      ],
+
+      "phrases": [
+        "I'd like a ticket to London, please.",
+        "I want a ticket to London, please."
+      ],
+
+      "speaking": [
+        "Buy a train ticket",
+        "Role-play a dialogue at the station"
+      ],
+
+      "grammar": [
+        "Polite requests"
+      ]
+    },
+
+    "title_pl": "Buying a train ticket – dialogi",
+    "status": "PLAN",
+    "repo": "ANG5-M2-020",
+    "url": ""
+  },
+  {
+    "id": "ANG5-M2-021",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 2. Round We Go! - 2e Grammar",
+      "pages": "SB: str. 28–29, GR: str. 118–119",
+
+      "words": [
+        "good",
+        "bad",
+        "much",
+        "many",
+        "little"
+      ],
+
+      "phrases": [],
+
+      "speaking": [
+        "Compare places and objects"
+      ],
+
+      "grammar": [
+        "Superlative adjectives",
+        "Comparative vs Superlative",
+        "Irregular adjectives"
+      ]
+    },
+
+    "title_pl": "Stopień wyższy i najwyższy przymiotników – ćwiczenia gramatyczne",
+    "status": "PLAN",
+    "repo": "ANG5-M2-021",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M2-022",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 2. Round We Go! - 2f Across Cultures",
+      "pages": "SB: str. 30, WL: str. 125",
+
+      "words": [
+        "view",
+        "cottage",
+        "quiet",
+        "unique",
+        "cheap",
+        "expensive",
+        "small",
+        "big",
+        "beautiful",
+        "modern",
+        "old"
+      ],
+
+      "phrases": [
+        "Holiday Homes UK"
+      ],
+
+      "speaking": [
+        "Compare houses and holiday homes"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Holiday Homes UK – praca z tekstem",
+    "status": "PLAN",
+    "repo": "ANG5-M2-022",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M2-023",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 2. Round We Go! - 2f Across Cultures",
+      "pages": "SB: str. 31, WL: str. 125",
+
+      "words": [
+        "county",
+        "canal",
+        "connect",
+        "medieval",
+        "antique"
+      ],
+
+      "phrases": [
+        "A village in England"
+      ],
+
+      "speaking": [
+        "Describe a village",
+        "Talk about your region"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Piszemy artykuł o wybranej polskiej wsi",
+    "status": "PLAN",
+    "repo": "ANG5-M2-023",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M2-024",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 2. Round We Go! - CLIL (Art & Design)",
+      "pages": "SB: str. 32, WL: str. 125",
+
+      "words": [
+        "glass",
+        "brick",
+        "wood",
+        "building",
+        "tomb",
+        "for",
+        "house",
+        "surroundings"
+      ],
+
+      "phrases": [
+        "Famous landmarks"
+      ],
+
+      "speaking": [
+        "Talk about famous buildings"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Landmarks – znane budowle",
+    "status": "PLAN",
+    "repo": "ANG5-M2-024",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M2-025",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 2. Round We Go! - Flash Time",
+      "pages": "SB: str. 33",
+
+      "words": [
+        "Stonehenge"
+      ],
+
+      "phrases": [
+        "Interesting facts"
+      ],
+
+      "speaking": [
+        "Discuss responsible tourism"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Stonehenge – niezwykła budowla",
+    "status": "PLAN",
+    "repo": "ANG5-M2-025",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M2-026",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 2. Round We Go! - Presentation Skills",
+      "pages": "SB: str. 33",
+
+      "words": [],
+
+      "phrases": [],
+
+      "speaking": [
+        "Presentation about famous buildings"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Znane budowle – prezentacja informacji",
+    "status": "PLAN",
+    "repo": "ANG5-M2-026",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M2-027",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 2. Round We Go! - Progress Check",
+      "pages": "SB: str. 34–35, WL: str. 124–125, GR: str. 118–119",
+
+      "words": [
+        "means of transport",
+        "shops",
+        "public buildings",
+        "materials"
+      ],
+
+      "phrases": [],
+
+      "speaking": [
+        "Revision activities"
+      ],
+
+      "grammar": [
+        "Comparatives",
+        "Superlatives",
+        "Adverbs of place"
+      ]
+    },
+
+    "title_pl": "Progress Check 2 – powtórzenie i utrwalenie materiału z modułu 2",
+    "status": "PLAN",
+    "repo": "ANG5-M2-027",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M2-028",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module Test 2",
+      "pages": "SB: str. 20–35",
+
+      "words": [],
+      "phrases": [],
+      "speaking": [],
+      "grammar": []
+    },
+
+    "title_pl": "Sprawdzian wiadomości i umiejętności z modułu 2",
+    "status": "PLAN",
+    "repo": "ANG5-M2-028",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M2-029",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module Test 2",
+      "pages": "SB: str. 20–35",
+
+      "words": [],
+      "phrases": [],
+      "speaking": [],
+      "grammar": []
+    },
+
+    "title_pl": "Omówienie sprawdzianu modułu 2",
+    "status": "PLAN",
+    "repo": "ANG5-M2-029",
+    "url": ""
+  },
+  {
+    "id": "ANG5-M3-030",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 3. Back in Time - Vocabulary",
+      "pages": "SB: str. 36–37, WL: str. 125",
+
+      "words": [
+        "caveman",
+        "hunter",
+        "fire",
+        "tool",
+        "stone",
+        "village",
+        "tribe",
+        "ancient"
+      ],
+
+      "phrases": [
+        "life in the past"
+      ],
+
+      "speaking": [
+        "Talk about prehistoric life"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Życie ludzi w czasach prehistorycznych – słownictwo",
+    "status": "PLAN",
+    "repo": "ANG5-M3-030",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M3-031",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 3. Back in Time - 3a Reading",
+      "pages": "SB: str. 38–39, WL: str. 125",
+
+      "words": [
+        "invent",
+        "discover",
+        "wheel",
+        "metal",
+        "farmer",
+        "weapon"
+      ],
+
+      "phrases": [
+        "People lived in caves.",
+        "They hunted animals."
+      ],
+
+      "speaking": [
+        "Describe life in the Stone Age"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Praca z tekstem o życiu ludzi w przeszłości",
+    "status": "PLAN",
+    "repo": "ANG5-M3-031",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M3-032",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 3. Back in Time - 3b Grammar",
+      "pages": "SB: str. 40–41, GR: str. 119",
+
+      "words": [
+        "was",
+        "were"
+      ],
+
+      "phrases": [
+        "I was at home.",
+        "They were happy."
+      ],
+
+      "speaking": [
+        "Talk about situations in the past"
+      ],
+
+      "grammar": [
+        "Past Simple of be",
+        "was",
+        "were",
+        "affirmative sentences"
+      ]
+    },
+
+    "title_pl": "Past Simple czasownika be – zdania twierdzące",
+    "status": "PLAN",
+    "repo": "ANG5-M3-032",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M3-033",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 3. Back in Time - 3b Grammar",
+      "pages": "SB: str. 40–41, GR: str. 119",
+
+      "words": [
+        "was",
+        "were"
+      ],
+
+      "phrases": [
+        "Was he at school?",
+        "Yes, he was.",
+        "No, he wasn't."
+      ],
+
+      "speaking": [
+        "Ask and answer about the past"
+      ],
+
+      "grammar": [
+        "Past Simple of be",
+        "questions",
+        "negative sentences",
+        "short answers"
+      ]
+    },
+
+    "title_pl": "Past Simple czasownika be – pytania i przeczenia",
+    "status": "PLAN",
+    "repo": "ANG5-M3-033",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M3-034",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 3. Back in Time - 3c Vocabulary",
+      "pages": "SB: str. 42, WL: str. 125",
+
+      "words": [
+        "century",
+        "king",
+        "queen",
+        "castle",
+        "knight",
+        "battle",
+        "army"
+      ],
+
+      "phrases": [
+        "a medieval castle",
+        "a brave knight"
+      ],
+
+      "speaking": [
+        "Describe historical places"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Historia i średniowiecze – słownictwo",
+    "status": "PLAN",
+    "repo": "ANG5-M3-034",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M3-035",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 3. Back in Time - 3d Everyday English",
+      "pages": "SB: str. 43, WL: str. 125",
+
+      "words": [
+        "museum",
+        "ticket",
+        "exhibition"
+      ],
+
+      "phrases": [
+        "How much is the ticket?",
+        "I'd like two tickets, please."
+      ],
+
+      "speaking": [
+        "Buy tickets at a museum"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Kupowanie biletów do muzeum",
+    "status": "PLAN",
+    "repo": "ANG5-M3-035",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M3-036",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 3. Back in Time - 3e Grammar",
+      "pages": "SB: str. 44–45, GR: str. 119–120",
+
+      "words": [
+        "visit",
+        "play",
+        "watch",
+        "live"
+      ],
+
+      "phrases": [
+        "I visited a castle.",
+        "They played football."
+      ],
+
+      "speaking": [
+        "Talk about past events"
+      ],
+
+      "grammar": [
+        "Past Simple regular verbs",
+        "-ed endings"
+      ]
+    },
+
+    "title_pl": "Past Simple – czasowniki regularne",
+    "status": "PLAN",
+    "repo": "ANG5-M3-036",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M3-037",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 3. Back in Time - 3e Grammar",
+      "pages": "SB: str. 44–45, GR: str. 119–120",
+
+      "words": [
+        "go",
+        "see",
+        "have",
+        "eat",
+        "buy"
+      ],
+
+      "phrases": [
+        "I went to London.",
+        "She saw a film."
+      ],
+
+      "speaking": [
+        "Describe what happened yesterday"
+      ],
+
+      "grammar": [
+        "Past Simple irregular verbs"
+      ]
+    },
+
+    "title_pl": "Past Simple – czasowniki nieregularne",
+    "status": "PLAN",
+    "repo": "ANG5-M3-037",
+    "url": ""
+  },
+  {
+    "id": "ANG5-M3-038",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 3. Back in Time - 3f Across Cultures",
+      "pages": "SB: str. 46, WL: str. 125",
+
+      "words": [
+        "archaeologist",
+        "ruins",
+        "temple",
+        "ancient city",
+        "artefact"
+      ],
+
+      "phrases": [
+        "discover ancient ruins",
+        "study the past"
+      ],
+
+      "speaking": [
+        "Talk about historical discoveries"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Praca z tekstem o odkryciach archeologicznych",
+    "status": "PLAN",
+    "repo": "ANG5-M3-038",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M3-039",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 3. Back in Time - 3f Across Cultures",
+      "pages": "SB: str. 47, WL: str. 125",
+
+      "words": [
+        "history",
+        "museum",
+        "exhibit",
+        "guide",
+        "visitor"
+      ],
+
+      "phrases": [
+        "visit a museum",
+        "learn about history"
+      ],
+
+      "speaking": [
+        "Describe a museum visit"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Muzea i historia – ćwiczenia komunikacyjne",
+    "status": "PLAN",
+    "repo": "ANG5-M3-039",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M3-040",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 3. Back in Time - CLIL",
+      "pages": "SB: str. 48, WL: str. 125",
+
+      "words": [
+        "timeline",
+        "event",
+        "century",
+        "past",
+        "future"
+      ],
+
+      "phrases": [
+        "put events in order",
+        "create a timeline"
+      ],
+
+      "speaking": [
+        "Talk about important historical events"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "CLIL – wydarzenia historyczne",
+    "status": "PLAN",
+    "repo": "ANG5-M3-040",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M3-041",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 3. Back in Time - Flash Time",
+      "pages": "SB: str. 49",
+
+      "words": [
+        "famous",
+        "inventor",
+        "scientist"
+      ],
+
+      "phrases": [
+        "important invention",
+        "famous person from history"
+      ],
+
+      "speaking": [
+        "Present a historical figure"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Znane postacie historyczne",
+    "status": "PLAN",
+    "repo": "ANG5-M3-041",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M3-042",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 3. Back in Time - Progress Check",
+      "pages": "SB: str. 50–51, GR: str. 119–120",
+
+      "words": [
+        "prehistory",
+        "castle",
+        "museum",
+        "archaeologist"
+      ],
+
+      "phrases": [
+        "talk about the past",
+        "describe historical places"
+      ],
+
+      "speaking": [
+        "Revision activities"
+      ],
+
+      "grammar": [
+        "Past Simple of be",
+        "Past Simple regular verbs",
+        "Past Simple irregular verbs"
+      ]
+    },
+
+    "title_pl": "Progress Check 3 – powtórzenie i utrwalenie materiału z modułu 3",
+    "status": "PLAN",
+    "repo": "ANG5-M3-042",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M3-043",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module Test 3",
+      "pages": "SB: str. 36–51",
+
+      "words": [],
+      "phrases": [],
+      "speaking": [],
+      "grammar": []
+    },
+
+    "title_pl": "Sprawdzian i omówienie modułu 3",
+    "status": "PLAN",
+    "repo": "ANG5-M3-043",
+    "url": ""
+  },
+  {
+    "id": "ANG5-M4-044",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 4. On the Move - Vocabulary",
+      "pages": "SB: str. 52–53, WL: str. 126",
+
+      "words": [
+        "camping",
+        "sailing",
+        "hiking",
+        "cycling",
+        "surfing",
+        "holiday",
+        "trip",
+        "journey"
+      ],
+
+      "phrases": [
+        "go camping",
+        "go sailing",
+        "go hiking"
+      ],
+
+      "speaking": [
+        "Talk about holiday activities"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Aktywności wakacyjne i podróże – słownictwo",
+    "status": "PLAN",
+    "repo": "ANG5-M4-044",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M4-045",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 4. On the Move - 4a Reading",
+      "pages": "SB: str. 54–55, WL: str. 126",
+
+      "words": [
+        "adventure",
+        "explore",
+        "forest",
+        "mountain",
+        "river"
+      ],
+
+      "phrases": [
+        "have an adventure",
+        "explore a new place"
+      ],
+
+      "speaking": [
+        "Describe a holiday adventure"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Przygody podczas podróży – praca z tekstem",
+    "status": "PLAN",
+    "repo": "ANG5-M4-045",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M4-046",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 4. On the Move - 4b Grammar",
+      "pages": "SB: str. 56–57, GR: str. 120",
+
+      "words": [
+        "yesterday",
+        "last week",
+        "last month",
+        "ago"
+      ],
+
+      "phrases": [
+        "I visited my grandparents yesterday.",
+        "We travelled last summer."
+      ],
+
+      "speaking": [
+        "Talk about past holidays"
+      ],
+
+      "grammar": [
+        "Past Simple",
+        "time expressions"
+      ]
+    },
+
+    "title_pl": "Past Simple – określenia czasu",
+    "status": "PLAN",
+    "repo": "ANG5-M4-046",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M4-047",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 4. On the Move - 4b Grammar",
+      "pages": "SB: str. 56–57, GR: str. 120",
+
+      "words": [
+        "travel",
+        "visit",
+        "stay",
+        "arrive"
+      ],
+
+      "phrases": [
+        "Where did you go?",
+        "I went to Spain."
+      ],
+
+      "speaking": [
+        "Ask and answer about holidays"
+      ],
+
+      "grammar": [
+        "Past Simple questions",
+        "Past Simple negatives"
+      ]
+    },
+
+    "title_pl": "Past Simple – pytania i przeczenia",
+    "status": "PLAN",
+    "repo": "ANG5-M4-047",
+    "url": ""
+  },
+  {
+    "id": "ANG5-M4-048",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 4. On the Move - 4c Vocabulary",
+      "pages": "SB: str. 58, WL: str. 126",
+
+      "words": [
+        "souvenir",
+        "postcard",
+        "map",
+        "camera",
+        "sunglasses",
+        "tent",
+        "backpack",
+        "sleeping bag"
+      ],
+
+      "phrases": [
+        "buy souvenirs",
+        "send a postcard",
+        "pack a backpack"
+      ],
+
+      "speaking": [
+        "Talk about things you take on holiday"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Przedmioty związane z podróżowaniem i wakacjami",
+    "status": "PLAN",
+    "repo": "ANG5-M4-048",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M4-049",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 4. On the Move - 4d Everyday English",
+      "pages": "SB: str. 59, WL: str. 126",
+
+      "words": [
+        "souvenir shop",
+        "price",
+        "cash",
+        "change"
+      ],
+
+      "phrases": [
+        "How much is it?",
+        "Can I help you?",
+        "I'd like to buy this.",
+        "Here you are."
+      ],
+
+      "speaking": [
+        "Buying souvenirs",
+        "Role-play in a shop"
+      ],
+
+      "grammar": [
+        "Polite requests"
+      ]
+    },
+
+    "title_pl": "Kupowanie pamiątek – dialogi sytuacyjne",
+    "status": "PLAN",
+    "repo": "ANG5-M4-049",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M4-050",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 4. On the Move - 4e Grammar",
+      "pages": "SB: str. 60–61, GR: str. 120",
+
+      "words": [
+        "first",
+        "then",
+        "next",
+        "after that",
+        "finally"
+      ],
+
+      "phrases": [
+        "First we arrived at the campsite.",
+        "Then we put up the tent."
+      ],
+
+      "speaking": [
+        "Describe events in order"
+      ],
+
+      "grammar": [
+        "Sequencers",
+        "Past Simple revision"
+      ]
+    },
+
+    "title_pl": "Opowiadanie wydarzeń w kolejności",
+    "status": "PLAN",
+    "repo": "ANG5-M4-050",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M4-051",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 4. On the Move - 4f Across Cultures",
+      "pages": "SB: str. 62, WL: str. 126",
+
+      "words": [
+        "island",
+        "coast",
+        "beach",
+        "tourist",
+        "destination"
+      ],
+
+      "phrases": [
+        "popular tourist destination",
+        "beautiful sandy beach"
+      ],
+
+      "speaking": [
+        "Describe a holiday destination"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Ciekawe miejsca na wakacje – praca z tekstem",
+    "status": "PLAN",
+    "repo": "ANG5-M4-051",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M4-052",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 4. On the Move - 4f Across Cultures",
+      "pages": "SB: str. 63, WL: str. 126",
+
+      "words": [
+        "travel guide",
+        "attraction",
+        "monument",
+        "landmark"
+      ],
+
+      "phrases": [
+        "places worth visiting"
+      ],
+
+      "speaking": [
+        "Recommend places to visit"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Tworzymy przewodnik turystyczny",
+    "status": "PLAN",
+    "repo": "ANG5-M4-052",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M4-053",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 4. On the Move - CLIL",
+      "pages": "SB: str. 64, WL: str. 126",
+
+      "words": [
+        "compass",
+        "map",
+        "direction",
+        "north",
+        "south",
+        "east",
+        "west"
+      ],
+
+      "phrases": [
+        "find your way",
+        "read a map"
+      ],
+
+      "speaking": [
+        "Giving directions"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "CLIL – orientacja w terenie",
+    "status": "PLAN",
+    "repo": "ANG5-M4-053",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M4-054",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 4. On the Move - Flash Time",
+      "pages": "SB: str. 65",
+
+      "words": [
+        "traveller",
+        "journey",
+        "adventure"
+      ],
+
+      "phrases": [
+        "dream holiday"
+      ],
+
+      "speaking": [
+        "Talk about your dream holiday"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Moje wymarzone wakacje",
+    "status": "PLAN",
+    "repo": "ANG5-M4-054",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M4-055",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 4. On the Move - Presentation Skills",
+      "pages": "SB: str. 65",
+
+      "words": [],
+
+      "phrases": [],
+
+      "speaking": [
+        "Holiday presentation"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Prezentacja o podróżach i wakacjach",
+    "status": "PLAN",
+    "repo": "ANG5-M4-055",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M4-056",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 4. On the Move - Progress Check",
+      "pages": "SB: str. 66–67, WL: str. 126, GR: str. 120",
+
+      "words": [
+        "holiday activities",
+        "travel equipment",
+        "tourist attractions"
+      ],
+
+      "phrases": [
+        "talk about holidays"
+      ],
+
+      "speaking": [
+        "Revision activities"
+      ],
+
+      "grammar": [
+        "Past Simple",
+        "Questions",
+        "Negatives",
+        "Sequencers"
+      ]
+    },
+
+    "title_pl": "Progress Check 4 – powtórzenie i utrwalenie materiału z modułu 4",
+    "status": "PLAN",
+    "repo": "ANG5-M4-056",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M4-057",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module Test 4",
+      "pages": "SB: str. 52–67",
+
+      "words": [],
+      "phrases": [],
+      "speaking": [],
+      "grammar": []
+    },
+
+    "title_pl": "Sprawdzian i omówienie modułu 4",
+    "status": "PLAN",
+    "repo": "ANG5-M4-057",
+    "url": ""
+  },
+  {
+    "id": "ANG5-M5-058",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 5. What an Adventure! - Vocabulary",
+      "pages": "SB: str. 68–69, WL: str. 127",
+
+      "words": [
+        "explorer",
+        "adventure",
+        "jungle",
+        "desert",
+        "mountain",
+        "river",
+        "survive",
+        "journey"
+      ],
+
+      "phrases": [
+        "go on an adventure",
+        "explore new places"
+      ],
+
+      "speaking": [
+        "Talk about adventures"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Przygoda i odkrywcy – słownictwo",
+    "status": "PLAN",
+    "repo": "ANG5-M5-058",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M5-059",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 5. What an Adventure! - 5a Reading",
+      "pages": "SB: str. 70–71, WL: str. 127",
+
+      "words": [
+        "adventurer",
+        "dangerous",
+        "cross",
+        "climb",
+        "discover"
+      ],
+
+      "phrases": [
+        "Teenage Adventurer"
+      ],
+
+      "speaking": [
+        "Describe an adventurer"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Teenage Adventurer – praca z tekstem",
+    "status": "PLAN",
+    "repo": "ANG5-M5-059",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M5-060",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 5. What an Adventure! - 5b Grammar",
+      "pages": "SB: str. 72–73, GR: str. 121",
+
+      "words": [
+        "last year",
+        "last summer",
+        "yesterday",
+        "ago"
+      ],
+
+      "phrases": [
+        "I visited Spain last year.",
+        "They travelled two days ago."
+      ],
+
+      "speaking": [
+        "Talk about past experiences"
+      ],
+
+      "grammar": [
+        "Past Simple revision"
+      ]
+    },
+
+    "title_pl": "Past Simple – utrwalenie",
+    "status": "PLAN",
+    "repo": "ANG5-M5-060",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M5-061",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 5. What an Adventure! - 5c Vocabulary",
+      "pages": "SB: str. 74, WL: str. 127, PD: str. 115",
+
+      "words": [
+        "helmet",
+        "rope",
+        "torch",
+        "boots",
+        "tent",
+        "compass",
+        "backpack"
+      ],
+
+      "phrases": [
+        "adventure equipment",
+        "survival equipment"
+      ],
+
+      "speaking": [
+        "Describe equipment for an expedition"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Wyposażenie podróżnika i odkrywcy",
+    "status": "PLAN",
+    "repo": "ANG5-M5-061",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M5-062",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 5. What an Adventure! - 5d Everyday English",
+      "pages": "SB: str. 75, WL: str. 127",
+
+      "words": [
+        "excuse me",
+        "help",
+        "problem"
+      ],
+
+      "phrases": [
+        "Can you help me?",
+        "What's the matter?",
+        "Don't worry."
+      ],
+
+      "speaking": [
+        "Asking for help"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Prośba o pomoc – dialogi sytuacyjne",
+    "status": "PLAN",
+    "repo": "ANG5-M5-062",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M5-063",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 5. What an Adventure! - 5e Grammar",
+      "pages": "SB: str. 76–77, GR: str. 121",
+
+      "words": [
+        "must",
+        "mustn't",
+        "have to",
+        "don't have to"
+      ],
+
+      "phrases": [
+        "You must wear a helmet.",
+        "You mustn't touch that."
+      ],
+
+      "speaking": [
+        "Talk about rules and obligations"
+      ],
+
+      "grammar": [
+        "must",
+        "mustn't",
+        "have to"
+      ]
+    },
+
+    "title_pl": "Wyrażanie obowiązku i zakazu",
+    "status": "PLAN",
+    "repo": "ANG5-M5-063",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M5-064",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 5. What an Adventure! - 5f Across Cultures",
+      "pages": "SB: str. 78, WL: str. 127",
+
+      "words": [
+        "rainforest",
+        "wildlife",
+        "species",
+        "nature"
+      ],
+
+      "phrases": [
+        "protect wildlife",
+        "save nature"
+      ],
+
+      "speaking": [
+        "Talk about nature"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Przyroda świata – praca z tekstem",
+    "status": "PLAN",
+    "repo": "ANG5-M5-064",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M5-065",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 5. What an Adventure! - 5f Across Cultures",
+      "pages": "SB: str. 79, WL: str. 127",
+
+      "words": [
+        "animal",
+        "habitat",
+        "environment"
+      ],
+
+      "phrases": [
+        "endangered species"
+      ],
+
+      "speaking": [
+        "Describe an animal habitat"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Zwierzęta i ich środowisko życia",
+    "status": "PLAN",
+    "repo": "ANG5-M5-065",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M5-066",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 5. What an Adventure! - CLIL",
+      "pages": "SB: str. 80, WL: str. 127",
+
+      "words": [
+        "earthquake",
+        "volcano",
+        "flood",
+        "storm"
+      ],
+
+      "phrases": [
+        "natural disaster"
+      ],
+
+      "speaking": [
+        "Talk about natural disasters"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "CLIL – klęski żywiołowe",
+    "status": "PLAN",
+    "repo": "ANG5-M5-066",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M5-067",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 5. What an Adventure! - Flash Time",
+      "pages": "SB: str. 81",
+
+      "words": [
+        "adventure",
+        "challenge"
+      ],
+
+      "phrases": [
+        "great adventure"
+      ],
+
+      "speaking": [
+        "Describe an exciting experience"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Niezwykłe przygody",
+    "status": "PLAN",
+    "repo": "ANG5-M5-067",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M5-068",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 5. What an Adventure! - Presentation Skills",
+      "pages": "SB: str. 81",
+
+      "words": [],
+
+      "phrases": [],
+
+      "speaking": [
+        "Adventure presentation"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Prezentacja o przygodzie",
+    "status": "PLAN",
+    "repo": "ANG5-M5-068",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M5-069",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 5. What an Adventure! - Progress Check",
+      "pages": "SB: str. 82–83, WL: str. 127, GR: str. 121",
+
+      "words": [
+        "equipment",
+        "nature",
+        "adventure"
+      ],
+
+      "phrases": [],
+
+      "speaking": [
+        "Revision activities"
+      ],
+
+      "grammar": [
+        "Past Simple",
+        "must",
+        "mustn't",
+        "have to"
+      ]
+    },
+
+    "title_pl": "Progress Check 5 – powtórzenie materiału",
+    "status": "PLAN",
+    "repo": "ANG5-M5-069",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M5-070",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module Test 5",
+      "pages": "SB: str. 68–83",
+
+      "words": [],
+      "phrases": [],
+      "speaking": [],
+      "grammar": []
+    },
+
+    "title_pl": "Sprawdzian modułu 5",
+    "status": "PLAN",
+    "repo": "ANG5-M5-070",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M5-071",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module Test 5",
+      "pages": "SB: str. 68–83",
+
+      "words": [],
+      "phrases": [],
+      "speaking": [],
+      "grammar": []
+    },
+
+    "title_pl": "Omówienie sprawdzianu modułu 5",
+    "status": "PLAN",
+    "repo": "ANG5-M5-071",
+    "url": ""
+  },
+  {
+    "id": "ANG5-M6-072",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 6. Looking Good! - Vocabulary",
+      "pages": "SB: str. 84–85, WL: str. 127",
+
+      "words": [
+        "tall",
+        "short",
+        "thin",
+        "plump",
+        "young",
+        "old",
+        "curly hair",
+        "straight hair",
+        "fair hair",
+        "dark hair",
+        "beard",
+        "moustache"
+      ],
+
+      "phrases": [
+        "What does he look like?",
+        "She has got long fair hair."
+      ],
+
+      "speaking": [
+        "Describe people's appearance"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Wygląd zewnętrzny – słownictwo",
+    "status": "PLAN",
+    "repo": "ANG5-M6-072",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M6-073",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 6. Looking Good! - 6a Reading",
+      "pages": "SB: str. 86–87, WL: str. 127",
+
+      "words": [
+        "fashion",
+        "style",
+        "designer",
+        "uniform",
+        "outfit"
+      ],
+
+      "phrases": [
+        "fashion trends",
+        "school uniform"
+      ],
+
+      "speaking": [
+        "Describe clothes and fashion"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Moda i ubrania – praca z tekstem",
+    "status": "PLAN",
+    "repo": "ANG5-M6-073",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M6-074",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 6. Looking Good! - 6b Grammar",
+      "pages": "SB: str. 88–89, GR: str. 122",
+
+      "words": [
+        "shirt",
+        "T-shirt",
+        "trousers",
+        "jeans",
+        "dress"
+      ],
+
+      "phrases": [
+        "She is wearing a red dress.",
+        "They are wearing jeans."
+      ],
+
+      "speaking": [
+        "Describe what people are wearing"
+      ],
+
+      "grammar": [
+        "Present Continuous",
+        "wearing clothes"
+      ]
+    },
+
+    "title_pl": "Present Continuous – opisywanie ubioru",
+    "status": "PLAN",
+    "repo": "ANG5-M6-074",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M6-075",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 6. Looking Good! - 6c Vocabulary",
+      "pages": "SB: str. 90, WL: str. 127",
+
+      "words": [
+        "shirt",
+        "jumper",
+        "jacket",
+        "coat",
+        "skirt",
+        "shorts",
+        "trainers",
+        "boots",
+        "cap",
+        "scarf"
+      ],
+
+      "phrases": [
+        "put on",
+        "take off"
+      ],
+
+      "speaking": [
+        "Name and describe clothes"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Ubrania i dodatki – słownictwo",
+    "status": "PLAN",
+    "repo": "ANG5-M6-075",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M6-076",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 6. Looking Good! - 6d Everyday English",
+      "pages": "SB: str. 91, WL: str. 127",
+
+      "words": [
+        "size",
+        "fit",
+        "cash desk",
+        "changing room"
+      ],
+
+      "phrases": [
+        "Can I help you?",
+        "Can I try it on?",
+        "What size are you?"
+      ],
+
+      "speaking": [
+        "Shopping for clothes"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Kupowanie ubrań – dialogi sytuacyjne",
+    "status": "PLAN",
+    "repo": "ANG5-M6-076",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M6-077",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 6. Looking Good! - 6e Grammar",
+      "pages": "SB: str. 92–93, GR: str. 122",
+
+      "words": [
+        "than",
+        "more",
+        "less"
+      ],
+
+      "phrases": [
+        "This T-shirt is cheaper than that one."
+      ],
+
+      "speaking": [
+        "Compare clothes"
+      ],
+
+      "grammar": [
+        "Comparative adjectives revision"
+      ]
+    },
+
+    "title_pl": "Porównywanie ubrań i wyglądu",
+    "status": "PLAN",
+    "repo": "ANG5-M6-077",
+    "url": ""
+  },
+  {
+    "id": "ANG5-M6-078",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 6. Looking Good! - 6f Across Cultures",
+      "pages": "SB: str. 94, WL: str. 127",
+
+      "words": [
+        "traditional clothes",
+        "costume",
+        "pattern",
+        "fabric",
+        "culture"
+      ],
+
+      "phrases": [
+        "traditional costume",
+        "national dress"
+      ],
+
+      "speaking": [
+        "Describe traditional clothes"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Tradycyjne stroje różnych krajów – praca z tekstem",
+    "status": "PLAN",
+    "repo": "ANG5-M6-078",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M6-079",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 6. Looking Good! - 6f Across Cultures",
+      "pages": "SB: str. 95, WL: str. 127",
+
+      "words": [
+        "fashion show",
+        "design",
+        "style",
+        "colour",
+        "material"
+      ],
+
+      "phrases": [
+        "describe an outfit",
+        "fashion presentation"
+      ],
+
+      "speaking": [
+        "Present a favourite outfit"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Opisujemy strój i wygląd zewnętrzny",
+    "status": "PLAN",
+    "repo": "ANG5-M6-079",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M6-080",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 6. Looking Good! - CLIL",
+      "pages": "SB: str. 96, WL: str. 127",
+
+      "words": [
+        "cotton",
+        "wool",
+        "silk",
+        "leather",
+        "material"
+      ],
+
+      "phrases": [
+        "natural materials",
+        "clothes production"
+      ],
+
+      "speaking": [
+        "Talk about materials used in clothes"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "CLIL – materiały wykorzystywane do produkcji ubrań",
+    "status": "PLAN",
+    "repo": "ANG5-M6-080",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M6-081",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 6. Looking Good! - Flash Time",
+      "pages": "SB: str. 97",
+
+      "words": [
+        "fashion",
+        "appearance",
+        "clothes"
+      ],
+
+      "phrases": [
+        "fashion and personality"
+      ],
+
+      "speaking": [
+        "Express opinions about fashion"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Moda a osobowość",
+    "status": "PLAN",
+    "repo": "ANG5-M6-081",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M6-082",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 6. Looking Good! - Presentation Skills",
+      "pages": "SB: str. 97",
+
+      "words": [],
+
+      "phrases": [],
+
+      "speaking": [
+        "Presentation about fashion and clothes"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Prezentacja o modzie i ubiorze",
+    "status": "PLAN",
+    "repo": "ANG5-M6-082",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M6-083",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module 6. Looking Good! - Progress Check",
+      "pages": "SB: str. 98–99, WL: str. 127, GR: str. 122",
+
+      "words": [
+        "appearance",
+        "clothes",
+        "fashion",
+        "materials"
+      ],
+
+      "phrases": [
+        "describe appearance",
+        "describe clothes"
+      ],
+
+      "speaking": [
+        "Revision activities"
+      ],
+
+      "grammar": [
+        "Present Continuous",
+        "Comparative adjectives",
+        "Clothes vocabulary"
+      ]
+    },
+
+    "title_pl": "Progress Check 6 – powtórzenie i utrwalenie materiału z modułu 6",
+    "status": "PLAN",
+    "repo": "ANG5-M6-083",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M6-084",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module Test 6",
+      "pages": "SB: str. 84–99",
+
+      "words": [],
+      "phrases": [],
+      "speaking": [],
+      "grammar": []
+    },
+
+    "title_pl": "Sprawdzian wiadomości i umiejętności z modułu 6",
+    "status": "PLAN",
+    "repo": "ANG5-M6-084",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M6-085",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Module Test 6",
+      "pages": "SB: str. 84–99",
+
+      "words": [],
+      "phrases": [],
+      "speaking": [],
+      "grammar": []
+    },
+
+    "title_pl": "Omówienie sprawdzianu modułu 6",
+    "status": "PLAN",
+    "repo": "ANG5-M6-085",
+    "url": ""
+  },
+  {
+    "id": "ANG5-M7-086",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Special Lesson - Halloween",
+      "pages": "Materiały dodatkowe",
+
+      "words": [
+        "pumpkin",
+        "witch",
+        "ghost",
+        "monster",
+        "skeleton",
+        "bat",
+        "spider",
+        "haunted house",
+        "costume",
+        "Halloween"
+      ],
+
+      "phrases": [
+        "Happy Halloween!",
+        "Trick or treat?",
+        "Wear a costume.",
+        "Decorate a pumpkin."
+      ],
+
+      "speaking": [
+        "Talk about Halloween traditions",
+        "Describe a Halloween costume"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Halloween – tradycje i słownictwo",
+    "status": "PLAN",
+    "repo": "ANG5-M7-086",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M7-087",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Special Lesson - Christmas",
+      "pages": "Materiały dodatkowe",
+
+      "words": [
+        "Christmas tree",
+        "present",
+        "Santa Claus",
+        "reindeer",
+        "snowman",
+        "bell",
+        "star",
+        "holiday",
+        "ornament",
+        "stocking"
+      ],
+
+      "phrases": [
+        "Merry Christmas!",
+        "Open presents.",
+        "Decorate the Christmas tree."
+      ],
+
+      "speaking": [
+        "Talk about Christmas traditions",
+        "Describe Christmas celebrations"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Christmas – tradycje świąteczne",
+    "status": "PLAN",
+    "repo": "ANG5-M7-087",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M7-088",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Special Lesson - New Year's Eve",
+      "pages": "Materiały dodatkowe",
+
+      "words": [
+        "fireworks",
+        "celebration",
+        "party",
+        "midnight",
+        "countdown",
+        "resolution",
+        "new year"
+      ],
+
+      "phrases": [
+        "Happy New Year!",
+        "Make a New Year's resolution.",
+        "Watch fireworks."
+      ],
+
+      "speaking": [
+        "Talk about New Year celebrations",
+        "Make New Year resolutions"
+      ],
+
+      "grammar": [
+        "Future intentions"
+      ]
+    },
+
+    "title_pl": "New Year's Eve – świętowanie Nowego Roku",
+    "status": "PLAN",
+    "repo": "ANG5-M7-088",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M7-089",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "Special Lesson - Easter",
+      "pages": "Materiały dodatkowe",
+
+      "words": [
+        "Easter egg",
+        "basket",
+        "rabbit",
+        "chick",
+        "spring",
+        "egg hunt",
+        "holiday"
+      ],
+
+      "phrases": [
+        "Happy Easter!",
+        "Decorate Easter eggs.",
+        "Go on an Easter egg hunt."
+      ],
+
+      "speaking": [
+        "Talk about Easter traditions"
+      ],
+
+      "grammar": []
+    },
+
+    "title_pl": "Easter – tradycje wielkanocne",
+    "status": "PLAN",
+    "repo": "ANG5-M7-089",
+    "url": ""
+  },
+
+  {
+    "id": "ANG5-M7-090",
+    "book": "Flash 5",
+
+    "section": {
+      "tema": "End of Year Revision",
+      "pages": "Materiały nauczyciela",
+
+      "words": [
+        "daily routines",
+        "transport",
+        "history",
+        "holidays",
+        "adventures",
+        "appearance",
+        "clothes"
+      ],
+
+      "phrases": [
+        "Revision of the school year",
+        "What have you learned this year?"
+      ],
+
+      "speaking": [
+        "Year summary",
+        "Favourite lesson of the year",
+        "Favourite topic of the year"
+      ],
+
+      "grammar": [
+        "Present Simple",
+        "Present Continuous",
+        "Past Simple",
+        "Comparatives",
+        "Superlatives",
+        "must / mustn't",
+        "have to"
+      ]
+    },
+
+    "title_pl": "Powtórzenie materiału i podsumowanie roku",
+    "status": "PLAN",
+    "repo": "ANG5-M7-090",
+    "url": ""
+  }
+
+]
