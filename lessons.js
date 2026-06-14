@@ -1,175 +1,244 @@
-
-// lessons.js
-
 const params = new URLSearchParams(window.location.search);
 
 const classNumber = params.get("class");
 const subjectCode = params.get("subject");
 
+/* ==========================================
+ВСПОМОГАТЕЛЬНЫЕ ФУНКЦИИ
+========================================== */
+
+function getBook(lesson) {
+if (!lesson.book) return "";
+
+
+return typeof lesson.book === "object"
+    ? lesson.book.pl || ""
+    : lesson.book;
+
+}
+
+function getSection(lesson) {
+if (lesson.chapter?.pl) {
+    return lesson.chapter.pl;
+}
+
+if (
+    lesson.section &&
+    typeof lesson.section === "object"
+) {
+    return lesson.section.tema || "";
+}
+
+return lesson.section || "";
+
+}
+
+function getTitlePL(lesson) {
+if (lesson.title?.pl) {
+    return lesson.title.pl;
+}
+
+return lesson.title_pl || "";
+
+}
+
+function getTitleUA(lesson) {
+if (lesson.title?.ua) {
+    return lesson.title.ua;
+}
+
+return lesson.title_ua || "";
+
+}
+
+/* ==========================================
+ЗАГРУЗКА ДАННЫХ
+========================================== */
+
 Promise.all([
-  fetch("./data/subjects.json").then((r) => r.json()),
-  fetch(`./data/${classNumber}/${subjectCode}.json`).then((r) => r.json()),
+fetch("./data/subjects.json")
+    .then(response => response.json()),
+
+fetch(
+    `./data/${classNumber}/${subjectCode}.json`
+).then(response => response.json())
+
 ])
-  .then(([subjects, lessons]) => {
-    const subject = subjects.find(
-      (s) => s.code === subjectCode
+
+.then(([subjects, lessons]) => {
+const subject =
+    subjects.find(
+        s => s.code === subjectCode
     );
 
-    document.getElementById("pageTitle").textContent =
-      `${subject.icon} ${subject.title} · ${classNumber} класс`;
+if (subject) {
 
-    document.getElementById("subjectName").textContent =
-      subject.title;
+    document.getElementById(
+        "pageTitle"
+    ).textContent =
+        `${subject.icon} ${subject.title} · ${classNumber} класс`;
 
-    document.getElementById("classLink").href =
-      `subjects.html?class=${classNumber}`;
+    document.getElementById(
+        "subjectName"
+    ).textContent =
+        subject.title;
+}
 
-    document.getElementById("classLink").textContent =
-      `${classNumber} класс`;
+if (lessons.length > 0) {
 
-    renderLessons(lessons);
-  })
-  .catch((error) => {
-    console.error(error);
-  });
+    const firstLesson = lessons[0];
+
+    document.getElementById("bookPl").textContent =
+        "📖 " + (firstLesson.book?.pl || "");
+
+    document.getElementById("bookUa").textContent =
+        "📖 " + (firstLesson.book?.ua || "");
+}
+
+document.getElementById(
+    "classLink"
+).href =
+    `subjects.html?class=${classNumber}`;
+
+document.getElementById(
+    "classLink"
+).textContent =
+    `${classNumber} класс`;
+
+renderLessons(lessons);
+
+})
+
+.catch(error => {
+console.error(
+    "Ошибка загрузки:",
+    error
+);
+
+});
+
+/* ==========================================
+ОТРИСОВКА УРОКОВ
+========================================== */
 
 function renderLessons(lessons) {
-  const tbody =
-    document.getElementById("lessonsBody");
 
-  tbody.innerHTML = "";
+    const tbody =
+        document.getElementById("lessonsBody");
 
-  lessons.forEach((lesson) => {
+    tbody.innerHTML = "";
 
-    const isEnglishSection =
-      typeof lesson.section === "object";
+    lessons.forEach(lesson => {
 
-    const sectionTitle =
-      isEnglishSection
-        ? lesson.section.tema || ""
-        : lesson.section || "";
+        const chapterPl =
+            lesson.chapter?.pl || "";
 
-    const englishInfo =
-      isEnglishSection
-        ? `
+        const chapterUa =
+            lesson.chapter?.ua || "";
 
-        ${
-          lesson.section.words?.length
-            ? `
-            <div class="lesson-extra">
-              <small>
-                <b>Words:</b><br>
-                ${lesson.section.words.join(", ")}
-              </small>
-            </div>
-            `
-            : ""
-        }
+        const titlePl =
+            lesson.title?.pl || "";
 
-        ${
-          lesson.section.phrases?.length
-            ? `
-            <div class="lesson-extra">
-              <small>
-                <b>Phrases:</b><br>
-                ${lesson.section.phrases.join("<br>")}
-              </small>
-            </div>
-            `
-            : ""
-        }
+        const titleUa =
+            lesson.title?.ua || "";
 
-        ${
-          lesson.section.speaking?.length
-            ? `
-            <div class="lesson-extra">
-              <small>
-                <b>Speaking:</b><br>
-                ${lesson.section.speaking.join("<br>")}
-              </small>
-            </div>
-            `
-            : ""
-        }
+        const keywords =
+            lesson.keywords?.join(", ") || "";
 
-        ${
-          lesson.section.grammar?.length
-            ? `
-            <div class="lesson-extra">
-              <small>
-                <b>Grammar:</b><br>
-                ${lesson.section.grammar.join(", ")}
-              </small>
-            </div>
-            `
-            : ""
-        }
+        const learningGoals =
 
-        `
-        : "";
+            lesson.learningGoals?.length
 
-    tbody.innerHTML += `
+                ? lesson.learningGoals
+                    .map(goal =>
+                        `• ${goal.ua}`
+                    )
+                    .join("<br>")
 
-      <tr>
+                : "";
 
-        <td>${lesson.id || ""}</td>
+        tbody.innerHTML += `
 
-        <td>${lesson.book || ""}</td>
+        <tr>
 
-        <td>
-          <strong>${sectionTitle}</strong>
-        </td>
+            <td>
+                ${lesson.id || ""}
+            </td>
 
-        <td>
+            <td>
 
-          <strong>
-            ${lesson.title_pl || ""}
-          </strong>
+                <strong>
+                    ${chapterPl}
+                </strong>
 
-          ${
-            lesson.title_ua
-              ? `<br>${lesson.title_ua}`
-              : ""
-          }
+                ${
+                    chapterUa
+                        ? `<br>${chapterUa}`
+                        : ""
+                }
 
-          ${englishInfo}
+            </td>
 
-        </td>
+            <td>
 
-        <td>
+                <strong>
+                    ${titlePl}
+                </strong>
 
-          <span
-            class="status status-${lesson.status || "PLAN"}"
-          >
-            ${lesson.status || "PLAN"}
-          </span>
+                ${
+                    titleUa
+                        ? `<br>${titleUa}`
+                        : ""
+                }
 
-        </td>
+            </td>
 
-        <td>
+            <td>
+                ${keywords}
+            </td>
 
-          ${
-            lesson.url
-              ? `
-              <a
-                href="${lesson.url}"
-                target="_blank"
-                class="open-btn"
-              >
-                Открыть урок
-              </a>
-              `
-              : `
-              <span class="disabled-btn">
-                Нет ссылки
-              </span>
-              `
-          }
+            <td>
+                ${learningGoals}
+            </td>
 
-        </td>
+            <td>
 
-      </tr>
+                <span
+                    class="status status-${lesson.status || "PLAN"}"
+                >
+                    ${lesson.status || "PLAN"}
+                </span>
 
-    `;
-  });
+            </td>
+
+            <td>
+
+                ${
+                    lesson.url
+
+                        ? `
+                        <a
+                            href="${lesson.url}"
+                            target="_blank"
+                            class="open-btn"
+                        >
+                            Открыть
+                        </a>
+                        `
+
+                        : `
+                        <span class="disabled-btn">
+                            —
+                        </span>
+                        `
+                }
+
+            </td>
+
+        </tr>
+
+        `;
+
+    });
+
 }

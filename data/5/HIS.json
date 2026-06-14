@@ -1,0 +1,2302 @@
+[
+  {
+    "id": "HIS5-UZ-001",
+    "class": 5,
+    "subject": "HIS",
+
+    "book": {
+      "pl": "Wczoraj i dziś 5",
+      "ua": "Учора і сьогодні 5"
+    },
+
+    "chapter": {
+      "pl": "Rozdział I: Pierwsze cywilizacje",
+      "ua": "Перші цивілізації"
+    },
+
+    "title": {
+      "pl": "Życie pierwszych ludzi",
+      "ua": "Життя перших людей"
+    },
+
+    "keywords": [
+      "praludzie",
+      "koczowniczy tryb życia",
+      "rewolucja neolityczna"
+    ],
+
+    "learningGoals": [
+      {
+        "pl": "wyjaśnia pochodzenie pierwszych ludzi",
+        "ua": "пояснює походження перших людей"
+      },
+      {
+        "pl": "porównuje koczowniczy i osiadły tryb życia",
+        "ua": "порівнює кочовий та осілий спосіб життя"
+      },
+      {
+        "pl": "wyjaśnia znaczenie rewolucji neolitycznej",
+        "ua": "пояснює значення неолітичної революції"
+      }
+    ],
+
+    "status": "PLAN",
+    "url": ""
+  },
+
+  {
+    "id": "HIS5-UZ-002",
+    "class": 5,
+    "subject": "HIS",
+    "book": {
+      "pl": "Wczoraj i dziś 5",
+      "ua": "Учора і сьогодні 5"
+    },
+    "chapter": {
+      "pl": "Rozdział I: Pierwsze cywilizacje",
+      "ua": "Перші цивілізації"
+    },
+    "title": {
+      "pl": "Miasta-państwa Mezopotamiш",
+      "ua": "Месопотамія"
+    },
+    "keywords": [
+      "Mezopotamia",
+      "Tygrys i Eufrat",
+      "Sumerowie",
+      "pismo klinowe"
+    ],
+
+    "learningGoals": [
+      {
+        "pl": "wyjaśnia znaczenie rzek Tygrys i Eufrat dla rozwoju Mezopotamii",
+        "ua": "пояснює значення річок Тигр і Євфрат для розвитку Месопотамії"
+      },
+      {
+        "pl": "wskazuje na mapie Mezopotamię",
+        "ua": "показує Месопотамію на карті"
+      },
+      {
+        "pl": "wymienia najważniejsze osiągnięcia cywilizacji Mezopotamii",
+        "ua": "називає найважливіші досягнення цивілізації Месопотамії"
+      }
+    ],
+    "status": "PLAN",
+    "url": ""
+  },
+
+  {
+    "id": "HIS5-UZ-003",
+    "class": 5,
+    "subject": "HIS",
+    "book": {
+      "pl": "Wczoraj i dziś 5",
+      "ua": "Учора і сьогодні 5"
+    },
+    "chapter": {
+      "pl": "Rozdział I: Pierwsze cywilizacje",
+      "ua": "Перші цивілізації"
+    },
+    "title": {
+      "pl": "W Egipcie faraonów",
+      "ua": "Єгипет фараонів"
+    },
+    "keywords": ["Nil", "faraon", "piramidy", "hieroglify"],
+
+    "learningGoals": [
+      {
+        "pl": "wyjaśnia znaczenie Nilu dla rozwoju Egiptu",
+        "ua": "пояснює значення Нілу для розвитку Єгипту"
+      },
+      {
+        "pl": "charakteryzuje rolę faraona w państwie egipskim",
+        "ua": "характеризує роль фараона в єгипетській державі"
+      },
+      {
+        "pl": "wymienia najważniejsze osiągnięcia starożytnego Egiptu",
+        "ua": "називає найважливіші досягнення Стародавнього Єгипту"
+      }
+    ],
+    "status": "PLAN",
+    "url": ""
+  },
+
+  {
+    "id": "HIS5-UZ-004",
+    "class": 5,
+    "subject": "HIS",
+    "book": {
+      "pl": "Wczoraj i dziś 5",
+      "ua": "Учора і сьогодні 5"
+    },
+    "chapter": {
+      "pl": "Rozdział I: Pierwsze cywilizacje",
+      "ua": "Перші цивілізації"
+    },
+    "title": {
+      "pl": "W starożytnym  Izraelu",
+      "ua": "Ізраїльтяни"
+    },
+    "keywords": ["judaizm", "Tora", "Dekalog", "Izraelici"],
+
+    "learningGoals": [
+      {
+        "pl": "charakteryzuje podstawowe wierzenia starożytnych Izraelitów",
+        "ua": "характеризує основні вірування стародавніх ізраїльтян"
+      },
+      {
+        "pl": "wyjaśnia znaczenie Dekalogu i Tory",
+        "ua": "пояснює значення Декалогу та Тори"
+      },
+      {
+        "pl": "opisuje najważniejsze wydarzenia z dziejów Izraelitów",
+        "ua": "описує найважливіші події з історії ізраїльтян"
+      }
+    ],
+    "status": "PLAN",
+    "url": ""
+  },
+
+  {
+    "id": "HIS5-UZ-005",
+    "class": 5,
+    "subject": "HIS",
+    "book": {
+      "pl": "Wczoraj i dziś 5",
+      "ua": "Учора і сьогодні 5"
+    },
+    "chapter": {
+      "pl": "Rozdział I: Pierwsze cywilizacje",
+      "ua": "Перші цивілізації"
+    },
+    "title": {
+      "pl": "Cywilizacje Indii i Chin",
+      "ua": "Індія та Китай"
+    },
+    "keywords": [],
+    "learningGoals": [],
+    "status": "PLAN",
+    "url": ""
+  },
+
+  {
+    "id": "HIS5-UZ-006",
+    "class": 5,
+    "subject": "HIS",
+    "book": {
+      "pl": "Wczoraj i dziś 5",
+      "ua": "Учора і сьогодні 5"
+    },
+    "chapter": {
+      "pl": "Rozdział I: Pierwsze cywilizacje",
+      "ua": "Перші цивілізації"
+    },
+    "title": {
+      "pl": "Od hieroglifów do alfabetu",
+      "ua": "Від ієрогліфів до алфавіту"
+    },
+    "keywords": ["hieroglify", "pismo klinowe", "alfabet", "papirus"],
+
+    "learningGoals": [
+      {
+        "pl": "wyjaśnia znaczenie wynalezienia pisma",
+        "ua": "пояснює значення винайдення писемності"
+      },
+      {
+        "pl": "porównuje pismo obrazkowe i alfabetyczne",
+        "ua": "порівнює піктографічне та алфавітне письмо"
+      },
+      {
+        "pl": "rozpoznaje najważniejsze rodzaje pisma starożytnego",
+        "ua": "розпізнає найважливіші види давньої писемності"
+      }
+    ],
+    "status": "PLAN",
+    "url": ""
+  },
+  {
+    "id": "HIS5-UZ-007",
+    "class": 5,
+    "subject": "HIS",
+    "book": {
+      "pl": "Wczoraj i dziś 5",
+      "ua": "Учора і сьогодні 5"
+    },
+    "chapter": {
+      "pl": "Rozdział I: Pierwsze cywilizacje",
+      "ua": "Перші цивілізації"
+    },
+    "title": {
+      "pl": "Tajemnice sprzed wieków – Jak odczytano pismo Egipcjan?",
+      "ua": "Таємниці давнини — Як розшифрували письмо єгиптян?"
+    },
+    "keywords": [
+      "Kamień z Rosetty",
+      "hieroglify",
+      "Champollion",
+      "egiptologia"
+    ],
+
+    "learningGoals": [
+      {
+        "pl": "wyjaśnia znaczenie Kamienia z Rosetty",
+        "ua": "пояснює значення Розетського каменя"
+      },
+      {
+        "pl": "opisuje, jak odczytano hieroglify",
+        "ua": "описує, як було розшифровано ієрогліфи"
+      },
+      {
+        "pl": "wie, kim był Jean François Champollion",
+        "ua": "знає, ким був Жан-Франсуа Шампольйон"
+      }
+    ]
+  },
+  {
+    "id": "HIS5-UZ-008",
+    "class": 5,
+    "subject": "HIS",
+    "book": {
+      "pl": "Wczoraj i dziś 5",
+      "ua": "Учора і сьогодні 5"
+    },
+    "chapter": {
+      "pl": "Rozdział I: Pierwsze cywilizacje",
+      "ua": "Перші цивілізації"
+    },
+    "title": {
+      "pl": "Podsumowanie ",
+      "ua": ""
+    },
+    "keywords": [
+    ],
+
+    "learningGoals": [
+      
+    ]
+  },
+
+  {
+  "id": "HIS5-UZ-009",
+
+  "class": 5,
+
+  "subject": "HIS",
+
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+
+  "chapter": {
+    "pl": "Rozdział II: Starożytna Grecja",
+    "ua": "Стародавня Греція"
+  },
+
+  "title": {
+    "pl": "Demokratyczne Ateny",
+    "ua": "Демократичні Афіни"
+  },
+
+  "keywords": [
+    "Ateny",
+    "polis",
+    "demokracja",
+    "Perykles"
+  ],
+
+  "learningGoals": [
+    {
+      "pl": "wyjaśnia znaczenie demokracji ateńskiej",
+      "ua": "пояснює значення афінської демократії"
+    },
+    {
+      "pl": "charakteryzuje życie mieszkańców Aten",
+      "ua": "характеризує життя мешканців Афін"
+    },
+    {
+      "pl": "wyjaśnia rolę Peryklesa w rozwoju Aten",
+      "ua": "пояснює роль Перікла в розвитку Афін"
+    }
+  ],
+
+  "status": "PLAN",
+
+  "url": ""
+},
+
+ {
+  "id": "HIS5-UZ-010",
+
+  "class": 5,
+
+  "subject": "HIS",
+
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+
+  "chapter": {
+    "pl": "Rozdział II: Starożytna Grecja",
+    "ua": "Стародавня Греція"
+  },
+
+  "title": {
+    "pl": "Sparta i wojny z Persami",
+    "ua": "Спарта і війни з персами"
+  },
+
+  "keywords": [
+    "Sparta",
+    "Persowie",
+    "hoplita",
+    "Leonidas"
+  ],
+
+  "learningGoals": [
+    {
+      "pl": "charakteryzuje społeczeństwo i wychowanie Spartan",
+      "ua": "характеризує суспільство та виховання спартанців"
+    },
+    {
+      "pl": "opisuje przebieg wojen grecko-perskich",
+      "ua": "описує перебіг греко-перських воєн"
+    },
+    {
+      "pl": "wyjaśnia znaczenie postaci Leonidasa",
+      "ua": "пояснює значення постаті Леоніда"
+    }
+  ],
+
+  "status": "PLAN",
+
+  "url": ""
+},
+
+ {
+  "id": "HIS5-UZ-011",
+
+  "class": 5,
+
+  "subject": "HIS",
+
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+
+  "chapter": {
+    "pl": "Rozdział II: Starożytna Grecja",
+    "ua": "Стародавня Греція"
+  },
+
+  "title": {
+    "pl": "Bogowie i mity",
+    "ua": "Боги та міфи"
+  },
+
+  "keywords": [
+    "Olimp",
+    "Zeus",
+    "mit",
+    "Homer"
+  ],
+
+  "learningGoals": [
+    {
+      "pl": "przedstawia wierzenia starożytnych Greków",
+      "ua": "описує вірування давніх греків"
+    },
+    {
+      "pl": "rozpoznaje najważniejszych bogów greckich",
+      "ua": "розпізнає найважливіших грецьких богів"
+    },
+    {
+      "pl": "wyjaśnia znaczenie mitów w życiu Greków",
+      "ua": "пояснює значення міфів у житті греків"
+    }
+  ],
+
+  "status": "PLAN",
+
+  "url": ""
+},
+
+  {
+  "id": "HIS5-UZ-012",
+
+  "class": 5,
+
+  "subject": "HIS",
+
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+
+  "chapter": {
+    "pl": "Rozdział II: Starożytna Grecja",
+    "ua": "Стародавня Греція"
+  },
+
+  "title": {
+    "pl": "Kultura starożytnej Grecji",
+    "ua": "Культура Стародавньої Греції"
+  },
+
+  "keywords": [
+    "teatr",
+    "filozofia",
+    "igrzyska olimpijskie",
+    "Olimpia"
+  ],
+
+  "learningGoals": [
+    {
+      "pl": "opisuje osiągnięcia kultury starożytnej Grecji",
+      "ua": "описує досягнення культури Стародавньої Греції"
+    },
+    {
+      "pl": "wyjaśnia znaczenie teatru i filozofii",
+      "ua": "пояснює значення театру та філософії"
+    },
+    {
+      "pl": "charakteryzuje starożytne igrzyska olimpijskie",
+      "ua": "характеризує давньогрецькі Олімпійські ігри"
+    }
+  ],
+
+  "status": "PLAN",
+
+  "url": ""
+},
+
+  {
+  "id": "HIS5-UZ-013",
+
+  "class": 5,
+
+  "subject": "HIS",
+
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+
+  "chapter": {
+    "pl": "Rozdział II: Starożytna Grecja",
+    "ua": "Стародавня Греція"
+  },
+
+  "title": {
+    "pl": "Imperium Aleksandra Wielkiego",
+    "ua": "Імперія Александра Великого"
+  },
+
+  "keywords": [
+    "Aleksander Wielki",
+    "imperium",
+    "hellenizacja",
+    "kultura hellenistyczna"
+  ],
+
+  "learningGoals": [
+    {
+      "pl": "opisuje podboje Aleksandra Wielkiego",
+      "ua": "описує завоювання Александра Великого"
+    },
+    {
+      "pl": "wyjaśnia pojęcie hellenizacji",
+      "ua": "пояснює поняття еллінізації"
+    },
+    {
+      "pl": "charakteryzuje skutki powstania imperium Aleksandra",
+      "ua": "характеризує наслідки утворення імперії Александра"
+    }
+  ],
+
+  "status": "PLAN",
+
+  "url": ""
+},
+
+  {
+  "id": "HIS5-UZ-014",
+
+  "class": 5,
+
+  "subject": "HIS",
+
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+
+  "chapter": {
+    "pl": "Rozdział II: Starożytna Grecja",
+    "ua": "Стародавня Греція"
+  },
+
+  "title": {
+    "pl": "Tajemnice sprzed wieków – Jak wyglądała latarnia morska na Faros?",
+    "ua": "Таємниці минулих віків – Яким був Фароський маяк?"
+  },
+
+  "keywords": [
+    "Faros",
+    "latarnia morska",
+    "siedem cudów świata",
+    "Aleksandria"
+  ],
+
+  "learningGoals": [
+    {
+      "pl": "opisuje wygląd i działanie latarni na Faros",
+      "ua": "описує вигляд і роботу Фароського маяка"
+    },
+    {
+      "pl": "wyjaśnia, dlaczego latarnia była jednym z siedmiu cudów świata",
+      "ua": "пояснює, чому маяк належав до семи чудес світу"
+    },
+    {
+      "pl": "charakteryzuje znaczenie latarni dla żeglugi",
+      "ua": "характеризує значення маяка для мореплавства"
+    }
+  ],
+
+  "status": "PLAN",
+
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-015",
+
+  "class": 5,
+
+  "subject": "HIS",
+
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+
+  "chapter": {
+    "pl": "Rozdział II: Starożytna Grecja",
+    "ua": "Стародавня Греція"
+  },
+
+  "title": {
+    "pl": "Powtórzenie wiadomości z rozdziału II",
+    "ua": "Повторення матеріалу розділу II"
+  },
+
+  "keywords": [
+    "Grecja",
+    "powtórzenie",
+    "Ateny",
+    "Sparta"
+  ],
+
+  "learningGoals": [
+    {
+      "pl": "utrwala wiadomości z rozdziału",
+      "ua": "узагальнює знання з розділу"
+    },
+    {
+      "pl": "rozpoznaje najważniejsze wydarzenia i postacie",
+      "ua": "розпізнає найважливіші події та історичних діячів"
+    },
+    {
+      "pl": "przygotowuje się do sprawdzianu",
+      "ua": "готується до контрольної роботи"
+    }
+  ],
+
+  "status": "PLAN",
+
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-016",
+
+  "class": 5,
+
+  "subject": "HIS",
+
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+
+  "chapter": {
+    "pl": "Rozdział II: Starożytna Grecja",
+    "ua": "Стародавня Греція"
+  },
+
+  "title": {
+    "pl": "Sprawdzian z rozdziału II",
+    "ua": "Контрольна робота з розділу II"
+  },
+
+  "keywords": [
+    "sprawdzian",
+    "Grecja",
+    "test"
+  ],
+
+  "learningGoals": [
+    {
+      "pl": "sprawdza wiedzę z rozdziału",
+      "ua": "перевіряє знання з розділу"
+    }
+  ],
+
+  "status": "PLAN",
+
+  "url": ""
+},
+
+
+
+
+
+  {
+    "id": "HIS5-UZ-016",
+    "class": 5,
+    "subject": "HIS",
+    "book": {
+      "pl": "Wczoraj i dziś 5",
+      "ua": "Учора і сьогодні 5"
+    },
+    "chapter": {
+      "pl": "Starożytny Rzym",
+      "ua": "Стародавній Рим"
+    },
+    "title": {
+      "pl": "Republika rzymska",
+      "ua": "Римська республіка"
+    },
+    "keywords": [],
+    "learningGoals": [],
+    "status": "PLAN",
+    "url": ""
+  },
+
+  {
+  "id": "HIS5-UZ-017",
+
+  "class": 5,
+
+  "subject": "HIS",
+
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+
+  "chapter": {
+    "pl": "Rozdział III: Starożytny Rzym",
+    "ua": "Стародавній Рим"
+  },
+
+  "title": {
+    "pl": "Ustrój starożytnego Rzymu",
+    "ua": "Устрій Стародавнього Риму"
+  },
+
+  "keywords": [
+    "Rzym",
+    "republika",
+    "senat",
+    "Juliusz Cezar"
+  ],
+
+  "learningGoals": [
+    {
+      "pl": "opisuje początki państwa rzymskiego",
+      "ua": "описує виникнення Римської держави"
+    },
+    {
+      "pl": "wyjaśnia zasady funkcjonowania republiki rzymskiej",
+      "ua": "пояснює принципи римської республіки"
+    },
+    {
+      "pl": "charakteryzuje rolę Juliusza Cezara i Oktawiana Augusta",
+      "ua": "характеризує роль Юлія Цезаря та Октавіана Августа"
+    }
+  ],
+
+  "status": "PLAN",
+
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-018",
+
+  "class": 5,
+
+  "subject": "HIS",
+
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+
+  "chapter": {
+    "pl": "Rozdział III: Starożytny Rzym",
+    "ua": "Стародавній Рим"
+  },
+
+  "title": {
+    "pl": "Imperium Rzymskie",
+    "ua": "Римська імперія"
+  },
+
+  "keywords": [
+    "Imperium Rzymskie",
+    "legiony",
+    "prowincje",
+    "romanizacja"
+  ],
+
+  "learningGoals": [
+    {
+      "pl": "opisuje rozwój i zasięg Imperium Rzymskiego",
+      "ua": "описує розвиток і територію Римської імперії"
+    },
+    {
+      "pl": "wyjaśnia rolę legionów i prowincji w państwie rzymskim",
+      "ua": "пояснює роль легіонів і провінцій у Римській державі"
+    },
+    {
+      "pl": "charakteryzuje przyczyny podziału i upadku Cesarstwa Zachodniorzymskiego",
+      "ua": "характеризує причини поділу та падіння Західної Римської імперії"
+    }
+  ],
+
+  "status": "PLAN",
+
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-019",
+
+  "class": 5,
+
+  "subject": "HIS",
+
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+
+  "chapter": {
+    "pl": "Rozdział III: Starożytny Rzym",
+    "ua": "Стародавній Рим"
+  },
+
+  "title": {
+    "pl": "Życie w Wiecznym Mieście",
+    "ua": "Життя у Вічному місті"
+  },
+
+  "keywords": [
+    "Rzym",
+    "Forum Romanum",
+    "gladiatorzy",
+    "patrycjusze"
+  ],
+
+  "learningGoals": [
+    {
+      "pl": "opisuje życie codzienne mieszkańców starożytnego Rzymu",
+      "ua": "описує повсякденне життя мешканців Стародавнього Риму"
+    },
+    {
+      "pl": "charakteryzuje grupy społeczne w Rzymie",
+      "ua": "характеризує суспільні групи Стародавнього Риму"
+    },
+    {
+      "pl": "wyjaśnia rolę Forum Romanum i rozrywek rzymskich",
+      "ua": "пояснює роль Форуму та римських розваг"
+    }
+  ],
+
+  "status": "PLAN",
+
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-020",
+
+  "class": 5,
+
+  "subject": "HIS",
+
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+
+  "chapter": {
+    "pl": "Rozdział III: Starożytny Rzym",
+    "ua": "Стародавній Рим"
+  },
+
+  "title": {
+    "pl": "Dokonania starożytnych Rzymian",
+    "ua": "Досягнення стародавніх римлян"
+  },
+
+  "keywords": [
+    "Koloseum",
+    "akwedukt",
+    "prawo rzymskie",
+    "Panteon"
+  ],
+
+  "learningGoals": [
+    {
+      "pl": "opisuje najważniejsze osiągnięcia starożytnych Rzymian",
+      "ua": "описує найважливіші досягнення стародавніх римлян"
+    },
+    {
+      "pl": "wyjaśnia znaczenie prawa rzymskiego",
+      "ua": "пояснює значення римського права"
+    },
+    {
+      "pl": "rozpoznaje najważniejsze budowle starożytnego Rzymu",
+      "ua": "розпізнає найважливіші споруди Стародавнього Риму"
+    }
+  ],
+
+  "status": "PLAN",
+
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-021",
+
+  "class": 5,
+
+  "subject": "HIS",
+
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+
+  "chapter": {
+    "pl": "Rozdział III: Starożytny Rzym",
+    "ua": "Стародавній Рим"
+  },
+
+  "title": {
+    "pl": "Początki chrześcijaństwa",
+    "ua": "Початки християнства"
+  },
+
+  "keywords": [
+    "Jezus",
+    "chrześcijaństwo",
+    "apostołowie",
+    "Edykt mediolański"
+  ],
+
+  "learningGoals": [
+    {
+      "pl": "wyjaśnia powstanie chrześcijaństwa",
+      "ua": "пояснює виникнення християнства"
+    },
+    {
+      "pl": "charakteryzuje działalność Jezusa i apostołów",
+      "ua": "характеризує діяльність Ісуса та апостолів"
+    },
+    {
+      "pl": "wyjaśnia znaczenie Edyktu mediolańskiego",
+      "ua": "пояснює значення Міланського едикту"
+    }
+  ],
+
+  "status": "PLAN",
+
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-022",
+
+  "class": 5,
+
+  "subject": "HIS",
+
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+
+  "chapter": {
+    "pl": "Rozdział III: Starożytny Rzym",
+    "ua": "Стародавній Рим"
+  },
+
+  "title": {
+    "pl": "Tajemnice sprzed wieków – Bursztynowy szlak",
+    "ua": "Таємниці минулих віків – Бурштиновий шлях"
+  },
+
+  "keywords": [
+    "bursztyn",
+    "Bursztynowy szlak",
+    "Rzymianie",
+    "Kalisz"
+  ],
+
+  "learningGoals": [
+    {
+      "pl": "wyjaśnia znaczenie bursztynu w starożytności",
+      "ua": "пояснює значення бурштину в давнину"
+    },
+    {
+      "pl": "opisuje przebieg Bursztynowego Szlaku",
+      "ua": "описує маршрут Бурштинового шляху"
+    },
+    {
+      "pl": "charakteryzuje kontakty handlowe Rzymian z ziemiami nad Bałtykiem",
+      "ua": "характеризує торговельні зв'язки римлян із землями Балтійського узбережжя"
+    }
+  ],
+
+  "status": "PLAN",
+
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-023",
+
+  "class": 5,
+
+  "subject": "HIS",
+
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+
+  "chapter": {
+    "pl": "Rozdział III: Starożytny Rzym",
+    "ua": "Стародавній Рим"
+  },
+
+  "title": {
+    "pl": "Powtórzenie wiadomości z rozdziału III",
+    "ua": "Повторення матеріалу розділу III"
+  },
+
+  "keywords": [
+    "Rzym",
+    "powtórzenie",
+    "republika",
+    "cesarstwo"
+  ],
+
+  "learningGoals": [
+    {
+      "pl": "utrwala wiadomości z rozdziału",
+      "ua": "узагальнює знання з розділу"
+    },
+    {
+      "pl": "rozpoznaje najważniejsze wydarzenia i postacie",
+      "ua": "розпізнає найважливіші події та історичних діячів"
+    },
+    {
+      "pl": "przygotowuje się do sprawdzianu",
+      "ua": "готується до контрольної роботи"
+    }
+  ],
+
+  "status": "PLAN",
+
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-024",
+
+  "class": 5,
+
+  "subject": "HIS",
+
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+
+  "chapter": {
+    "pl": "Rozdział III: Starożytny Rzym",
+    "ua": "Стародавній Рим"
+  },
+
+  "title": {
+    "pl": "Sprawdzian z rozdziału III",
+    "ua": "Контрольна робота з розділу III"
+  },
+
+  "keywords": [
+    "sprawdzian",
+    "Rzym",
+    "test"
+  ],
+
+  "learningGoals": [
+    {
+      "pl": "sprawdza wiedzę z rozdziału",
+      "ua": "перевіряє знання з розділу"
+    }
+  ],
+
+  "status": "PLAN",
+
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-025",
+
+  "class": 5,
+
+  "subject": "HIS",
+
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+
+  "chapter": {
+    "pl": "Rozdział IV: Początki średniowiecza",
+    "ua": "Початки середньовіччя"
+  },
+
+  "title": {
+    "pl": "Bizancjum w czasach świetności",
+    "ua": "Візантія в часи розквіту"
+  },
+
+  "keywords": [
+    "Bizancjum",
+    "Konstantynopol",
+    "Justynian I Wielki",
+    "Hagia Sophia",
+    "mozaika"
+  ],
+
+  "learningGoals": [
+    {
+      "pl": "wyjaśnia znaczenie Konstantynopola dla Bizancjum",
+      "ua": "пояснює значення Константинополя для Візантії"
+    },
+    {
+      "pl": "omawia dokonania Justyniana I Wielkiego",
+      "ua": "характеризує досягнення Юстиніана I Великого"
+    },
+    {
+      "pl": "rozpoznaje cechy sztuki bizantyjskiej",
+      "ua": "розпізнає особливості візантійського мистецтва"
+    }
+  ],
+
+  "status": "PLAN",
+
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-026",
+
+  "class": 5,
+
+  "subject": "HIS",
+
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+
+  "chapter": {
+    "pl": "Rozdział IV: Początki średniowiecza",
+    "ua": "Початки середньовіччя"
+  },
+
+  "title": {
+    "pl": "Arabowie i początki islamu",
+    "ua": "Араби і початки ісламу"
+  },
+
+  "keywords": [
+    "Mahomet",
+    "islam",
+    "Mekka",
+    "Medyna",
+    "Koran"
+  ],
+
+  "learningGoals": [
+    {
+      "pl": "przedstawia postać Mahometa i początki islamu",
+      "ua": "характеризує діяльність Магомета та виникнення ісламу"
+    },
+    {
+      "pl": "omawia podstawowe zasady religii muzułmańskiej",
+      "ua": "пояснює основні принципи мусульманської релігії"
+    },
+    {
+      "pl": "wskazuje osiągnięcia kultury i nauki arabskiej",
+      "ua": "називає досягнення арабської культури та науки"
+    }
+  ],
+
+  "status": "PLAN",
+
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-027",
+
+  "class": 5,
+
+  "subject": "HIS",
+
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+
+  "chapter": {
+    "pl": "Rozdział IV: Początki średniowiecza",
+    "ua": "Початки середньовіччя"
+  },
+
+  "title": {
+    "pl": "Nowe państwa w Europie",
+    "ua": "Нові держави в Європі"
+  },
+
+  "keywords": [
+    "Frankowie",
+    "Karol Wielki",
+    "Karolingowie",
+    "traktat w Verdun",
+    "Rzesza Niemiecka"
+  ],
+
+  "learningGoals": [
+    {
+      "pl": "omawia rolę Karola Wielkiego w dziejach Europy",
+      "ua": "характеризує роль Карла Великого в історії Європи"
+    },
+    {
+      "pl": "wyjaśnia skutki traktatu w Verdun",
+      "ua": "пояснює наслідки Верденського договору"
+    },
+    {
+      "pl": "opisuje powstanie nowych państw europejskich",
+      "ua": "описує виникнення нових держав у Європі"
+    }
+  ],
+
+  "status": "PLAN",
+
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-028",
+
+  "class": 5,
+
+  "subject": "HIS",
+
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+
+  "chapter": {
+    "pl": "Rozdział IV: Początki średniowiecza",
+    "ua": "Початки середньовіччя"
+  },
+
+  "title": {
+    "pl": "Konflikt papiestwa z cesarstwem",
+    "ua": "Конфлікт папства з імперією"
+  },
+
+  "keywords": [
+    "schizma",
+    "inwestytura",
+    "Grzegorz VII",
+    "Henryk IV",
+    "konkordat"
+  ],
+
+  "learningGoals": [
+    {
+      "pl": "wyjaśnia przyczyny wielkiej schizmy wschodniej",
+      "ua": "пояснює причини Великої схизми"
+    },
+    {
+      "pl": "opisuje spór o inwestyturę",
+      "ua": "характеризує суперечку за інвеституру"
+    },
+    {
+      "pl": "omawia spotkanie Grzegorza VII i Henryka IV w Canossie",
+      "ua": "описує зустріч Григорія VII та Генріха IV у Каноссі"
+    }
+  ],
+
+  "status": "PLAN",
+
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-029",
+
+  "class": 5,
+
+  "subject": "HIS",
+
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+
+  "chapter": {
+    "pl": "Rozdział IV: Początki średniowiecza",
+    "ua": "Початки середньовіччя"
+  },
+
+  "title": {
+    "pl": "Wyprawy krzyżowe",
+    "ua": "Хрестові походи"
+  },
+
+  "keywords": [
+    "krucjaty",
+    "Ziemia Święta",
+    "templariusze",
+    "joannici",
+    "Urban II"
+  ],
+
+  "learningGoals": [
+    {
+      "pl": "wyjaśnia przyczyny wypraw krzyżowych",
+      "ua": "пояснює причини хрестових походів"
+    },
+    {
+      "pl": "opisuje skutki krucjat",
+      "ua": "характеризує наслідки хрестових походів"
+    },
+    {
+      "pl": "rozpoznaje zakony rycerskie",
+      "ua": "розрізняє основні лицарські ордени"
+    }
+  ],
+
+  "status": "PLAN",
+
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-030",
+
+  "class": 5,
+
+  "subject": "HIS",
+
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+
+  "chapter": {
+    "pl": "Rozdział IV: Początki średniowiecza",
+    "ua": "Початки середньовіччя"
+  },
+
+  "title": {
+    "pl": "Tajemnice sprzed wieków – Skarb templariuszy",
+    "ua": "Таємниці минулих віків – Скарб тамплієрів"
+  },
+
+  "keywords": [
+    "templariusze",
+    "zakon rycerski",
+    "Jakub de Molay",
+    "skarb templariuszy",
+    "Święty Graal"
+  ],
+
+  "learningGoals": [
+    {
+      "pl": "opisuje dzieje zakonu templariuszy",
+      "ua": "описує історію ордену тамплієрів"
+    },
+    {
+      "pl": "wyjaśnia przyczyny upadku zakonu",
+      "ua": "пояснює причини занепаду ордену"
+    },
+    {
+      "pl": "zna legendę o skarbie templariuszy",
+      "ua": "знає легенду про скарб тамплієрів"
+    }
+  ],
+
+  "status": "PLAN",
+
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-031",
+
+  "class": 5,
+
+  "subject": "HIS",
+
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+
+  "chapter": {
+    "pl": "Rozdział IV: Początki średniowiecza",
+    "ua": "Початки середньовіччя"
+  },
+
+  "title": {
+    "pl": "Powtórzenie wiadomości z rozdziału IV",
+    "ua": "Повторення матеріалу розділу IV"
+  },
+
+  "keywords": [
+    "Bizancjum",
+    "islam",
+    "Karol Wielki",
+    "schizma",
+    "krucjaty"
+  ],
+
+  "learningGoals": [
+    {
+      "pl": "powtarza najważniejsze wydarzenia rozdziału",
+      "ua": "повторює основні події розділу"
+    },
+    {
+      "pl": "utrwala poznane pojęcia historyczne",
+      "ua": "закріплює вивчені історичні поняття"
+    },
+    {
+      "pl": "przygotowuje się do sprawdzianu",
+      "ua": "готується до контрольної роботи"
+    }
+  ],
+
+  "status": "PLAN",
+
+  "url": "",
+
+  "lessonType": "REVIEW"
+},
+{
+  "id": "HIS5-UZ-032",
+
+  "class": 5,
+
+  "subject": "HIS",
+
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+
+  "chapter": {
+    "pl": "Rozdział IV: Początki średniowiecza",
+    "ua": "Початки середньовіччя"
+  },
+
+  "title": {
+    "pl": "Sprawdzian z rozdziału IV",
+    "ua": "Контрольна робота з розділу IV"
+  },
+
+  "keywords": [
+    "Bizancjum",
+    "średniowiecze",
+    "islam",
+    "Karol Wielki",
+    "krucjaty"
+  ],
+
+  "learningGoals": [
+    {
+      "pl": "sprawdza wiedzę z rozdziału",
+      "ua": "перевіряє знання з розділу"
+    },
+    {
+      "pl": "rozwiązuje zadania historyczne",
+      "ua": "виконує історичні завдання"
+    },
+    {
+      "pl": "wykorzystuje poznane pojęcia i daty",
+      "ua": "використовує вивчені поняття та дати"
+    }
+  ],
+
+  "status": "PLAN",
+
+  "url": "",
+
+  "lessonType": "TEST"
+},
+
+
+
+{
+  "id": "HIS5-UZ-033",
+  "class": 5,
+  "subject": "HIS",
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+  "chapter": {
+    "pl": "Rozdział V: Społeczeństwo średniowiecza",
+    "ua": "Середньовічне суспільство"
+  },
+  "title": {
+    "pl": "System feudalny",
+    "ua": "Феодальна система"
+  },
+  "keywords": [
+    "feudalizm",
+    "senior",
+    "wasal",
+    "lenno",
+    "hołd lenny"
+  ],
+  "learningGoals": [
+    {
+      "pl": "opisuje zależności między seniorem a wasalem",
+      "ua": "пояснює відносини між сеньйором і васалом"
+    },
+    {
+      "pl": "przedstawia drabinę feudalną",
+      "ua": "описує феодальну драбину"
+    },
+    {
+      "pl": "charakteryzuje stany społeczne średniowiecza",
+      "ua": "характеризує стани середньовічного суспільства"
+    }
+  ],
+  "status": "PLAN",
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-034",
+  "class": 5,
+  "subject": "HIS",
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+  "chapter": {
+    "pl": "Rozdział V: Społeczeństwo średniowiecza",
+    "ua": "Середньовічне суспільство"
+  },
+  "title": {
+    "pl": "Epoka rycerzy",
+    "ua": "Епоха лицарів"
+  },
+  "keywords": [
+    "rycerz",
+    "paź",
+    "giermek",
+    "pasowanie",
+    "herb"
+  ],
+  "learningGoals": [
+    {
+      "pl": "opisuje drogę od pazia do rycerza",
+      "ua": "описує шлях від пажа до лицаря"
+    },
+    {
+      "pl": "charakteryzuje ideał rycerza",
+      "ua": "характеризує ідеал середньовічного лицаря"
+    },
+    {
+      "pl": "rozpoznaje elementy uzbrojenia rycerskiego",
+      "ua": "розпізнає елементи лицарського спорядження"
+    }
+  ],
+  "status": "PLAN",
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-035",
+  "class": 5,
+  "subject": "HIS",
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+  "chapter": {
+    "pl": "Rozdział V: Społeczeństwo średniowiecza",
+    "ua": "Середньовічне суспільство"
+  },
+  "title": {
+    "pl": "Tajemnice sprzed wieków – Dlaczego rycerze brali udział w turniejach?",
+    "ua": "Таємниці минулих віків – Чому лицарі брали участь у турнірах?"
+  },
+  "keywords": [
+    "turniej rycerski",
+    "rycerze",
+    "zwycięstwo",
+    "nagrody",
+    "obyczaje"
+  ],
+  "learningGoals": [
+    {
+      "pl": "wyjaśnia przyczyny organizowania turniejów",
+      "ua": "пояснює причини проведення лицарських турнірів"
+    },
+    {
+      "pl": "opisuje przebieg turnieju rycerskiego",
+      "ua": "описує перебіг лицарського турніру"
+    },
+    {
+      "pl": "omawia nagrody i konsekwencje udziału w turnieju",
+      "ua": "характеризує нагороди та наслідки участі в турнірі"
+    }
+  ],
+  "status": "PLAN",
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-036",
+  "class": 5,
+  "subject": "HIS",
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+  "chapter": {
+    "pl": "Rozdział V: Społeczeństwo średniowiecza",
+    "ua": "Середньовічне суспільство"
+  },
+  "title": {
+    "pl": "Średniowieczne miasto i wieś",
+    "ua": "Середньовічне місто і село"
+  },
+  "keywords": [
+    "lokacja",
+    "rynek",
+    "rzemieślnicy",
+    "cech",
+    "sołtys"
+  ],
+  "learningGoals": [
+    {
+      "pl": "opisuje życie mieszkańców średniowiecznego miasta",
+      "ua": "описує життя мешканців середньовічного міста"
+    },
+    {
+      "pl": "charakteryzuje życie na wsi",
+      "ua": "характеризує життя середньовічного села"
+    },
+    {
+      "pl": "wyjaśnia znaczenie lokacji miast",
+      "ua": "пояснює значення заснування міст"
+    }
+  ],
+  "status": "PLAN",
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-037",
+  "class": 5,
+  "subject": "HIS",
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+  "chapter": {
+    "pl": "Rozdział V: Społeczeństwo średniowiecza",
+    "ua": "Середньовічне суспільство"
+  },
+  "title": {
+    "pl": "Kościół w średniowieczu",
+    "ua": "Церква в середньовіччі"
+  },
+  "keywords": [
+    "klasztor",
+    "zakon",
+    "benedyktyni",
+    "franciszkanie",
+    "uniwersytet"
+  ],
+  "learningGoals": [
+    {
+      "pl": "opisuje rolę Kościoła w średniowieczu",
+      "ua": "описує роль церкви в середньовічному суспільстві"
+    },
+    {
+      "pl": "charakteryzuje życie w klasztorze",
+      "ua": "характеризує життя в монастирі"
+    },
+    {
+      "pl": "rozpoznaje najważniejsze zakony średniowieczne",
+      "ua": "розпізнає основні середньовічні чернечі ордени"
+    }
+  ],
+  "status": "PLAN",
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-038",
+  "class": 5,
+  "subject": "HIS",
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+  "chapter": {
+    "pl": "Rozdział V: Społeczeństwo średniowiecza",
+    "ua": "Середньовічне суспільство"
+  },
+  "title": {
+    "pl": "Sztuka średniowiecza",
+    "ua": "Мистецтво середньовіччя"
+  },
+  "keywords": [
+    "styl romański",
+    "styl gotycki",
+    "witraże",
+    "Biblia pauperum",
+    "miniatura"
+  ],
+  "learningGoals": [
+    {
+      "pl": "rozróżnia styl romański i gotycki",
+      "ua": "розрізняє романський і готичний стилі"
+    },
+    {
+      "pl": "wyjaśnia znaczenie Biblii pauperum",
+      "ua": "пояснює значення Біблії бідних"
+    },
+    {
+      "pl": "rozpoznaje cechy sztuki średniowiecznej",
+      "ua": "розпізнає особливості середньовічного мистецтва"
+    }
+  ],
+  "status": "PLAN",
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-039",
+  "title": {
+    "pl": "Powtórzenie wiadomości z rozdziału V",
+    "ua": "Повторення матеріалу розділу V"
+  },
+  "lessonType": "REVIEW",
+  "status": "PLAN"
+},
+{
+  "id": "HIS5-UZ-040",
+  "title": {
+    "pl": "Sprawdzian z rozdziału V",
+    "ua": "Контрольна робота з розділу V"
+  },
+  "lessonType": "TEST",
+  "status": "PLAN"
+},
+
+{
+  "id": "HIS5-UZ-041",
+  "class": 5,
+  "subject": "HIS",
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+  "chapter": {
+    "pl": "Rozdział VI: Polska pierwszych Piastów",
+    "ua": "Польща перших П'ястів"
+  },
+  "title": {
+    "pl": "Zanim powstała Polska",
+    "ua": "До виникнення Польщі"
+  },
+  "keywords": [
+    "Słowianie",
+    "Biskupin",
+    "Polanie",
+    "Wiślanie",
+    "Świętowit"
+  ],
+  "learningGoals": [
+    {
+      "pl": "opisuje życie i kulturę Słowian",
+      "ua": "описує життя і культуру слов'ян"
+    },
+    {
+      "pl": "wyjaśnia znaczenie osady w Biskupinie",
+      "ua": "пояснює значення поселення в Біскупіні"
+    },
+    {
+      "pl": "rozpoznaje najważniejsze plemiona słowiańskie na ziemiach polskich",
+      "ua": "розпізнає найважливіші слов'янські племена на польських землях"
+    }
+  ],
+  "status": "PLAN",
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-042",
+  "class": 5,
+  "subject": "HIS",
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+  "chapter": {
+    "pl": "Rozdział VI: Polska pierwszych Piastów",
+    "ua": "Польща перших П'ястів"
+  },
+  "title": {
+    "pl": "Mieszko I i początki Polski",
+    "ua": "Мешко I і початки Польщі"
+  },
+  "keywords": [
+    "Mieszko I",
+    "Piastowie",
+    "chrzest Polski",
+    "Dobrawa",
+    "Cedynia"
+  ],
+  "learningGoals": [
+    {
+      "pl": "opisuje okoliczności chrztu Polski",
+      "ua": "описує обставини хрещення Польщі"
+    },
+    {
+      "pl": "wyjaśnia znaczenie rządów Mieszka I",
+      "ua": "пояснює значення правління Мешка I"
+    },
+    {
+      "pl": "omawia skutki chrztu Polski",
+      "ua": "характеризує наслідки хрещення Польщі"
+    }
+  ],
+  "status": "PLAN",
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-043",
+  "class": 5,
+  "subject": "HIS",
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+  "chapter": {
+    "pl": "Rozdział VI: Polska pierwszych Piastów",
+    "ua": "Польща перших П'ястів"
+  },
+  "title": {
+    "pl": "Polska Bolesława Chrobrego",
+    "ua": "Польща Болеслава Хороброго"
+  },
+  "keywords": [
+    "Bolesław Chrobry",
+    "zjazd gnieźnieński",
+    "święty Wojciech",
+    "koronacja",
+    "Otton III"
+  ],
+  "learningGoals": [
+    {
+      "pl": "opisuje znaczenie zjazdu gnieźnieńskiego",
+      "ua": "пояснює значення Гнєзненського з'їзду"
+    },
+    {
+      "pl": "wyjaśnia rolę świętego Wojciecha",
+      "ua": "пояснює роль святого Войцеха"
+    },
+    {
+      "pl": "charakteryzuje panowanie Bolesława Chrobrego",
+      "ua": "характеризує правління Болеслава Хороброго"
+    }
+  ],
+  "status": "PLAN",
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-044",
+  "class": 5,
+  "subject": "HIS",
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+  "chapter": {
+    "pl": "Rozdział VI: Polska pierwszych Piastów",
+    "ua": "Польща перших П'ястів"
+  },
+  "title": {
+    "pl": "Kryzys i odbudowa państwa polskiego",
+    "ua": "Криза і відбудова польської держави"
+  },
+  "keywords": [
+    "Kazimierz Odnowiciel",
+    "Bolesław Śmiały",
+    "kryzys państwa",
+    "biskup Stanisław",
+    "odbudowa"
+  ],
+  "learningGoals": [
+    {
+      "pl": "opisuje kryzys państwa po śmierci Bolesława Chrobrego",
+      "ua": "описує кризу держави після смерті Болеслава Хороброго"
+    },
+    {
+      "pl": "wyjaśnia rolę Kazimierza Odnowiciela",
+      "ua": "пояснює роль Казимира Відновителя"
+    },
+    {
+      "pl": "charakteryzuje rządy Bolesława Śmiałego",
+      "ua": "характеризує правління Болеслава Сміливого"
+    }
+  ],
+  "status": "PLAN",
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-045",
+  "class": 5,
+  "subject": "HIS",
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+  "chapter": {
+    "pl": "Rozdział VI: Polska pierwszych Piastów",
+    "ua": "Польща перших П'ястів"
+  },
+  "title": {
+    "pl": "Rządy Bolesława Krzywoustego",
+    "ua": "Правління Болеслава Кривоустого"
+  },
+  "keywords": [
+    "Bolesław Krzywousty",
+    "statut",
+    "seniorat",
+    "Głogów",
+    "Zbigniew"
+  ],
+  "learningGoals": [
+    {
+      "pl": "opisuje rządy Bolesława Krzywoustego",
+      "ua": "описує правління Болеслава Кривоустого"
+    },
+    {
+      "pl": "wyjaśnia zasadę senioratu",
+      "ua": "пояснює принцип сеньйорату"
+    },
+    {
+      "pl": "omawia skutki statutu Krzywoustego",
+      "ua": "характеризує наслідки статуту Кривоустого"
+    }
+  ],
+  "status": "PLAN",
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-046",
+  "class": 5,
+  "subject": "HIS",
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+  "chapter": {
+    "pl": "Rozdział VI: Polska pierwszych Piastów",
+    "ua": "Польща перших П'ястів"
+  },
+  "title": {
+    "pl": "Społeczeństwo w czasach pierwszych Piastów",
+    "ua": "Суспільство за часів перших П'ястів"
+  },
+  "keywords": [
+    "gród",
+    "podgrodzie",
+    "danina",
+    "drużyna książęca",
+    "osada służebna"
+  ],
+  "learningGoals": [
+    {
+      "pl": "opisuje życie w grodzie i podgrodziu",
+      "ua": "описує життя в городі та підгородді"
+    },
+    {
+      "pl": "charakteryzuje społeczeństwo państwa pierwszych Piastów",
+      "ua": "характеризує суспільство держави перших П'ястів"
+    },
+    {
+      "pl": "wyjaśnia obowiązki poddanych wobec władcy",
+      "ua": "пояснює обов'язки підданих щодо правителя"
+    }
+  ],
+  "status": "PLAN",
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-047",
+  "class": 5,
+  "subject": "HIS",
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+  "chapter": {
+    "pl": "Rozdział VI: Polska pierwszych Piastów",
+    "ua": "Польща перших П'ястів"
+  },
+  "title": {
+    "pl": "Tajemnice sprzed wieków – Kto spisywał dzieje Polski?",
+    "ua": "Таємниці минулих віків – Хто записував історію Польщі?"
+  },
+  "keywords": [
+    "Gall Anonim",
+    "Wincenty Kadłubek",
+    "kronika",
+    "źródła historyczne",
+    "Piastowie"
+  ],
+  "learningGoals": [
+    {
+      "pl": "wyjaśnia rolę kronikarzy w poznawaniu historii",
+      "ua": "пояснює роль хроністів у вивченні історії"
+    },
+    {
+      "pl": "charakteryzuje działalność Galla Anonima i Wincentego Kadłubka",
+      "ua": "характеризує діяльність Галла Аноніма та Вінцентія Кадлубка"
+    },
+    {
+      "pl": "rozpoznaje znaczenie źródeł historycznych",
+      "ua": "розуміє значення історичних джерел"
+    }
+  ],
+  "status": "PLAN",
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-048",
+  "title": {
+    "pl": "Powtórzenie wiadomości z rozdziału VI",
+    "ua": "Повторення матеріалу розділу VI"
+  },
+  "lessonType": "REVIEW",
+  "status": "PLAN"
+},
+{
+  "id": "HIS5-UZ-049",
+  "title": {
+    "pl": "Sprawdzian z rozdziału VI",
+    "ua": "Контрольна робота з розділу VI"
+  },
+  "lessonType": "TEST",
+  "status": "PLAN"
+},
+
+
+
+
+{
+  "id": "HIS5-UZ-050",
+  "class": 5,
+  "subject": "HIS",
+  "book": {
+    "pl": "Wczoraj i dziś 5",
+    "ua": "Учора і сьогодні 5"
+  },
+  "chapter": {
+    "pl": "Rozdział VII: Polska w XIII–XV wieku",
+    "ua": "Польща у XIII–XV століттях"
+  },
+  "title": {
+    "pl": "Rozbicie dzielnicowe",
+    "ua": "Період роздробленості"
+  },
+  "keywords": [
+    "rozbicie dzielnicowe",
+    "Krzyżacy",
+    "Mongołowie",
+    "Legnica",
+    "kolonizacja"
+  ],
+  "learningGoals": [
+    {
+      "pl": "wyjaśnia przyczyny rozbicia dzielnicowego",
+      "ua": "пояснює причини роздробленості Польщі"
+    },
+    {
+      "pl": "opisuje skutki sprowadzenia Krzyżaków",
+      "ua": "описує наслідки запрошення Тевтонського ордену"
+    },
+    {
+      "pl": "charakteryzuje sytuację Polski w okresie rozbicia dzielnicowego",
+      "ua": "характеризує Польщу в період роздробленості"
+    }
+  ],
+  "status": "PLAN",
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-051",
+  "class": 5,
+  "subject": "HIS",
+  "chapter": {
+    "pl": "Rozdział VII: Polska w XIII–XV wieku",
+    "ua": "Польща у XIII–XV століттях"
+  },
+  "title": {
+    "pl": "Zjednoczenie Polski",
+    "ua": "Об'єднання Польщі"
+  },
+  "keywords": [
+    "Władysław Łokietek",
+    "Przemysł II",
+    "Jakub Świnka",
+    "Koronacja",
+    "Pomorze Gdańskie"
+  ],
+  "learningGoals": [
+    {
+      "pl": "opisuje proces zjednoczenia Polski",
+      "ua": "описує процес об'єднання Польщі"
+    },
+    {
+      "pl": "wyjaśnia rolę Władysława Łokietka",
+      "ua": "пояснює роль Владислава Локетка"
+    },
+    {
+      "pl": "charakteryzuje znaczenie koronacji z 1320 roku",
+      "ua": "характеризує значення коронації 1320 року"
+    }
+  ],
+  "status": "PLAN",
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-052",
+  "class": 5,
+  "subject": "HIS",
+  "chapter": {
+    "pl": "Rozdział VII: Polska w XIII–XV wieku",
+    "ua": "Польща у XIII–XV століттях"
+  },
+  "title": {
+    "pl": "Czasy Kazimierza Wielkiego",
+    "ua": "Часи Казимира Великого"
+  },
+  "keywords": [
+    "Kazimierz Wielki",
+    "Akademia Krakowska",
+    "Orle Gniazda",
+    "Wierzynek",
+    "Kalisz"
+  ],
+  "learningGoals": [
+    {
+      "pl": "opisuje reformy Kazimierza Wielkiego",
+      "ua": "описує реформи Казимира Великого"
+    },
+    {
+      "pl": "wyjaśnia znaczenie Akademii Krakowskiej",
+      "ua": "пояснює значення Краківської академії"
+    },
+    {
+      "pl": "charakteryzuje rozwój Polski za panowania Kazimierza Wielkiego",
+      "ua": "характеризує розвиток Польщі за правління Казимира Великого"
+    }
+  ],
+  "status": "PLAN",
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-053",
+  "class": 5,
+  "subject": "HIS",
+  "chapter": {
+    "pl": "Rozdział VII: Polska w XIII–XV wieku",
+    "ua": "Польща у XIII–XV століттях"
+  },
+  "title": {
+    "pl": "Unia polsko-litewska",
+    "ua": "Польсько-литовська унія"
+  },
+  "keywords": [
+    "Jadwiga",
+    "Jagiełło",
+    "Grunwald",
+    "Krewo",
+    "Litwa"
+  ],
+  "learningGoals": [
+    {
+      "pl": "wyjaśnia przyczyny zawarcia unii polsko-litewskiej",
+      "ua": "пояснює причини укладення польсько-литовської унії"
+    },
+    {
+      "pl": "opisuje bitwę pod Grunwaldem",
+      "ua": "описує Грюнвальдську битву"
+    },
+    {
+      "pl": "charakteryzuje współpracę Polski i Litwy",
+      "ua": "характеризує співпрацю Польщі та Литви"
+    }
+  ],
+  "status": "PLAN",
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-054",
+  "class": 5,
+  "subject": "HIS",
+  "chapter": {
+    "pl": "Rozdział VII: Polska w XIII–XV wieku",
+    "ua": "Польща у XIII–XV століттях"
+  },
+  "title": {
+    "pl": "Tajemnice sprzed wieków – Jaką bitwę namalował Jan Matejko?",
+    "ua": "Таємниці минулих віків – Яку битву намалював Ян Матейко?"
+  },
+  "keywords": [
+    "Jan Matejko",
+    "Bitwa pod Grunwaldem",
+    "malarstwo historyczne",
+    "źródła historyczne",
+    "sztuka"
+  ],
+  "learningGoals": [
+    {
+      "pl": "wyjaśnia znaczenie obrazu Bitwa pod Grunwaldem",
+      "ua": "пояснює значення картини «Битва під Грюнвальдом»"
+    },
+    {
+      "pl": "opisuje działalność Jana Matejki",
+      "ua": "описує діяльність Яна Матейка"
+    },
+    {
+      "pl": "rozpoznaje rolę dzieł sztuki jako źródeł historycznych",
+      "ua": "розуміє роль творів мистецтва як історичних джерел"
+    }
+  ],
+  "status": "PLAN",
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-055",
+  "class": 5,
+  "subject": "HIS",
+  "chapter": {
+    "pl": "Rozdział VII: Polska w XIII–XV wieku",
+    "ua": "Польща у XIII–XV століттях"
+  },
+  "title": {
+    "pl": "Czasy świetności dynastii Jagiellonów",
+    "ua": "Часи розквіту династії Ягеллонів"
+  },
+  "keywords": [
+    "Jagiellonowie",
+    "wojna trzynastoletnia",
+    "Związek Pruski",
+    "Prusy Królewskie",
+    "Kazimierz Jagiellończyk"
+  ],
+  "learningGoals": [
+    {
+      "pl": "opisuje rozwój państwa za Jagiellonów",
+      "ua": "описує розвиток держави за Ягеллонів"
+    },
+    {
+      "pl": "wyjaśnia znaczenie wojny trzynastoletniej",
+      "ua": "пояснює значення Тринадцятилітньої війни"
+    },
+    {
+      "pl": "charakteryzuje panowanie Kazimierza Jagiellończyka",
+      "ua": "характеризує правління Казимира Ягеллончика"
+    }
+  ],
+  "status": "PLAN",
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-056",
+  "class": 5,
+  "subject": "HIS",
+  "chapter": {
+    "pl": "Rozdział VII: Polska w XIII–XV wieku",
+    "ua": "Польща у XIII–XV століттях"
+  },
+  "title": {
+    "pl": "Monarchia stanowa w Polsce",
+    "ua": "Станова монархія в Польщі"
+  },
+  "keywords": [
+    "szlachta",
+    "sejm walny",
+    "Nihil novi",
+    "przywileje",
+    "senat"
+  ],
+  "learningGoals": [
+    {
+      "pl": "wyjaśnia czym była monarchia stanowa",
+      "ua": "пояснює, що таке станова монархія"
+    },
+    {
+      "pl": "opisuje rolę szlachty w państwie",
+      "ua": "описує роль шляхти в державі"
+    },
+    {
+      "pl": "wyjaśnia znaczenie konstytucji Nihil novi",
+      "ua": "пояснює значення конституції Nihil novi"
+    }
+  ],
+  "status": "PLAN",
+  "url": ""
+},
+{
+  "id": "HIS5-UZ-057",
+  "title": {
+    "pl": "Powtórzenie wiadomości z rozdziału VII",
+    "ua": "Повторення матеріалу розділу VII"
+  },
+  "lessonType": "REVIEW",
+  "status": "PLAN"
+},
+{
+  "id": "HIS5-UZ-058",
+  "title": {
+    "pl": "Sprawdzian z rozdziału VII",
+    "ua": "Контрольна робота з розділу VII"
+  },
+  "lessonType": "TEST",
+  "status": "PLAN"
+}
+
+
+
+
+
+
+
+]

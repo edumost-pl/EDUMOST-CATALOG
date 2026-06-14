@@ -88,6 +88,17 @@ body {
     opacity: .95;
 }
 
+.book-info{
+    margin-top:20px;
+    margin-bottom:25px;
+    font-size:1.3rem;
+    font-weight:600;
+    line-height:1.8;
+}
+
+.book-info div{
+    font-weight:600;
+}
 /* ==========================
    CONTAINER
 ========================== */
@@ -95,9 +106,7 @@ body {
 .container {
 
     width: min(1200px, 92%);
-
     margin: auto;
-
     padding: 60px 0;
 }
 
@@ -421,4 +430,44 @@ footer {
 .breadcrumbs a:hover {
 
     text-decoration: underline;
+}
+
+
+/* таблица */
+.lessons-table td{
+    vertical-align: top;
+}
+
+.lessons-table th:nth-child(1),
+.lessons-table td:nth-child(1){
+    width: 120px;
+}
+
+.lessons-table th:nth-child(2),
+.lessons-table td:nth-child(2){
+    width: 180px;
+}
+
+.lessons-table th:nth-child(4),
+.lessons-table td:nth-child(4){
+    width: 220px;
+}
+
+.lessons-table th:nth-child(6),
+.lessons-table td:nth-child(6){
+    width: 90px;
+}
+
+.lessons-table th:nth-child(7),
+.lessons-table td:nth-child(7){
+    width: 100px;
+}
+
+.learning-goals{
+    margin:0;
+    padding-left:18px;
+}
+
+.learning-goals li{
+    margin-bottom:4px;
 }

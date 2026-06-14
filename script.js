@@ -1,30 +1,58 @@
+/* ==================================================
+   EDUMOST CATALOG v2
+   Универсальный каталог уроков
+================================================== */
 
 let allLessons = [];
 let allSubjects = [];
 
-/* ==========================
-   ЗАГРУЗКА КАТАЛОГА
-========================== */
+/* ==================================================
+   ВСПОМОГАТЕЛЬНЫЕ ФУНКЦИИ
+================================================== */
+
+function getPL(field) {
+    return field?.pl || "";
+}
+
+function getUA(field) {
+    return field?.ua || "";
+}
+
+function getSubjectInfo(code) {
+    return (
+        allSubjects.find(
+            subject => subject.code === code
+        ) || {}
+    );
+}
+
+/* ==================================================
+   ЗАГРУЗКА ДАННЫХ
+================================================== */
 
 async function loadCatalog() {
+
     try {
 
         const lessonsResponse =
-            await fetch("./data/lessons.json");
+            await fetch(
+                "./data/lessons.json"
+            );
 
         allLessons =
             await lessonsResponse.json();
 
         const subjectsResponse =
-            await fetch("./data/subjects.json");
+            await fetch(
+                "./data/subjects.json"
+            );
 
         allSubjects =
             await subjectsResponse.json();
 
-        renderStats(allLessons);
-        renderSubjects(allSubjects);
+        renderStats();
+        renderSubjects();
         renderLessons(allLessons);
-
         initFilters();
 
     } catch (error) {
@@ -33,24 +61,25 @@ async function loadCatalog() {
             "Ошибка загрузки каталога:",
             error
         );
+
     }
 }
 
-/* ==========================
+/* ==================================================
    СТАТИСТИКА
-========================== */
+================================================== */
 
-function renderStats(lessons) {
+function renderStats() {
 
     document.getElementById(
         "totalLessons"
     ).textContent =
-        lessons.length;
+        allLessons.length;
 
     document.getElementById(
         "readyLessons"
     ).textContent =
-        lessons.filter(
+        allLessons.filter(
             lesson =>
                 lesson.status === "READY"
         ).length;
@@ -58,17 +87,17 @@ function renderStats(lessons) {
     document.getElementById(
         "planLessons"
     ).textContent =
-        lessons.filter(
+        allLessons.filter(
             lesson =>
                 lesson.status === "PLAN"
         ).length;
 }
 
-/* ==========================
+/* ==================================================
    ПРЕДМЕТЫ
-========================== */
+================================================== */
 
-function renderSubjects(subjects) {
+function renderSubjects() {
 
     const container =
         document.getElementById(
@@ -77,7 +106,7 @@ function renderSubjects(subjects) {
 
     container.innerHTML = "";
 
-    subjects.forEach(subject => {
+    allSubjects.forEach(subject => {
 
         container.innerHTML += `
 
@@ -92,7 +121,7 @@ function renderSubjects(subjects) {
 
             <h3>
                 ${subject.icon}
-                ${subject.name_ru}
+                ${subject.name_pl}
             </h3>
 
             <p>
@@ -102,12 +131,13 @@ function renderSubjects(subjects) {
         </div>
 
         `;
+
     });
 }
 
-/* ==========================
+/* ==================================================
    КАРТОЧКИ УРОКОВ
-========================== */
+================================================== */
 
 function renderLessons(lessons) {
 
@@ -118,14 +148,84 @@ function renderLessons(lessons) {
 
     container.innerHTML = "";
 
+    if (!lessons.length) {
+
+        container.innerHTML = `
+
+        <div class="empty-state">
+            Нічого не знайдено
+        </div>
+
+        `;
+
+        return;
+    }
+
     lessons.forEach(lesson => {
 
-        const subjectInfo =
-            allSubjects.find(
-                subject =>
-                    subject.code ===
-                    lesson.subject
+        const subject =
+            getSubjectInfo(
+                lesson.subject
             );
+
+        const titlePL =
+            getPL(
+                lesson.title
+            );
+
+        const titleUA =
+            getUA(
+                lesson.title
+            );
+
+        const chapterPL =
+            getPL(
+                lesson.chapter
+            );
+
+        const chapterUA =
+            getUA(
+                lesson.chapter
+            );
+
+        const bookPL =
+            getPL(
+                lesson.book
+            );
+
+        const keywords =
+            lesson.keywords?.length
+                ? lesson.keywords.join(" • ")
+                : "";
+
+        const learningGoals =
+            lesson.learningGoals?.length
+                ? `
+                <div class="lesson-goals">
+
+                    <strong>
+                        Учень повинен:
+                    </strong>
+
+                    <ul>
+
+                        ${lesson.learningGoals
+                            .slice(0, 4)
+                            .map(
+                                goal => `
+                                <li>
+                                    ${goal.ua}
+                                </li>
+                                `
+                            )
+                            .join("")
+                        }
+
+                    </ul>
+
+                </div>
+                `
+                : "";
 
         container.innerHTML += `
 
@@ -135,11 +235,11 @@ function renderLessons(lessons) {
                 class="subject-badge"
                 style="
                     background:
-                    ${subjectInfo?.color || '#999'}
+                    ${subject.color || "#999"}
                 "
             >
-                ${subjectInfo?.icon || '📘'}
-                ${lesson.subject}
+                ${subject.icon || "📘"}
+                ${subject.name_pl || lesson.subject}
             </div>
 
             <span class="lesson-id">
@@ -147,66 +247,115 @@ function renderLessons(lessons) {
             </span>
 
             <h3>
-                ${lesson.title_pl}
+                ${titlePL}
             </h3>
 
-            <p>
-                ${lesson.title_ua}
+            <p class="lesson-title-ua">
+                ${titleUA}
             </p>
 
-            <p>
-                Класс:
-                ${lesson.class}
-            </p>
+            ${
+                chapterPL
+                    ? `
+                    <div class="lesson-chapter">
+                        📚
+                        ${chapterPL}
+                    </div>
+                    `
+                    : ""
+            }
 
-            <p>
-                Статус:
-                ${lesson.status}
-            </p>
+            ${
+                chapterUA
+                    ? `
+                    <div class="lesson-chapter-ua">
+                        ${chapterUA}
+                    </div>
+                    `
+                    : ""
+            }
+
+            ${
+                bookPL
+                    ? `
+                    <div class="lesson-book">
+                        📖 ${bookPL}
+                    </div>
+                    `
+                    : ""
+            }
+
+            ${
+                keywords
+                    ? `
+                    <div class="lesson-keywords">
+                        ${keywords}
+                    </div>
+                    `
+                    : ""
+            }
+
+            ${learningGoals}
+
+            <div class="lesson-meta">
+
+                <span>
+                    🎓 Клас:
+                    ${lesson.class}
+                </span>
+
+                <span>
+                    📌 Статус:
+                    ${lesson.status}
+                </span>
+
+            </div>
 
             ${
                 lesson.url
                     ? `
-                <a
-                    href="${lesson.url}"
-                    target="_blank"
-                    class="lesson-button"
-                >
-                    Открыть урок
-                </a>
-                `
+                    <a
+                        href="${lesson.url}"
+                        target="_blank"
+                        class="lesson-button"
+                    >
+                        Відкрити урок
+                    </a>
+                    `
                     : ""
             }
 
         </div>
 
         `;
+
     });
 }
 
-/* ==========================
+/* ==================================================
    ФИЛЬТРЫ
-========================== */
+================================================== */
 
 function initFilters() {
 
-    const subjectSelect =
+    const subjectFilter =
         document.getElementById(
             "subjectFilter"
         );
 
     allSubjects.forEach(subject => {
 
-        subjectSelect.innerHTML += `
+        subjectFilter.innerHTML += `
 
         <option
             value="${subject.code}"
         >
             ${subject.icon}
-            ${subject.name_ru}
+            ${subject.name_pl}
         </option>
 
         `;
+
     });
 
     document
@@ -237,9 +386,9 @@ function initFilters() {
         );
 }
 
-/* ==========================
-   ПОИСК
-========================== */
+/* ==================================================
+   ПОИСК И ФИЛЬТРАЦИЯ
+================================================== */
 
 function filterLessons() {
 
@@ -252,36 +401,55 @@ function filterLessons() {
             .toLowerCase();
 
     const selectedClass =
-        document.getElementById(
-            "classFilter"
-        ).value;
+        document
+            .getElementById(
+                "classFilter"
+            )
+            .value;
 
     const selectedSubject =
-        document.getElementById(
-            "subjectFilter"
-        ).value;
+        document
+            .getElementById(
+                "subjectFilter"
+            )
+            .value;
 
     const filtered =
         allLessons.filter(
             lesson => {
 
+                const titlePL =
+                    getPL(
+                        lesson.title
+                    ).toLowerCase();
+
+                const titleUA =
+                    getUA(
+                        lesson.title
+                    ).toLowerCase();
+
+                const keywords =
+                    lesson.keywords
+                        ?.join(" ")
+                        .toLowerCase() || "";
+
                 const matchesSearch =
 
-                    lesson.title_pl
-                        .toLowerCase()
-                        .includes(search)
+                    titlePL.includes(search)
 
                     ||
 
-                    lesson.title_ua
-                        .toLowerCase()
-                        .includes(search)
+                    titleUA.includes(search)
 
                     ||
 
                     lesson.id
                         .toLowerCase()
-                        .includes(search);
+                        .includes(search)
+
+                    ||
+
+                    keywords.includes(search);
 
                 const matchesClass =
 
@@ -312,8 +480,8 @@ function filterLessons() {
     renderLessons(filtered);
 }
 
-/* ==========================
+/* ==================================================
    СТАРТ
-========================== */
+================================================== */
 
 loadCatalog();
