@@ -1,6 +1,6 @@
 [
   {
-    "id": "HIS5-UZ-001",
+    "id": "HIS5-PC-001",
     "class": 5,
     "subject": "HIS",
 
@@ -41,11 +41,11 @@
     ],
 
     "status": "PLAN",
-    "url": ""
+    "url": "https://edumost-pl.github.io/HIS5-PC-001/"
   },
 
   {
-    "id": "HIS5-UZ-002",
+    "id": "HIS5-PC-002",
     "class": 5,
     "subject": "HIS",
     "book": {
@@ -86,7 +86,7 @@
   },
 
   {
-    "id": "HIS5-UZ-003",
+    "id": "HIS5-PC-003",
     "class": 5,
     "subject": "HIS",
     "book": {
