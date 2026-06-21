@@ -1,271 +1,377 @@
 [
   {
-    "id": "HIS4-UZ-001",
-    "book": "Dziś i wczoraj",
-    "section": "Z historią na Ty",
-    "title_pl": "Historia – nauka o przeszłości",
-    "title_ua": "Історія — наука про минуле",
-    "status": "PLAN",
-    "repo": "HIS4-UZ-001"
-  },
-  {
-    "id": "HIS4-UZ-002",
-    "book": "Dziś i wczoraj",
-    "section": "Z historią na Ty",
-    "title_pl": "Historia wokół nas",
-    "title_ua": "Історія навколо нас",
-    "status": "PLAN",
-    "repo": "HIS4-UZ-002"
-  },
-  {
-    "id": "HIS4-UZ-003",
-    "book": "Dziś i wczoraj",
-    "section": "Z historią na Ty",
-    "title_pl": "Mieszkamy w Polsce",
-    "title_ua": "Ми живемо в Польщі",
-    "status": "PLAN",
-    "repo": "HIS4-UZ-003"
-  },
-  {
-    "id": "HIS4-UZ-004",
-    "book": "Dziś i wczoraj",
-    "section": "Z historią na Ty",
-    "title_pl": "Czas w historii",
-    "title_ua": "Час в історії",
-    "status": "PLAN",
-    "repo": "HIS4-UZ-004"
-  },
-  {
-    "id": "HIS4-UZ-005",
-    "book": "Dziś i wczoraj",
-    "section": "Z historią na Ty",
-    "title_pl": "Obliczanie czasu w historii",
-    "title_ua": "Обчислення часу в історії",
-    "status": "PLAN",
-    "repo": "HIS4-UZ-005"
-  },
-  {
-    "id": "HIS4-UZ-006",
-    "book": "Dziś i wczoraj",
-    "section": "Z historią na Ty",
-    "title_pl": "Czytamy mapę i plan",
-    "title_ua": "Читаємо карту і план",
-    "status": "PLAN",
-    "repo": "HIS4-UZ-006"
-  },
+"id": "HIS4-UZ-001",
+"class": 4,
+"subject": "HIS",
+"book": { "pl": "Dziś i wczoraj" },
+"chapter": { "pl": "Z historią na Ty", "ua": "" },
+"title": { "pl": "Historia – nauka o przeszłości", "ua": "Історія — наука про минуле" },
+"keywords": [],
+"learningGoals": [],
+"status": "PLAN",
+"url": ""
+},
 
-  {
-    "id": "HIS4-UZ-007",
-    "book": "Dziś i wczoraj",
-    "section": "Od Piastów do Jagiellonów",
+{
+"id": "HIS4-UZ-002",
+"class": 4,
+"subject": "HIS",
+"book": { "pl": "Dziś i wczoraj" },
+"chapter": { "pl": "Z historią na Ty", "ua": "" },
+"title": { "pl": "Historia wokół nas", "ua": "Історія навколо нас" },
+"keywords": [],
+"learningGoals": [],
+"status": "PLAN",
+"url": ""
+},
 
-    "title_pl": "Mieszko I i chrzest Polski",
-    "title_ua": "Мешко I і хрещення Польщі",
+{
+"id": "HIS4-UZ-003",
+"class": 4,
+"subject": "HIS",
+"book": { "pl": "Dziś i wczoraj" },
+"chapter": { "pl": "Z historią na Ty", "ua": "" },
+"title": { "pl": "Mieszkamy w Polsce", "ua": "Ми живемо в Польщі" },
+"keywords": [],
+"learningGoals": [],
+"status": "PLAN",
+"url": ""
+},
 
-    "status": "READY",
+{
+"id": "HIS4-UZ-004",
+"class": 4,
+"subject": "HIS",
+"book": { "pl": "Dziś i wczoraj" },
+"chapter": { "pl": "Z historią na Ty", "ua": "" },
+"title": { "pl": "Czas w historii", "ua": "Час в історії" },
+"keywords": [],
+"learningGoals": [],
+"status": "PLAN",
+"url": ""
+},
 
-    "repo": "HIS4-UZ-007",
+{
+"id": "HIS4-UZ-005",
+"class": 4,
+"subject": "HIS",
+"book": { "pl": "Dziś i wczoraj" },
+"chapter": { "pl": "Z historią na Ty", "ua": "" },
+"title": { "pl": "Obliczanie czasu w historii", "ua": "Обчислення часу в історії" },
+"keywords": [],
+"learningGoals": [],
+"status": "PLAN",
+"url": ""
+},
 
-    "url": "https://edumost-pl.github.io/mieszko_I/"
-  },
-  {
-    "id": "HIS4-UZ-008",
-    "book": "Dziś i wczoraj",
-    "section": "Od Piastów do Jagiellonów",
-    "title_pl": "Bolesław Chrobry – pierwszy król Polski",
-    "title_ua": "Болеслав Хоробрий — перший король Польщі",
-    "status": "PLAN",
-    "repo": "HIS4-UZ-008"
-  },
-  {
-    "id": "HIS4-UZ-009",
-    "book": "Dziś i wczoraj",
-    "section": "Od Piastów do Jagiellonów",
-    "title_pl": "W średniowiecznym klasztorze",
-    "title_ua": "У середньовічному монастирі",
-    "status": "PLAN",
-    "repo": "HIS4-UZ-009"
-  },
-  {
-    "id": "HIS4-UZ-010",
-    "book": "Dziś i wczoraj",
-    "section": "Od Piastów do Jagiellonów",
-    "title_pl": "Polska Kazimierza Wielkiego",
-    "title_ua": "Польща Казимира Великого",
-    "status": "PLAN",
-    "repo": "HIS4-UZ-010"
-  },
-  {
-    "id": "HIS4-UZ-011",
-    "book": "Dziś i wczoraj",
-    "section": "Od Piastów do Jagiellonów",
-    "title_pl": "Rycerze i zamki",
-    "title_ua": "Лицарі та замки",
-    "status": "PLAN",
-    "repo": "HIS4-UZ-011"
-  },
-  {
-    "id": "HIS4-UZ-012",
-    "book": "Dziś i wczoraj",
-    "section": "Od Piastów do Jagiellonów",
-    "title_pl": "Jadwiga i Jagiełło – unia polsko-litewska",
-    "title_ua": "Ядвіга і Ягайло — польсько-литовська унія",
-    "status": "PLAN",
-    "repo": "HIS4-UZ-012"
-  },
-  {
-    "id": "HIS4-UZ-013",
-    "book": "Dziś i wczoraj",
-    "section": "Od Piastów do Jagiellonów",
-    "title_pl": "Zawisza Czarny i bitwa pod Grunwaldem",
-    "title_ua": "Завіша Чорний і Грюнвальдська битва",
-    "status": "PLAN",
-    "repo": "HIS4-UZ-013"
-  },
-  {
-    "id": "HIS4-UZ-014",
-    "book": "Dziś i wczoraj",
-    "section": "Od Piastów do Jagiellonów",
-    "title_pl": "Mikołaj Kopernik – wielki astronom",
-    "title_ua": "Миколай Коперник — великий астроном",
-    "status": "PLAN",
-    "repo": "HIS4-UZ-014"
-  },
+{
+"id": "HIS4-UZ-006",
+"class": 4,
+"subject": "HIS",
+"book": { "pl": "Dziś i wczoraj" },
+"chapter": { "pl": "Z historią na Ty", "ua": "" },
+"title": { "pl": "Czytamy mapę i plan", "ua": "Читаємо карту і план" },
+"keywords": [],
+"learningGoals": [],
+"status": "PLAN",
+"url": ""
+},
 
-  {
-    "id": "HIS4-UZ-015",
-    "book": "Dziś i wczoraj",
-    "section": "Wojny i upadek Rzeczypospolitej",
-    "title_pl": "Jan Zamoyski – druga osoba po królu",
-    "title_ua": "Ян Замойський — друга особа після короля",
-    "status": "PLAN",
-    "repo": "HIS4-UZ-015"
-  },
-  {
-    "id": "HIS4-UZ-016",
-    "book": "Dziś i wczoraj",
-    "section": "Wojny i upadek Rzeczypospolitej",
-    "title_pl": "XVII wiek – stulecie wojen",
-    "title_ua": "XVII століття — століття воєн",
-    "status": "PLAN",
-    "repo": "HIS4-UZ-016"
-  },
-  {
-    "id": "HIS4-UZ-017",
-    "book": "Dziś i wczoraj",
-    "section": "Wojny i upadek Rzeczypospolitej",
-    "title_pl": "Czasy stanisławowskie",
-    "title_ua": "Часи Станіслава Августа",
-    "status": "PLAN",
-    "repo": "HIS4-UZ-017"
-  },
-  {
-    "id": "HIS4-UZ-018",
-    "book": "Dziś i wczoraj",
-    "section": "Wojny i upadek Rzeczypospolitej",
-    "title_pl": "Tadeusz Kościuszko na czele powstania",
-    "title_ua": "Тадеуш Костюшко на чолі повстання",
-    "status": "PLAN",
-    "repo": "HIS4-UZ-018"
-  },
-  {
-    "id": "HIS4-UZ-019",
-    "book": "Dziś i wczoraj",
-    "section": "Wojny i upadek Rzeczypospolitej",
-    "title_pl": "Józef Wybicki i hymn Polski",
-    "title_ua": "Юзеф Вибіцький і гімн Польщі",
-    "status": "PLAN",
-    "repo": "HIS4-UZ-019"
-  },
-  {
-    "id": "HIS4-UZ-020",
-    "book": "Dziś i wczoraj",
-    "section": "Wojny i upadek Rzeczypospolitej",
-    "title_pl": "Romuald Traugutt i powstanie styczniowe",
-    "title_ua": "Ромуальд Траугутт і Січневе повстання",
-    "status": "PLAN",
-    "repo": "HIS4-UZ-020"
-  },
-  {
-    "id": "HIS4-UZ-021",
-    "book": "Dziś i wczoraj",
-    "section": "Wojny i upadek Rzeczypospolitej",
-    "title_pl": "Maria Skłodowska-Curie – polska noblistka",
-    "title_ua": "Марія Склодовська-Кюрі — польська нобелівська лауреатка",
-    "status": "PLAN",
-    "repo": "HIS4-UZ-021"
-  },
-  {
-    "id": "HIS4-UZ-022",
-    "book": "Dziś i wczoraj",
-    "section": "Wojny i upadek Rzeczypospolitej",
-    "title_pl": "Tajemnice sprzed wieków",
-    "title_ua": "Таємниці минулих віків",
-    "status": "PLAN",
-    "repo": "HIS4-UZ-022"
-  },
+{
+"id": "HIS4-UZ-007",
+"class": 4,
+"subject": "HIS",
+"book": { "pl": "Dziś i wczoraj" },
+"chapter": { "pl": "Od Piastów do Jagiellonów", "ua": "" },
+"title": { "pl": "Mieszko I i chrzest Polski", "ua": "Мешко I і хрещення Польщі" },
+"keywords": [],
+"learningGoals": [],
+"status": "READY",
+"url": "https://edumost-pl.github.io/mieszko_I/"
+},
 
-  {
-    "id": "HIS4-UZ-023",
-    "book": "Dziś i wczoraj",
-    "section": "Ku współczesnej Polsce",
-    "title_pl": "Józef Piłsudski i niepodległa Polska",
-    "title_ua": "Юзеф Пілсудський і незалежна Польща",
-    "status": "PLAN",
-    "repo": "HIS4-UZ-023"
-  },
-  {
-    "id": "HIS4-UZ-024",
-    "book": "Dziś i wczoraj",
-    "section": "Ku współczesnej Polsce",
-    "title_pl": "Bitwa Warszawska",
-    "title_ua": "Варшавська битва",
-    "status": "PLAN",
-    "repo": "HIS4-UZ-024"
-  },
-  {
-    "id": "HIS4-UZ-025",
-    "book": "Dziś i wczoraj",
-    "section": "Ku współczesnej Polsce",
-    "title_pl": "Eugeniusz Kwiatkowski i budowa Gdyni",
-    "title_ua": "Євгеніуш Квятковський і будівництво Гдині",
-    "status": "PLAN",
-    "repo": "HIS4-UZ-025"
-  },
-  {
-    "id": "HIS4-UZ-026",
-    "book": "Dziś i wczoraj",
-    "section": "Ku współczesnej Polsce",
-    "title_pl": "Zośka, Alek i Rudy",
-    "title_ua": "Зоська, Алек і Руди",
-    "status": "PLAN",
-    "repo": "HIS4-UZ-026"
-  },
-  {
-    "id": "HIS4-UZ-027",
-    "book": "Dziś i wczoraj",
-    "section": "Ku współczesnej Polsce",
-    "title_pl": "Żołnierze niezłomni",
-    "title_ua": "Незламні солдати",
-    "status": "PLAN",
-    "repo": "HIS4-UZ-027"
-  },
-  {
-    "id": "HIS4-UZ-028",
-    "book": "Dziś i wczoraj",
-    "section": "Ku współczesnej Polsce",
-    "title_pl": "Jan Paweł II – papież pielgrzym",
-    "title_ua": "Іван Павло II — папа-паломник",
-    "status": "PLAN",
-    "repo": "HIS4-UZ-028"
-  },
-  {
-    "id": "HIS4-UZ-029",
-    "book": "Dziś i wczoraj",
-    "section": "Ku współczesnej Polsce",
-    "title_pl": "Solidarność i jej bohaterowie",
-    "title_ua": "Солідарність та її герої",
-    "status": "PLAN",
-    "repo": "HIS4-UZ-029"
-  }
+{
+"id": "HIS4-UZ-008",
+"class": 4,
+"subject": "HIS",
+"book": { "pl": "Dziś i wczoraj" },
+"chapter": { "pl": "Od Piastów do Jagiellonów", "ua": "" },
+"title": { "pl": "Bolesław Chrobry – pierwszy król Polski", "ua": "Болеслав Хоробрий — перший король Польщі" },
+"keywords": [],
+"learningGoals": [],
+"status": "PLAN",
+"url": ""
+},
+
+{
+"id": "HIS4-UZ-009",
+"class": 4,
+"subject": "HIS",
+"book": { "pl": "Dziś i wczoraj" },
+"chapter": { "pl": "Od Piastów do Jagiellonów", "ua": "" },
+"title": { "pl": "W średniowiecznym klasztorze", "ua": "У середньовічному монастирі" },
+"keywords": [],
+"learningGoals": [],
+"status": "PLAN",
+"url": ""
+},
+
+{
+"id": "HIS4-UZ-010",
+"class": 4,
+"subject": "HIS",
+"book": { "pl": "Dziś i wczoraj" },
+"chapter": { "pl": "Od Piastów do Jagiellonów", "ua": "" },
+"title": { "pl": "Polska Kazimierza Wielkiego", "ua": "Польща Казимира Великого" },
+"keywords": [],
+"learningGoals": [],
+"status": "PLAN",
+"url": ""
+},
+{
+"id": "HIS4-UZ-011",
+"class": 4,
+"subject": "HIS",
+"book": { "pl": "Dziś i wczoraj" },
+"chapter": { "pl": "Od Piastów do Jagiellonów", "ua": "" },
+"title": { "pl": "Rycerze i zamki", "ua": "Лицарі та замки" },
+"keywords": [],
+"learningGoals": [],
+"status": "PLAN",
+"url": ""
+},
+
+{
+"id": "HIS4-UZ-012",
+"class": 4,
+"subject": "HIS",
+"book": { "pl": "Dziś i wczoraj" },
+"chapter": { "pl": "Od Piastów do Jagiellonów", "ua": "" },
+"title": { "pl": "Jadwiga i Jagiełło – unia polsko-litewska", "ua": "Ядвіга і Ягайло — польсько-литовська унія" },
+"keywords": [],
+"learningGoals": [],
+"status": "PLAN",
+"url": ""
+},
+
+{
+"id": "HIS4-UZ-013",
+"class": 4,
+"subject": "HIS",
+"book": { "pl": "Dziś i wczoraj" },
+"chapter": { "pl": "Od Piastów do Jagiellonów", "ua": "" },
+"title": { "pl": "Zawisza Czarny i bitwa pod Grunwaldem", "ua": "Завіша Чорний і Грюнвальдська битва" },
+"keywords": [],
+"learningGoals": [],
+"status": "PLAN",
+"url": ""
+},
+
+{
+"id": "HIS4-UZ-014",
+"class": 4,
+"subject": "HIS",
+"book": { "pl": "Dziś i wczoraj" },
+"chapter": { "pl": "Od Piastów do Jagiellonów", "ua": "" },
+"title": { "pl": "Mikołaj Kopernik – wielki astronom", "ua": "Миколай Коперник — великий астроном" },
+"keywords": [],
+"learningGoals": [],
+"status": "PLAN",
+"url": ""
+},
+
+{
+"id": "HIS4-UZ-015",
+"class": 4,
+"subject": "HIS",
+"book": { "pl": "Dziś i wczoraj" },
+"chapter": { "pl": "Wojny i upadek Rzeczypospolitej", "ua": "" },
+"title": { "pl": "Jan Zamoyski – druga osoba po królu", "ua": "Ян Замойський — друга особа після короля" },
+"keywords": [],
+"learningGoals": [],
+"status": "PLAN",
+"url": ""
+},
+
+{
+"id": "HIS4-UZ-016",
+"class": 4,
+"subject": "HIS",
+"book": { "pl": "Dziś i wczoraj" },
+"chapter": { "pl": "Wojny i upadek Rzeczypospolitej", "ua": "" },
+"title": { "pl": "XVII wiek – stulecie wojen", "ua": "XVII століття — століття воєн" },
+"keywords": [],
+"learningGoals": [],
+"status": "PLAN",
+"url": ""
+},
+
+{
+"id": "HIS4-UZ-017",
+"class": 4,
+"subject": "HIS",
+"book": { "pl": "Dziś i wczoraj" },
+"chapter": { "pl": "Wojny i upadek Rzeczypospolitej", "ua": "" },
+"title": { "pl": "Czasy stanisławowskie", "ua": "Часи Станіслава Августа" },
+"keywords": [],
+"learningGoals": [],
+"status": "PLAN",
+"url": ""
+},
+
+{
+"id": "HIS4-UZ-018",
+"class": 4,
+"subject": "HIS",
+"book": { "pl": "Dziś i wczoraj" },
+"chapter": { "pl": "Wojny i upadek Rzeczypospolitej", "ua": "" },
+"title": { "pl": "Tadeusz Kościuszko na czele powstania", "ua": "Тадеуш Костюшко на чолі повстання" },
+"keywords": [],
+"learningGoals": [],
+"status": "PLAN",
+"url": ""
+},
+
+{
+"id": "HIS4-UZ-019",
+"class": 4,
+"subject": "HIS",
+"book": { "pl": "Dziś i wczoraj" },
+"chapter": { "pl": "Wojny i upadek Rzeczypospolitej", "ua": "" },
+"title": { "pl": "Józef Wybicki i hymn Polski", "ua": "Юзеф Вибіцький і гімн Польщі" },
+"keywords": [],
+"learningGoals": [],
+"status": "PLAN",
+"url": ""
+},
+
+{
+"id": "HIS4-UZ-020",
+"class": 4,
+"subject": "HIS",
+"book": { "pl": "Dziś i wczoraj" },
+"chapter": { "pl": "Wojny i upadek Rzeczypospolitej", "ua": "" },
+"title": { "pl": "Romuald Traugutt i powstanie styczniowe", "ua": "Ромуальд Траугутт і Січневе повстання" },
+"keywords": [],
+"learningGoals": [],
+"status": "PLAN",
+"url": ""
+},
+{
+"id": "HIS4-UZ-021",
+"class": 4,
+"subject": "HIS",
+"book": { "pl": "Dziś i wczoraj" },
+"chapter": { "pl": "Wojny i upadek Rzeczypospolitej", "ua": "" },
+"title": { "pl": "Maria Skłodowska-Curie – polska noblistka", "ua": "Марія Склодовська-Кюрі — польська нобелівська лауреатка" },
+"keywords": [],
+"learningGoals": [],
+"status": "PLAN",
+"url": ""
+},
+
+{
+"id": "HIS4-UZ-022",
+"class": 4,
+"subject": "HIS",
+"book": { "pl": "Dziś i wczoraj" },
+"chapter": { "pl": "Wojny i upadek Rzeczypospolitej", "ua": "" },
+"title": { "pl": "Tajemnice sprzed wieków", "ua": "Таємниці минулих віків" },
+"keywords": [],
+"learningGoals": [],
+"status": "PLAN",
+"url": ""
+},
+
+{
+"id": "HIS4-UZ-023",
+"class": 4,
+"subject": "HIS",
+"book": { "pl": "Dziś i wczoraj" },
+"chapter": { "pl": "Ku współczesnej Polsce", "ua": "" },
+"title": { "pl": "Józef Piłsudski i niepodległa Polska", "ua": "Юзеф Пілсудський і незалежна Польща" },
+"keywords": [],
+"learningGoals": [],
+"status": "PLAN",
+"url": ""
+},
+
+{
+"id": "HIS4-UZ-024",
+"class": 4,
+"subject": "HIS",
+"book": { "pl": "Dziś i wczoraj" },
+"chapter": { "pl": "Ku współczesnej Polsce", "ua": "" },
+"title": { "pl": "Bitwa Warszawska", "ua": "Варшавська битва" },
+"keywords": [],
+"learningGoals": [],
+"status": "PLAN",
+"url": ""
+},
+
+{
+"id": "HIS4-UZ-025",
+"class": 4,
+"subject": "HIS",
+"book": { "pl": "Dziś i wczoraj" },
+"chapter": { "pl": "Ku współczesnej Polsce", "ua": "" },
+"title": { "pl": "Eugeniusz Kwiatkowski i budowa Gdyni", "ua": "Євгеніуш Квятковський і будівництво Гдині" },
+"keywords": [],
+"learningGoals": [],
+"status": "PLAN",
+"url": ""
+},
+
+{
+"id": "HIS4-UZ-026",
+"class": 4,
+"subject": "HIS",
+"book": { "pl": "Dziś i wczoraj" },
+"chapter": { "pl": "Ku współczesnej Polsce", "ua": "" },
+"title": { "pl": "Zośka, Alek i Rudy", "ua": "Зоська, Алек і Руди" },
+"keywords": [],
+"learningGoals": [],
+"status": "PLAN",
+"url": ""
+},
+
+{
+"id": "HIS4-UZ-027",
+"class": 4,
+"subject": "HIS",
+"book": { "pl": "Dziś i wczoraj" },
+"chapter": { "pl": "Ku współczesnej Polsce", "ua": "" },
+"title": { "pl": "Żołnierze niezłomni", "ua": "Незламні солдати" },
+"keywords": [],
+"learningGoals": [],
+"status": "PLAN",
+"url": ""
+},
+
+{
+"id": "HIS4-UZ-028",
+"class": 4,
+"subject": "HIS",
+"book": { "pl": "Dziś i wczoraj" },
+"chapter": { "pl": "Ku współczesnej Polsce", "ua": "" },
+"title": { "pl": "Jan Paweł II – papież pielgrzym", "ua": "Іван Павло II — папа-паломник" },
+"keywords": [],
+"learningGoals": [],
+"status": "PLAN",
+"url": ""
+},
+
+{
+"id": "HIS4-UZ-029",
+"class": 4,
+"subject": "HIS",
+"book": { "pl": "Dziś i wczoraj" },
+"chapter": { "pl": "Ku współczesnej Polsce", "ua": "" },
+"title": { "pl": "Solidarność i jej bohaterowie", "ua": "Солідарність та її герої" },
+"keywords": [],
+"learningGoals": [],
+"status": "PLAN",
+"url": ""
+}
+
 ]

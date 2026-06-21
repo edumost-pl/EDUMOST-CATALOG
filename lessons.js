@@ -1,71 +1,40 @@
-const params = new URLSearchParams(window.location.search);
-
-const classNumber = params.get("class");
-const subjectCode = params.get("subject");
-
 /* ==========================================
-ВСПОМОГАТЕЛЬНЫЕ ФУНКЦИИ
+lessons.js
+Единый формат JSON для EduMost
 ========================================== */
 
-function getBook(lesson) {
-if (!lesson.book) return "";
+const params = new URLSearchParams(
+window.location.search
+);
 
+const classNumber =
+params.get("class");
 
-return typeof lesson.book === "object"
-    ? lesson.book.pl || ""
-    : lesson.book;
-
-}
-
-function getSection(lesson) {
-if (lesson.chapter?.pl) {
-    return lesson.chapter.pl;
-}
-
-if (
-    lesson.section &&
-    typeof lesson.section === "object"
-) {
-    return lesson.section.tema || "";
-}
-
-return lesson.section || "";
-
-}
-
-function getTitlePL(lesson) {
-if (lesson.title?.pl) {
-    return lesson.title.pl;
-}
-
-return lesson.title_pl || "";
-
-}
-
-function getTitleUA(lesson) {
-if (lesson.title?.ua) {
-    return lesson.title.ua;
-}
-
-return lesson.title_ua || "";
-
-}
+const subjectCode =
+params.get("subject");
 
 /* ==========================================
 ЗАГРУЗКА ДАННЫХ
 ========================================== */
 
 Promise.all([
+
 fetch("./data/subjects.json")
-    .then(response => response.json()),
+    .then(response =>
+        response.json()
+    ),
 
 fetch(
     `./data/${classNumber}/${subjectCode}.json`
-).then(response => response.json())
+)
+    .then(response =>
+        response.json()
+    )
 
 ])
 
 .then(([subjects, lessons]) => {
+
 const subject =
     subjects.find(
         s => s.code === subjectCode
@@ -86,13 +55,20 @@ if (subject) {
 
 if (lessons.length > 0) {
 
-    const firstLesson = lessons[0];
+    const firstLesson =
+        lessons[0];
 
-    document.getElementById("bookPl").textContent =
-        "📖 " + (firstLesson.book?.pl || "");
+    document.getElementById(
+        "bookPl"
+    ).textContent =
+        "📖 " +
+        (
+            firstLesson.book?.pl || ""
+        );
 
-    document.getElementById("bookUa").textContent =
-        "📖 " + (firstLesson.book?.ua || "");
+    document.getElementById(
+        "bookUa"
+    ).textContent = "";
 }
 
 document.getElementById(
@@ -110,6 +86,7 @@ renderLessons(lessons);
 })
 
 .catch(error => {
+
 console.error(
     "Ошибка загрузки:",
     error
@@ -121,14 +98,19 @@ console.error(
 ОТРИСОВКА УРОКОВ
 ========================================== */
 
-function renderLessons(lessons) {
+function renderLessons(
+lessons
+) {
 
-    const tbody =
-        document.getElementById("lessonsBody");
+const tbody =
+    document.getElementById(
+        "lessonsBody"
+    );
 
-    tbody.innerHTML = "";
+tbody.innerHTML = "";
 
-    lessons.forEach(lesson => {
+lessons.forEach(
+    lesson => {
 
         const chapterPl =
             lesson.chapter?.pl || "";
@@ -143,15 +125,17 @@ function renderLessons(lessons) {
             lesson.title?.ua || "";
 
         const keywords =
-            lesson.keywords?.join(", ") || "";
+            lesson.keywords?.join(", ")
+            || "";
 
         const learningGoals =
 
             lesson.learningGoals?.length
 
                 ? lesson.learningGoals
-                    .map(goal =>
-                        `• ${goal.ua}`
+                    .map(
+                        goal =>
+                            `• ${goal.ua}`
                     )
                     .join("<br>")
 
@@ -204,9 +188,18 @@ function renderLessons(lessons) {
             <td>
 
                 <span
-                    class="status status-${lesson.status || "PLAN"}"
+                    class="
+                    status
+                    status-${
+                        lesson.status ||
+                        "PLAN"
+                    }
+                    "
                 >
-                    ${lesson.status || "PLAN"}
+                    ${
+                        lesson.status ||
+                        "PLAN"
+                    }
                 </span>
 
             </td>
@@ -239,6 +232,7 @@ function renderLessons(lessons) {
 
         `;
 
-    });
+    }
+);
 
 }

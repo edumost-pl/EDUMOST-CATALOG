@@ -301,15 +301,10 @@ footer {
 .lessons-table {
 
     width: 100%;
-
     border-collapse: collapse;
-
     background: white;
-
     border-radius: 20px;
-
     overflow: hidden;
-
     box-shadow:
         0 8px 20px rgba(0,0,0,.08);
 }
@@ -317,35 +312,27 @@ footer {
 .lessons-table th {
 
     background: #4A90E2;
-
     color: white;
-
     padding: 16px;
-
     text-align: left;
 }
 
 .lessons-table td {
 
-    padding: 16px;
-
+    padding: 14px;
     border-bottom:
         1px solid #eee;
 }
 
 .lessons-table tr:hover {
-
     background: #f8faff;
 }
 
 .status {
 
     padding: 6px 12px;
-
     border-radius: 20px;
-
     font-size: 13px;
-
     font-weight: bold;
 }
 
